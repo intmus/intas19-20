@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Introduction to Aural Skills
-abc: true
 ---
 
 # Purpose and Philosophy of Aural Skills

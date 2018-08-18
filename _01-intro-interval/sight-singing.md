@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Simple Meters and Finding "Do"
-abc: true
 ---
 
 # Preparation for Unit 2 Sight Singing

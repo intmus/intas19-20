@@ -1,7 +1,6 @@
 ---
 layout: forum
 title: Unit 1 Assignment and Forum
-abc: true
 ---
 
 Please purchase your EarMaster voucher from the campus bookstore and bring it to your instructor so that you can be added to the system. Remember, this assignment is due Friday, August 31, 2018.
