@@ -22,7 +22,7 @@ baseurl: /intas18-19
 # each unit of the book is a collection
 # each unit collection should be given a name value
 collections:
-  01-welcome:
+  00-welcome:
     output: true
     name: Welcome
   01-intro-interval:
