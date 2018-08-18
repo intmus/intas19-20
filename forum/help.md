@@ -1,10 +1,10 @@
 ---
 layout: page
-title: IBMT Forum Help
+title: Aural Skills Forum Help
 ---
 
-The [IBMT forum]({{ site.baseurl }}/forum/index.html) is added to this site using the [Disqus](https://disqus.com/) community platform service.
-This is a public forum intended to help students learn, communicate, and collaborate around IBMT.
+The [Aural Skills forum]({{ site.baseurl }}/forum/index.html) is added to this site using the [Disqus](https://disqus.com/) community platform service.
+This is a public forum intended to help students learn, communicate, and collaborate around Integrated Musicianship.
 
 Get started by logging into [Disqus](https://disqus.com/) using a Facebook, Twitter, Google, or Disqus account. 
 In this setting, it is often better to use a professional account to keep your academic discussion separate from your personal social media.
@@ -16,7 +16,7 @@ Try checking your [Disqus account settings](https://disqus.com/home/settings/ema
 
 ## Comment Policy and Community Guidelines
 
-The IBMT forum is maintained to help students learn and communicate.
+The Integrated Musicianship forum is maintained to help students learn and communicate.
 Please make an effort to keep this a positive, constructive community that adds value to the course. 
 
 Be civil:

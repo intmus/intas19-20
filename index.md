@@ -4,13 +4,14 @@ title: "Integrated Musicianship: Aural Skills"
 ---
 
 *Integrated Musicianship: Aural Skills* is an [open-source]({{ site.github-repo }}), interactive, online textbook for college-level music theory courses written by Miranda Wilson.
+A companion text [*Integrated Musicianship: Theory*](https://intmus.github.io/inttheory18-19/) provides a parallel music theory course.
 It was developed with support of the [Think Open Fellowship](https://open.lib.uidaho.edu/) and Evan Williamson from the University of Idaho Library. 
 
 <ul class="index-buttons">
 <li><a href="{{ "/about.html" | absolute_url }}">About</a></li>
 <li><a href="{{ "/toc.html" | absolute_url }}">Table of contents</a></li>
 <li><a href="{{ "/forum/index.html" | absolute_url }}">Assignments &amp; Forum</a></li>
-<li><a href="{{ "/abc-playground.html" | absolute_url }}">ABC Playground</a></li>
+<li><a href="https://intmus.github.io/inttheory18-19/">IntMus: Theory</a></li>
 </ul>
 
 The textbook is designed to maximize flexibility and support an inquiry-based model of instruction. 
