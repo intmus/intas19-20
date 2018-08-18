@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Inquiry-Based Music Theory
+title: "About Integrated Music Theory: Aural Skills"
 ---
 
 ## Course structure and textbook layout
