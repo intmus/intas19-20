@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Integrated Music Theory: Aural Skills"
+title: "Integrated Musicianship: Aural Skills"
 ---
 
-*Integrated Music Theory: Aural Skills* is an [open-source]({{ site.github-repo }}), interactive, online textbook for college-level music theory courses written by Miranda Wilson.
+*Integrated Musicianship: Aural Skills* is an [open-source]({{ site.github-repo }}), interactive, online textbook for college-level music theory courses written by Miranda Wilson.
 It was developed with support of the [Think Open Fellowship](https://open.lib.uidaho.edu/) and Evan Williamson from the University of Idaho Library. 
 
 <ul class="index-buttons">
@@ -18,7 +18,7 @@ For a simple explanation of this model as well as how to best utilize this textb
 
 If you are already familiar with the inquiry-based model, you can begin exploring the textbook using the side bar navigation or by browsing the [Table of contents]({{ site.baseurl }}/toc.html).
 
-Integrated Music Theory makes use of [abcjs](https://github.com/paulrosen/abcjs) to present interactive musical examples throughout the text. 
+Integrated Musicianship makes use of [abcjs](https://github.com/paulrosen/abcjs) to present interactive musical examples throughout the text. 
 Checkout the [ABC Tutorial]({{ site.baseurl }}/abc-tutorial.html) to get started with ABC Notation. *Note: the full functionality of abcjs works best on up-to-date Chrome or Firefox browsers.*
 
 <hr>

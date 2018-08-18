@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Integrated Music Theory: Aural Skills"
+title: "About IIntegrated Musicianship: Aural Skills"
 ---
 
 ## Course structure and textbook layout
