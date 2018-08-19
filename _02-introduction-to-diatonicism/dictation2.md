@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Triads in Review
+title: Ear Training - Triads in Review
 abc: true
 ---
 

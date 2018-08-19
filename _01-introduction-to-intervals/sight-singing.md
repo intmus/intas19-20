@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Simple Meters and Finding "Do"
+title: Sight Singing - Simple Meters and Finding "Do"
 ---
 
 # Preparation for Unit 2 Sight Singing
@@ -9,7 +9,7 @@ This week's sight singing will focus on singing intervals using moveable-*do* so
 
 ## Warm-Up: Find *Do* Exercise
 
-{% include download.html title="Warmup Find Do Exercise" filename="Week2AND3WarmupFindDoExercise.pdf" %}
+{% include download.html title="Warmup Find Do Exercise" filename="C:\Users\mirandaw\Desktop\intas18-19\images\Week2WarmUpFindDoExercise.pdf" %}
 
 Please print the warm-up and bring it to your audit. **If you do not bring a print-out of the warm-up to your audit, you will lose 50% of the grade for your audit.**
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: What Is Diatonicism?
+title: Ear Training - What Is Diatonicism?
 abc: true
 ---
 

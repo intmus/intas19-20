@@ -1,7 +1,8 @@
 ---
 layout: chapter
-title: How Intervals Work - Solfege and Context
+title: Ear Training - How Intervals Work
 ---
+# Contextual Solfege
 
 Intervals are the fundamental building blocks of melody and harmony. In this class, we will learn to identify and notate intervals outside of melodic and harmonic context. Many learners initially find this challenging. The learning process becomes much easier if we can invent an imaginary context based on the commonest melodic and harmonic uses of intervals. For example, it is easy to identify an ascending major sixth if we are able instantly to imagine it in a context such as the first two pitches of the folk song “My Bonnie Lies Over the Ocean.”
 

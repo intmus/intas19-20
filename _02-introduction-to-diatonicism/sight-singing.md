@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Simple Meters and Finding "Do"
+title: Sight Singing - Simple Meters and Finding "Do"
 abc: true
 ---
 
