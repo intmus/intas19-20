@@ -9,6 +9,8 @@ This week's sight singing will focus on singing intervals using moveable-*do* so
 
 ## Warm-Up: Find *Do* Exercise
 
+{% include download.html title="Warm-Up: Find Do Exercise" filename="Week2WarmupFindDoExercise.pdf" %}
+
 Please print the warm-up and bring it to your audit. **If you do not bring a print-out of the warm-up to your audit, you will lose 50% of the grade for your audit.**
 
 ## Rogers/Ottman Exercises
