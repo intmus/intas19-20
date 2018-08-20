@@ -6,8 +6,7 @@
 
   <nav class="sidebar-nav">
     <div class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"><a href="https://intmus.github.io/">IntMus:</a> <a class="active-page" href="{{ '/' | absolute_url }}">Aural Skills</a> | <a href="https://intmus.github.io/inttheory18-19/">Theory</a></div>
-    <a class="sidebar-nav-item{% if page.url == "/forum/index.html" %} active{% endif %}" href="{{ site.baseurl }}/forum/index.html">Assignments &amp; Forum</a>
-    <a class="sidebar-nav-item{% if page.url == "/toc.html" %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
+    <a class="sidebar-nav-item{% if page.url == '/toc.html' %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
 
     {% for chapter in site.collections %}
     {% if chapter.label != 'posts' %}
@@ -21,10 +20,11 @@
     {% endif %}
     {% endfor %}
     
-    <a class="sidebar-nav-item{% if page.url == "/about.html" %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
-    <a class="sidebar-nav-item{% if page.url == "/search/" %} active{% endif %}" href="{{ site.baseurl }}/search/index.html">Search</a>
-    <a class="sidebar-nav-item{% if page.url == "/abc-tutorial.html" %} active{% endif %}" href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a>
-    <a class="sidebar-nav-item{% if page.url == "/abc-playground.html" %} active{% endif %}" href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a>
+    <a class="sidebar-nav-item{% if page.url == '/about.html' %} active{% endif %}" href="{{ '/about.html' | relative_url }}">About</a>
+    <a class="sidebar-nav-item{% if page.url == '/forum/index.html' %} active{% endif %}" href="{{ '/forum/index.html' | relative_url }}">Forums</a>
+    <a class="sidebar-nav-item{% if page.url == '/search/' %} active{% endif %}" href="{{ '/search/index.html' | relative_url }}">Search</a>
+    <!--<a class="sidebar-nav-item{% if page.url == '/abc-tutorial.html' %} active{% endif %}" href="{{ '/abc-tutorial.html' | relative_url }}">ABC Tutorial</a>
+    <a class="sidebar-nav-item{% if page.url == '/abc-playground.html' %} active{% endif %}" href="{{ '/abc-playground.html' | relative_url }}">ABC Playground</a>-->
     <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a>
   </nav>
 
