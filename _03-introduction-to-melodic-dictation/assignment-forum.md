@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Unit 3 Assignment and Forum
+title: Unit 3 Assignment
 abc: true
 comments: true
 ---

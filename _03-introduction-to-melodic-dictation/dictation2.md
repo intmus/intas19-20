@@ -4,7 +4,7 @@ title: Ear Training - Introduction to Melodic Dictation
 abc: true
 ---
 
-#Introduction to Melodic Dictation
+# Introduction to Melodic Dictation
 
 Melodic dictation can seem daunting at first, but it’s not as hard as it looks. Remember that the examples we will study in this class are both *repetitive* and *predictable*. This is not a bad thing. If you know what to expect, you can make educated guesses even if you aren't sure of the answer.
 
@@ -37,6 +37,6 @@ Most common nursery rhymes and other famous songs do all the repetitive, predict
 In your own practice, think of some other well-known songs that fall into predictable melodic patterns: nursery rhymes, folk songs, and so on. Try to write down a song you know well from memory. Then analyze it according to the principles we studied today. Look for tones from the tonic and dominant triads, and for repetitive melodic patterns.
 
 Some suggestions:
-“Itsy Bitsy Spider”
-“Old McDonald Had a Farm”
-“I Saw Three Ships”
+- “Itsy Bitsy Spider”
+- “Old McDonald Had a Farm”
+- “I Saw Three Ships”

@@ -18,6 +18,6 @@ Intervals are some of the fundamental elements of melody and harmony. They have 
 
 **4.18**, 4.19-23, 4.30, 4.35, **4.46**, 4.50-53, 4.69-4.73, 4.82, 4.84, **4.86** 
 
-The theme of this chapter is compound meter, so make sure you know the difference between compound and simple meter. Almost all of the pieces in compound meter that we will study will be conducted in the BIG beat. For example, conduct 6/8 in 2 (not in 6) and 9/4 in 3 (not in 9).
+The theme of this chapter is compound meter, so make sure to review the difference between compound and simple meter. Almost all of the pieces in compound meter that we will study will be conducted in the BIG beat. For example, conduct 6/8 in 2 (not in 6) and 9/4 in 3 (not in 9).
 
 A good musician always thinks on at least two rhythmic levels simultaneously, and this is especially true in compound meter. For instance, in Rogers/Ottman 4.18, conduct in 4, but feel every eighth note subdivision.
