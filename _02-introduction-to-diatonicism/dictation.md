@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Ear Training - What Is Diatonicism?
-abc: true
 ---
 
 ## Q. What Is Diatonicism?
@@ -45,7 +44,7 @@ Diatonic melodic phrases, especially those from the Classical era, typically fal
 
 Diatonic melodies use predictable cadence patterns (i.e. there may be an implied perfect cadence at the end).
 
-Diatonic melodies are often repeat “ideas,” sometimes exactly and sometimes with different tones.
+Diatonic melodies are often repeat "ideas," sometimes exactly and sometimes with different tones.
 
 ## Harmony
 
@@ -57,5 +56,5 @@ One of the main themes in this class will be the fact that melody and harmony mo
 
 ### Further reading
 
-For more information on Mozartean style, see Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven by William S. Caplin (Oxford University Press, 2000). This book is available in the library.
+For more information on Mozartean style, see Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven by William S. Caplin (Oxford University Press, 2000). This book is available in the library in [print](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71171686160001451&context=L&vid=UID&search_scope=everything&tab=everything&lang=en_US) or [ebook](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_pq_ebook_centralEBC271183&context=PC&vid=UID&search_scope=everything&tab=everything&lang=en_US).
 

@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Ear Training - Triads in Review
-abc: true
 ---
 
 ## Triads - Review of the Principles

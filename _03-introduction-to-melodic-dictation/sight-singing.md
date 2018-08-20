@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Sight Singing - Intervals in Context
-abc: true
 ---
 
 ## Preparation for Unit 4 Sight Singing

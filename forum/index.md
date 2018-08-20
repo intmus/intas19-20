@@ -16,13 +16,12 @@ For information about getting started with [Disqus](https://disqus.com/) and our
 
 ## Homework assignments:
 
-{% for item in site.assignments %}
-- {{ item.due }}: [{{ item.title }}]({{ item.url | absolute_url }}) ([0 Comments]({{ item.url | absolute_url }}#disqus_thread)){% endfor %}
+{% for item in site.documents %}{% if item.comments == true %}
+- [{{ item.title }}]({{ item.url | absolute_url }}) ([0 Comments]({{ item.url | absolute_url }}#disqus_thread)){% endif %}{% endfor %}
 
 ## General discussions:
 
 - [General Concepts]({{ "/forum/concepts.html" | absolute_url }}) ([0 Comments]({{ "/forum/concepts.html#disqus_thread" | absolute_url }}))
 - [Typos and Website Suggestions]({{ "/forum/suggestions.html" | absolute_url }}) ([0 Comments]({{ "/forum/suggestions.html#disqus_thread" | absolute_url }}))
-- [Fall 2017 Homework Help]({{ "/forum/homework.html" | absolute_url }}) ([0 Comments]({{ "/forum/homework.html#disqus_thread" | absolute_url }}))
 
 <script id="dsq-count-scr" src="//intmus.disqus.com/count.js" async></script>

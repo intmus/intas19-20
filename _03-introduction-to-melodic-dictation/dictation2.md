@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Ear Training - Introduction to Melodic Dictation
-abc: true
 ---
 
 # Introduction to Melodic Dictation

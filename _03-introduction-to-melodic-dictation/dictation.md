@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Ear Training - How Rhythmic Dictation Works
-abc: true
 ---
 
 ## Introduction to Rhythmic Dictation
