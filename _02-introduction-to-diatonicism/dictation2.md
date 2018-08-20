@@ -9,9 +9,9 @@ title: Ear Training - Triads in Review
 
 - The **minor triad** is composed of a stacked minor third plus major third. It also occurs within the diatonic scale. In minor keys, it appears most commonly as chord i (*do-me-sol*). In major keys, it appears commonly as chord ii (*re-fa-la*)and as chord vi (*la-do-mi*).
 
-The **diminished triad** is composed of two stacked minor thirds. It functions as chord vii0 in both major and minor keys, as well as chord ii0 in minor keys. In this class, we will *always* spell this chord *ti-re-fa* when we are singing it outside of a melodic or harmonic context. **Please don’t attempt to spell or sing the diminished triad *do-me-se.* Not all chords relate to *do*, and this spelling has no context in diatonic music.**
+- The **diminished triad** is composed of two stacked minor thirds. It functions as chord vii0 in both major and minor keys, as well as chord ii0 in minor keys. In this class, we will *always* spell this chord *ti-re-fa* when we are singing it outside of a melodic or harmonic context. **Please don’t attempt to spell or sing the diminished triad *do-me-se.* Not all chords relate to *do*, and this spelling has no context in diatonic music.**
 
-The **augmented triad** is composed of two stacked major thirds. It is relatively rare in diatonic harmony. It doesn’t naturally occur within the tones of the diatonic scale, and sounds very chromatic. For this reason, many learners find it hard to sing. When it does occur, it is usually spelled *sol-ti-ri* and appears as a chromatic variant of the dominant (*sol-ti-re*).
+- The **augmented triad** is composed of two stacked major thirds. It is relatively rare in diatonic harmony. It doesn’t naturally occur within the tones of the diatonic scale, and sounds very chromatic. For this reason, many learners find it hard to sing. When it does occur, it is usually spelled *sol-ti-ri* and appears as a chromatic variant of the dominant (*sol-ti-re*).
 
 ## Identifying Triads in Inversions
 

@@ -9,7 +9,9 @@ This week's sight singing will focus on singing intervals using moveable-*do* so
 
 ## Warm-Up: Find *Do* Exercise
 
-{% include download.html title="Warmup Find Do Exercise" filename="Week2WarmUpFindDoExercise.pdf" %}
+{% include download.html title="Find Do Exercise" filename="Week2AND3WarmupFindDoExercise.pdf" %}
+
+![Find Do Exercise]({{ '/images/Week2AND3WarmupFindDoExercise.jpg' | relative_url }})
 
 Please print the warm-up and bring it to your audit. **If you do not bring a print-out of the warm-up to your audit, you will lose 50% of the grade for your audit.**
 
@@ -22,15 +24,16 @@ You will be asked to perform the examples **in bold** first. Your professor will
 
 ## How to Prepare the Material
 
-Chapter 1
+### Chapter 1
 
-Be sure to read the introductory material at the beginning of chapter, especially the section on Conductor's Beats on page 2. The point of this chapter is that any note value, not just a quarter note, can be a beat. When the bottom value of a time signature is 2, conduct a half-note beat. (Therefore, conduct 1.55 in 3, not in 6.)
+Be sure to read the introductory material at the beginning of chapter, especially the section on **how to conduct** on page 2. One of the chief aims in this chapter is to reinforce the principle that any note value, not just a quarter note, can be a beat -- the beat note depends on the time signature in question. For example, when the denominator of a time signature is 2, conduct a half-note beat. (Therefore, conduct 1.55 in 3 half notes, not in 6 quarter notes.)
 
-Chant the rhythms, using the syllable "tah."
+Q. How do I perform the rhythms?
+A. Use a strong, neutral syllable such as "Tah."
 
 Duets: Please prepare both parts. Practice them with a partner so that you are not surprised by the sound of both parts together when you perform them together with the professor in your audit.
 
-Chapter 2
+### Chapter 2
 
 The material in this chapter builds upon that in Chapter 1. It may help to practice each exercise first as a rhythmic study, and then add the pitches. 
 
