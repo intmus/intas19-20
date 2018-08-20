@@ -10,6 +10,8 @@ This week's sight singing will continue to focus on singing intervals using move
 
 ## Warm-Up: Find *Do* Exercise
 
+![Find Do Exercise]({{ '/images/Week2AND3WarmupFindDoExercise.jpg' | relative_url }})
+
 Please print the warm-up and bring it to your audit. **If you do not bring a print-out of the warm-up to your audit, you will lose 50% of the grade for your audit.**
 
 ## Rogers/Ottman Exercises
