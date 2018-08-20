@@ -31,6 +31,9 @@ collections:
   02-introduction-to-diatonicism:
     output: true
     name: Introduction to Diatonicism
+  03-introduction-to-melodic-dictation:
+    output: true
+    name: Introduction to Melodic Dictation
 
 # ignore stuff
 exclude: [docs]
