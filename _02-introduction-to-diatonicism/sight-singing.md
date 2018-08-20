@@ -9,7 +9,7 @@ This week's sight singing will continue to focus on singing intervals using move
 
 ## Warm-Up: Find *Do* Exercise
 
-{% include download.html title="Link name" filename="Week2AND3WarmupFindDoExercise.pdf" %}
+{% include download.html title="Find Do Exercise" filename="Week2AND3WarmupFindDoExercise.pdf" %}
 
 ![Find Do Exercise]({{ '/images/Week2AND3WarmupFindDoExercise.jpg' | relative_url }})
 
