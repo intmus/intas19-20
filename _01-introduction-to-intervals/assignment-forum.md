@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Unit 1 Assignment
+title: Unit 1 Assignment and Forum
 comments: true
 ---
 

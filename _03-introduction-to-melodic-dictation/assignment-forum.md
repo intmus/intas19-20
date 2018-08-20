@@ -1,11 +1,7 @@
 ---
 layout: chapter
-<<<<<<< HEAD
 title: Unit 3 Assignment and Forum
 abc: true
-=======
-title: Unit 3 Assignment
->>>>>>> c7c79776334bcff7814a6bcda914b647184aea13
 comments: true
 ---
 
