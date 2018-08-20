@@ -25,12 +25,12 @@ collections:
   00-welcome:
     output: true
     name: Welcome
-  01-intro-interval:
+  01-introduction-to-intervals:
     output: true
-    name: Intro Interval
-  02-intro-diatonicism:
+    name: Introduction to Intervals
+  02-introduction-to-diatonicism:
     output: true
-    name: Intro Diatonicism
+    name: Introduction to Diatonicism
 
 # ignore stuff
 exclude: [docs]
