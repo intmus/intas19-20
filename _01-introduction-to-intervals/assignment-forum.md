@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Unit 1 Assignment and Forum
+title: Unit 1 Assignment
 comments: true
 ---
 
@@ -10,4 +10,4 @@ Print out your sight singing warmup and prepare it, and the Rogers-Ottman assign
 
 Other things to do: please ensure you are registered for the correct section of this class. Please also bring your schedule to class on Thursday, August 23, to schedule your audit time.
 
-Questions? Please ask them in the forum below.
+Questions? Please ask them.

@@ -4,7 +4,7 @@ title: Ear Training - What Is Diatonicism?
 abc: true
 ---
 
-# Q. What Is Diatonicism?
+## Q. What Is Diatonicism?
 
 The materials we will learn about in Aural Skills III - intervals, scales, chords, rhythm, melody, and harmony - will come from Western **diatonic** melody and harmony. 
 

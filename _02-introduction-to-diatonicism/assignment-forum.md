@@ -19,4 +19,4 @@ Next week: The warm-up for the Week 3 sight singing audit is the same as for Wee
 
 Listen to the examples discussed this week at the playlist “UI Aural Skills III - Diatonic Style” by user “mirandawilson”
 
-Questions? Please ask them in the forum below.
+Questions? Please ask them.

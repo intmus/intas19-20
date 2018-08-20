@@ -4,7 +4,7 @@ title: Ear Training - Triads in Review
 abc: true
 ---
 
-# Triads - Review of the Principles
+## Triads - Review of the Principles
 
 - The **major triad** is composed of a stacked major third plus minor third. The two commonest ways it appears in diatonic harmony are as chord I in a major key (*do-mi-sol*), and chord V (*sol-ti-re*) in major AND minor keys. It's also very common for it to appear as chord IV in major keys (*fa-la-do*).
 
