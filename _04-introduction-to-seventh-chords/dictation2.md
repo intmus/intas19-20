@@ -15,9 +15,9 @@ When seventh chords appear in root position, we identify them with the figured b
 
 Chord   |   dd 6/5   |   dm 6/5   |   mm 6/5   |   Mm 6/5   |   MM 6/5   
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   
-Triad + Interval   |   diminished triad + augmented 2nd   |   minor triad + major 2nd   |   major triad + major 2nd   |   diminished triad + major 2nd   |   minor triad + minor 2nd   
-Common Harmonic Function   |   vii0 6/5 in minor keys   |   iiø 6/5 in minor keys OR viiø 6/5 in major keys   |   ii 6/5 OR vi 6/5 in major keys   |   V7 in major AND minor keys   |   rare in classical music, but can be I 6/5 in major keys in jazz   
-Solfege   |   re fa le ti   |   fa le do re OR re fa la ti   |   fa la do re OR do mi sol la   |   ti re fa sol   |   mi sol ti do   
+**Triad + Interval**   |   diminished triad + augmented 2nd   |   minor triad + major 2nd   |   major triad + major 2nd   |   diminished triad + major 2nd   |   minor triad + minor 2nd   
+**Common Harmonic Function**   |   vii0 6/5 in minor keys   |   iiø 6/5 in minor keys OR viiø 6/5 in major keys   |   ii 6/5 OR vi 6/5 in major keys   |   V7 in major AND minor keys   |   rare in classical music, but can be I 6/5 in major keys in jazz   
+**Solfege**   |   re fa le ti   |   fa le do re OR re fa la ti   |   fa la do re OR do mi sol la   |   ti re fa sol   |   mi sol ti do   
 
 ### Step-by-step method for identifying seventh chords in root position and first inversion
 
