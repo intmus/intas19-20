@@ -34,6 +34,10 @@ collections:
   03-introduction-to-melodic-dictation:
     output: true
     name: Introduction to Melodic Dictation
+  04-introduction-to-seventh-chords:
+    output: true
+    name: Introduction to Seventh Chords
+    
 
 # ignore stuff
 exclude: [docs]
