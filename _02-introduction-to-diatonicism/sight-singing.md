@@ -5,7 +5,7 @@ title: Sight Singing - Simple Meters and Finding "Do"
 
 ## Preparation for Unit 3 Sight Singing
 
-This week's sight singing will continue to focus on singing intervals using moveable-*do* solfege, chanting rhythms in simple meters, and putting the two concepts together in stepwise melodies in major keys. 
+The coming week's sight singing audit will continue to focus on singing intervals using moveable-*do* solfege, chanting rhythms in simple meters, and putting the two concepts together in stepwise melodies in major keys. 
 
 ## Warm-Up: Find *Do* Exercise
 
