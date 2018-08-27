@@ -26,23 +26,23 @@ One tip for the easy recognition of seventh chords is to look for them in the co
 
 **dd7** is often used in movie soundtracks at suspenseful moments. It is heard clearly in mm. 2-3 of J. S. Bach's famous *Toccata and Fugue* in D Minor.
 
-![dd7 in Toccata and Fugue]({{ '/images/Week4dd7.jpg' | relative_url }})
+![Toccata and Fugue]({{ '/images/Week4dd7.png' | relative_url }})
 
 **dm7** is found in many diatonic compositions. The most famous example of it occurs in Richard Wagner’s Tristan und Isolde, and is usually referred to as the “Tristan chord.” In this instance, the chord doesn’t resolve, setting up the theme of tragedy and unresolved yearning that characterizes the entire opera.
 
-![dm7 in Tristan und Isolde Vorspiel]({{ '/images/Week4dm7.jpg' | relative_url }})
+![Tristan]({{ '/images/Week4dm7.png' | relative_url }})
 
 **mm7** has a less tragic, more easygoing quality than dm7. This is because we typically find it in major keys, either as ii7 or vi7. It appears memorably as vi7 in Debussy’s piano piece La fille aux cheveux de lin (“The Girl With the Flaxen Hair”).
 
-![mm7 in Debussy Fille aux Cheveux de Lin]({{ '/images/Week4mm7.jpg' | relative_url }})
+![Debussy]({{ '/images/Week4mm7.png' | relative_url }})
 
 **Mm** is present everywhere in Classical music as the dominant seventh chord. Functionally, it has a strong pull towards resolution. Here is an example of how it appears in the first movement of Beethoven’s Piano Sonata in C Major, Op. 2, No. 3.
 
-![Mm7 in Beethoven Op. 2 No. 3]({{ '/images/Week4majorminor7.jpg' | relative_url }})
+![Mm7 in Beethoven Op. 2 No. 3]({{ '/images/Week4majorminor7.png' | relative_url }})
 
 **MM** is rarer in Classical music, but relatively common in jazz and pop. In this pop song from the 1950s, “Mr. Sandman” by Pat Ballard, MM7 is outlined in the first measure of the introduction. You can see some other types of seventh chords here too.
 
-![MM7 in Mr. Sandman]({{ '/images/Week4majormajor7.jpg' | relative_url }})
+![MM7 in Mr. Sandman]({{ '/images/Week4majormajor7.png' | relative_url }})
 
 Study, play, and sing the seventh chords until you can differentiate between them with ease. You can listen to them on this week's Spotify playlist:
 
