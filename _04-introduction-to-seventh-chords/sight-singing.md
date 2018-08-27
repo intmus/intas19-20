@@ -9,7 +9,7 @@ title: Sight Singing - Scales in Solfege
 
 {% include download.html title="Scales With Solfege Syllables" filename="Week5AuditWarmupScalesSolfege.pdf" %}
 
-[Scales With Solfege]({{ '/images/Week5ScalesWarmUp.jpg' | relative_url }}){:target='_blank'}
+![Scales With Solfege]({{ '/images/Week5ScalesWarmUp.jpg' | relative_url }}){:target='_blank'}
 
 ### Rogers/Ottman Exercises
 
