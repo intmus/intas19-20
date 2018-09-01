@@ -7,7 +7,9 @@ comments: true
 
 ### Reminder: Earmaster 
 
-This week's EarMaster assignment is due Friday, September 14, 2018, at 5:00 p.m. Any problems? Please consult your professor or TA.
+This week's EarMaster assignment is due Friday, September 14, 2018, at 5:00 p.m. Be sure to check that you are doing the right assignment!
+
+Any problems? Please consult your professor or TA.
 
 ### Reminder: Sight Singing Audit 
 
