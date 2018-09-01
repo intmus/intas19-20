@@ -25,7 +25,7 @@ In other words, every 4/3 chord will be composed of a third between the two lowe
 Chord   |   dd 4/3   |   dm 4/3   |   mm 4/3   |   Mm 4/3   |   MM 4/3   
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
 **intervallic relation**   |   m3 + A2 + m3   |   M3 + M2 + m3   |   m3 + M2 + m3   |   m3 + M2 + M3   |   M3 + m2 + M3   
-**function and solfege**   |   vii0 4/3 in minor keys, fa le ti re   |   Usually appears as  chord ii⌀4/3 in minor keys, le do re fa. Also appears as chord vii⌀4/3 in a major key, fa la ti re.   |   Often appears as chord ii4/3 in a major key, la do re fa. Also appears as chord vi4/3 in a major key, mi sol la do.   |   Chord V4/3 in major and minor keys: re fa sol ti   |   sol ti do mi   
+**function and solfege**   |   vii0 4/3 in minor - fa le ti re   |   ii⌀4/3 in minor keys, le do re fa; vii⌀4/3 in a major key, fa la ti re.   |   ii4/3 in a major key, la do re fa; vi4/3 in a major key, mi sol la do.   |   Chord V4/3 in major and minor keys: re fa sol ti   |   sol ti do mi   
 **salient features**   |   This chord may appear in 4/3 presentation in music. In this class, always ID it as root position.   |      |   Symmetrical   |      |   Symmetrical   |   Only one of the 4/3 chords to feature a minor 2nd between its middle two pitches.   
 
 ### Piano and Singing Practice
