@@ -11,7 +11,7 @@ This week's EarMaster assignment is due Friday, September 7, 2018, at 5:00 p.m.
 
 **Be careful that you are completing the correct assignment.** Your screen should look something like this:
 
-![Week 3 Assignment Screen Shot]({{ '/images\Week3EarMasterScreenShot.PNG' | relative_url }})
+![Week 3 Assignment]({{ '/images/Week3EarMasterScreenShot.PNG' | relative_url }})
 
  Any problems? Please consult your professor or TA.
 
