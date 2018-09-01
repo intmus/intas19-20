@@ -37,6 +37,9 @@ collections:
   04-introduction-to-seventh-chords:
     output: true
     name: Introduction to Seventh Chords
+  05-working-with-intervals:
+    output: true
+    name: Working With Intervals
     
 
 # ignore stuff
