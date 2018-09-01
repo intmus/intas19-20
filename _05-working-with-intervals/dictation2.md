@@ -27,3 +27,23 @@ Chord   |   dd 4/3   |   dm 4/3   |   mm 4/3   |   Mm 4/3   |   MM 4/3
 **intervallic relation**   |   m3 + A2 + m3   |   M3 + M2 + m3   |   m3 + M2 + m3   |   m3 + M2 + M3   |   M3 + m2 + M3   
 **function and solfege**   |   vii0 4/3 in minor keys, fa le ti re   |   Usually appears as  chord ii⌀4/3 in minor keys, le do re fa. Also appears as chord vii⌀4/3 in a major key, fa la ti re.   |   Often appears as chord ii4/3 in a major key, la do re fa. Also appears as chord vi4/3 in a major key, mi sol la do.   |   Chord V4/3 in major and minor keys: re fa sol ti   |   sol ti do mi   
 **salient features**   |   This chord may appear in 4/3 presentation in music. In this class, always ID it as root position.   |      |   Symmetrical   |      |   Symmetrical   |   Only one of the 4/3 chords to feature a minor 2nd between its middle two pitches.   
+
+### Piano and Singing Practice
+
+Practice singing and playing these chords daily. Ask yourself: how are the intervallically similar and different from one another? 
+
+### Methods for quick identification of 7th chords in all inversions:
+
+- Determine your inversion by listening for the interval of a 2nd. If you cannot hear a 2nd....
+....the chord must be in root position (now determine quality)
+....or the chord could be dd (ID as root position regardless -- since m3 and A2 are enharmonically equivalent, you are not expected to differentiate between them).
+
+- If you heard a 2nd, where in the chord is it? If it’s between the two middle notes, the inversion is 4/3. (If it’s between the top two notes, it’s 6/5, and if it’s between the two lowest notes, it’s 4/2.)
+
+- Figure out what kind of 2nd it is. If it is a minor 2nd, the quality can only be MM.
+
+- If you heard a major 2nd, determine the chord quality (dm, mm, or Mm) by examining the 3rds.
+
+- Notate your chord according to the chart above. Check your notation:
+intervallically, referring to the types of 2nds and 3rds that comprise the chord.
+using solfege, relating your answer to key and harmonic function.
