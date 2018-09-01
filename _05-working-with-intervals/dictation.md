@@ -9,4 +9,4 @@ This week, we will continue our study of intervals. One of the things that makes
 
 One way to sort through information is to create a flow chart. For intervals, the first question you might ask is whether the interval is consonant or dissonant. After that, you can go into further detail, using solfege, context, and/or inversion to work out your answer. The flow chart below is just one example of the types of questions you can ask yourself.
 
-![Intervals Flow Chart]({{ '/images/Week5IntervalsFlowChart.jpg' | relative_url }})
+![Week 5 Intervals Flow Chart]({{ '/images/Week5FlowChartIntervals.jpg' | relative_url }})
