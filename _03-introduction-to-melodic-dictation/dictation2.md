@@ -17,7 +17,8 @@ Melodic dictation can seem daunting at first, but it’s not as hard as it looks
 ## First steps in practicing melodic dictation:
 
 Listen to the tonic triad. Sing up and down the scale of that key, using solfege. Sing up and down the tonic triad: “Do-mi-sol-mi-do.” On scratch paper, write down which tones correspond to the solfege syllables, i.e. in G major “do-mi-sol” will be G, B, and D.
-Once you feel comfortable with the tonic triad, sing the dominant triad: “Sol-ti-re.” In G major, the tones will be D, F-sharp, and A. Remember these, because they will help you get the right notes.
+
+Once you feel comfortable with the tonic triad, sing the dominant triad: “Sol-ti-re.” In G major, the tones will be D, F-sharp, and A. Remember these, because they will help you write down the right pitches.
 
 ## How NOT to do it:
 
@@ -27,9 +28,13 @@ Don’t “separate out” rhythm and pitch. The rhythms in these examples will 
 
 Most common nursery rhymes and other famous songs do all the repetitive, predictable things mentioned above.
 
-- The well-known song “Hot Cross Buns” has sentence structure. The “mi-re-do” scalar pattern establishes the key and the basic idea. See if you can write it down from memory.
+- The well-known song “Hot Cross Buns” has sentence structure. The “mi-re-do” scalar pattern establishes the key and the basic idea.
+
+![Hot Cross Buns]({{ '/images/Week3HotCrossBuns.PNG' | relative_url }})
 
 - Another well-known song, “Here We Go Round the Mulberry Bush,” has period structure. Its basic idea is built around *do, mi,* and *sol* = the tonic triad. In the contrasting idea, it implies dominant harmony by using the tones of the dominant triad: *sol, ti*, and *re*. The consequent has an exact repeat of the basic idea from measure one, but this time it varies the contrasting idea so that we can have a perfect cadence at the end instead of the half cadence we had before.
+
+![Here We Go Round the Mulberry Bush]({{ '/images/Week4MulberryBush.PNG' | relative_url }})
 
 ## Developing skill outside of class
 
