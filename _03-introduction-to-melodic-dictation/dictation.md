@@ -11,6 +11,14 @@ This week, we will review the simple time signatures. When writing down rhythmic
 
 In simple time signatures, the numerator indicates the number of beats in the measure, and the denominator indicates the beat note. Please review the following simple time signatures: 2/2, 3/2, 4/2; 2/4, 3/4, 4/4; 2/8, 3/8, 4/8; 2/16, 3/16, 4/16. Questions to ask: what is the beat note? What are all the possible divisions and subdivisions of the beat?
 
+Study the following excerpt that shows possible divisions and subdivisions of quadruple time signatures. Notice the appearance of the breve, the whole note, half note, quarter note, and so on.
+
+![Beat Divisions]({{ '/images/Week3DivisionsSubdivisions' | relative_url }})
+
+Try making your own chart for triple or duple time signatures!
+
+### Seeing *and* Hearing
+
 Part of learning rhythm successfully is knowing what a rhythm *sounds* like and what a rhythm *looks* like on paper. For practice, think about the rhythm of a well-known piece of music such as "The Star-Spangled Banner" or "America the Beautiful." Try writing down the rhythm from memory, then look up the score on a Google image search to see if you were correct.
 
 ### Compound Time Signatures
