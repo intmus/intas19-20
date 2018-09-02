@@ -13,7 +13,7 @@ In simple time signatures, the numerator indicates the number of beats in the me
 
 Study the following excerpt that shows possible divisions and subdivisions of quadruple time signatures. Notice the appearance of the breve, the whole note, half note, quarter note, and so on.
 
-![Beat Divisions]({{ '/images/Week3DivisionsSubdivisions' | relative_url }})
+![Beat Divisions]({{ '/images/Week3DivisionsSubdivisions.PNG' | relative_url }})
 
 Try making your own chart for triple or duple time signatures!
 
