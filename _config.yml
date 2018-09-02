@@ -40,6 +40,9 @@ collections:
   05-working-with-intervals:
     output: true
     name: Working With Intervals
+  _06-building-fluency-in-melodic-dictation:
+    output: true
+    name: Building Fluency in Melodic Dictation
     
 
 # ignore stuff
