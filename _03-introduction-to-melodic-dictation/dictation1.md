@@ -17,7 +17,7 @@ These piano workouts stress the intervallic properties of familiar chords. Pract
 
 The *perfect consonances* (perfect fourths, perfect fifths, perfect octaves) and the *imperfect consonances* (major thirds, minor sixths, minor thirds, major sixths) can all be found within the tones of the major triad and its inversions.
 
-![Consonances]({{ '/images/Week3HarmonicIntervals' | relative_url }})
+![Consonances]({{ '/images/Week3HarmonicIntervals.PNG' | relative_url }})
 
 ### Dissonances Contained Within the Tones of the Dominant Seventh Chord and Its Inversions
 
