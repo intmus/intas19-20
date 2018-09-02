@@ -5,7 +5,13 @@ title: Ear Training - Hearing Intervals Harmonically
 
 ## Introduction to Harmonic Intervals
 
-Harmonic intervals are called this because they are part of chords that appear in diatonic harmony. We can find all the simple intervals between the notes of diatonic scales, and by extension, chords. Practice these piano workouts that stress the intervallic properties of familiar chords.
+In ear training, we call an interval "harmonic" if its two tones are played simultaneously.
+
+One way to hear harmonic intervals successfully is to imagine them as parts of chords that commonly appear in diatonic harmony.
+
+We have already learned that all the simple intervals may be found between various tones of the diatonic scale. By extension, we can find all the simply intervals through commonly used chords.
+
+These piano workouts stress the intervallic properties of familiar chords. Practice them on the piano and sing through the tones melodically for additional familiarization.
 
 ### Perfect and Imperfect Consonances
 
