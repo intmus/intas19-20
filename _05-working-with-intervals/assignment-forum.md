@@ -1,7 +1,6 @@
 ---
 layout: chapter
 title: Unit 5 Assignment and Forum
-abc: true
 comments: true
 ---
 
