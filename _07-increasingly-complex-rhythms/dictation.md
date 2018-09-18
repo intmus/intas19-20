@@ -25,7 +25,7 @@ Your paper may look something like this.
 
 ### "Dummy Rhythm"
 
-No one is calling anyone a dummy right now! Rather, a dummy rhythm is a predictable beat pattern that we commonly find in music. Many compound time rhythmic dictations will feature a "long-short" division of the beat. In 12/4, this division is "half note - quarter note." 
+No one is calling anyone a dummy! Rather, a dummy rhythm is a predictable beat pattern that we commonly find in music. Many compound time rhythmic dictations will feature a "long-short" division of the beat. In 12/4, this division is "half note - quarter note." 
 
 If you write the dummy rhythm above the staff, you can then do some error detection when you actually hear the dictation. Some people find it easier to detect errors than to constantly be writing "from scratch." This method keeps you in the right part of the measure to avoid misbarring.
 
