@@ -42,3 +42,21 @@ Chord   |   dd 4/2   |   dm 4/2   |   mm 4/2   |   Mm 4/2   |   MM 4/2
 ### Tips for Easy Identification and Notation
 
 - What are some of the features that *only* exist in certain chords?
+   - As always in inverted chords, the minor second is the dead giveaway that the chord quality is MM. Once you identify that interval, don't waste time thinking about other chord qualities, since it can only be MM. Its position within the chord will give you your inversion. Recall your solfege and use it to notate the chord.
+   - Only two 4/2 chords have major triads between the three upper pitches. Which ones are they?
+   - Excluding dd 4/2 for now, only one chord has a diminished triad between the three upper pitches. Which one?
+   - Two of the chords do not contain the interval of a tritone between any of the tones. Which ones?
+   - One of the chords contains not one but two tritones! Which one?
+   - Two of the chords contain just one tritone apiece. Which ones?
+   - One of the chords contains zero perfect consonances...
+   - Two of the chords contain not one but two perfect consonances...
+   - Find your own methods!
+
+### Make Your Own Flow Chart.
+
+In Unit 4, we shared [a flow chart](https://intmus.github.io/intas18-19/04-introduction-to-seventh-chords/dictation2.html How Seventh Chords Work in Root Position and First Inversion) that helped identify seventh chords in root position and first inversion. This week, why not make your own flow chart to help you identify seventh chords in all the inversions?
+
+- In our flow chart, we suggested the initial question "Can you hear the interval of a second?" You can certainly begin with this question, but try some other ones too.
+   - "Does this chord have a context in a major key, a minor key, or either?" (Hints: dd = minor only; dm = can be found in different contexts in major *and* minor; Mm has the same function in major *and* minor etc.)
+   - "All seventh chords have dissonances. Do the tones of this seventh chord contain the dissonance of one or more tritones?"
+   - Find your own method!
