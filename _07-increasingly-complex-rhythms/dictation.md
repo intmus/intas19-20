@@ -49,7 +49,7 @@ Your paper may look like this.
 
 - Try writing down the rhythms of passages from a piece in compound time that you've studied on your instrument.
 - Try writing down the rhythm of a poem you know. Poetry has meters too -- for example, Shakespeare's famous *iambic pentameter*. 
-- For relatively simple examples of strongly rhythmical verse, look up the limericks of Edward Lear. Read one aloud a few times to get an idea of the beat and divisions of the beat. You'll find that you probably instinctively want to write limericks in 6/8 or 12/8. Take the following limerick, and figure out where the "strong beats" are:
+- For relatively simple examples of strongly rhythmical verse, look up the limericks of Edward Lear. Read one aloud a few times to get an idea of the beat and divisions of the beat. You'll find that you probably instinctively want to write limericks in 6/8 or 12/8. Take the following limerick, and figure out where the "strong beats" are. This will guide you in figuring out where the downbeat is, and whether you need to add pickups, beat divisions, ties, etc.
 
 > There **was** a young **la**dy whose **eyes**,
 > Were un**ique** as to **co**lor and **size**;
