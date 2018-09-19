@@ -44,3 +44,17 @@ Using this method, get what you can at the beginning, while continuing to conduc
 Your paper may look like this.
 
 ![Rhythm Basics]({{ '/images/Week7Rhythm3.PNG' | relative_url }})
+
+## Further Practice
+
+- Try writing down the rhythms of passages from a piece in compound time that you've studied on your instrument.
+- Try writing down the rhythm of a poem you know. Poetry has meters too -- for example, Shakespeare's famous *iambic pentameter*. 
+- For relatively simple examples of strongly rhythmical verse, look up the limericks of Edward Lear. Read one aloud a few times to get an idea of the beat and divisions of the beat. You'll find that you probably instinctively want to write limericks in 6/8 or 12/8. Take the following limerick, and figure out where the "strong beats" are:
+
+> There **was** a young **la**dy whose **eyes**,
+> Were un**ique** as to **co**lor and **size**;
+> When she **o**pened them **wide**,
+> People **all** turned a**side**,
+> And **star**ted a**way** in sur- **prise.** 
+
+![Limerick Rhythm]({{ '/images/Week7Limerick.jpg' | relative_url }})
