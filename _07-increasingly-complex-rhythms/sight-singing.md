@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Sight Singing - Sightreading & Chapter 7
+title: Sight Singing - Sightreading & Chapter 8
 ---
 
 ## Preparation for Unit 8 Sight Singing
