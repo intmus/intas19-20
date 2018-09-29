@@ -29,8 +29,7 @@ Please play the following chords in root position and all their inversions on th
 - How does it feel to play each chord with your fingers on the piano's keyboard?
 - How does it feel to sing each chord using solfege?
 
-![Seventh Chords in All Inversions]({{ '/images/Week7seventhchordsallinversions.jpg' | relative_url }})
-
+![Seventh Chords in All Inversions]({{ '/images/Week7seventhchordsallintervals.jpg' | relative_url }})
 
 Chord   |   dd 4/2   |   dm 4/2   |   mm 4/2   |   Mm 4/2   |   MM 4/2   
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
