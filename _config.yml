@@ -46,6 +46,9 @@ collections:
   07-increasingly-complex-rhythms:
     output: true
     name: Increasingly Complex Rhythms
+  08-review-of-concepts:
+    output: true
+    name: Review of Concepts
     
 
 # ignore stuff
