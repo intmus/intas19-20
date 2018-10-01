@@ -16,6 +16,6 @@ This week's EarMaster assignment is due Friday, September 7, 2018, at 5:00 p.m.
 
 ### Reminder: Sight Singing Audit 
 
-Remember to attend your audit warm-up at the appointed time, bringing your Ottman-Rogers textbook and your printed warm-up. Please download and print the Week 4 warm-up to bring to this Thursday's class.
+Remember to attend your audit warm-up at the appointed time, bringing your Ottman-Rogers textbook and your printed warm-up. Please download and print the Unit 4 warm-up to bring to this Thursday's class.
 
 Questions? Please ask them in the forum below.

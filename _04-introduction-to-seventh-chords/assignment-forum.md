@@ -12,6 +12,6 @@ Any problems? Please consult your professor or TA.
 
 ### Reminder: Sight Singing Audit 
 
-Remember to attend your audit warm-up at the appointed time, bringing your Ottman-Rogers textbook and your printed warm-up. Please download and print the Week 5 warm-up to bring to this Thursday's class.
+Remember to attend your audit warm-up at the appointed time, bringing your Ottman-Rogers textbook and your printed warm-up. Please download and print the Unit 5 warm-up to bring to this Thursday's class.
 
 Questions? Please ask them in the forum below.
