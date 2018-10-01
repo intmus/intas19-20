@@ -12,17 +12,17 @@ Please study the chart below for recommended solfege for both major *and* minor 
 |**Interval Name**   |**Abbreviation**|**Recommended Ascending Solfege (Major *and* Minor Keys)**|
 |--------------------|----------------|-----------------------------------------|
 |perfect unison      | P1             |*do, do*                                 |
-|minor second        | m2             |*ti, do*, *mi, fa*, *re, me*, *sol, le*  |           
-|major second        | M2             |*do, re*, *fa, sol*                      |
-|minor third         | m3             |*mi, sol*, *do, me*                      |
-|major third         | M3             |*do, mi*, *me, sol*                      |
+|minor second        | m2             |*ti, do*; *mi, fa*; *re, me*; *sol, le*  |           
+|major second        | M2             |*do, re*; *fa, sol*                      |
+|minor third         | m3             |*mi, sol*; *do, me*                      |
+|major third         | M3             |*do, mi*; *me, sol*                      |
 |perfect fourth      | P4             |*sol, do*                                |
 |augmented fourth    | A4             |*fa, ti*                                 |
 |diminished fifth    | d5             |*ti, fa*                                 |
 |perfect fifth       | P5             |*do, sol*                                |
-|minor sixth         | m6             |*mi, do*, *sol, me*                      |
-|major sixth         | M6             |*sol, mi*, *me, do*                      |
-|minor seventh       | m7             |*sol, fa*, *re, do*                      |
+|minor sixth         | m6             |*mi, do*; *sol, me*                      |
+|major sixth         | M6             |*sol, mi*; *me, do*                      |
+|minor seventh       | m7             |*sol, fa*; *re, do*                      |
 |major seventh       | M7             |*do, ti*                                 |
 |perfect octave      | P8             |*do, do*                                 |
 
