@@ -53,7 +53,11 @@ Chord   |   dd 4/2   |   dm 4/2   |   mm 4/2   |   Mm 4/2   |   MM 4/2
 
 ### Make Your Own Flow Chart.
 
-In Unit 4, we shared [a flow chart](https://intmus.github.io/intas18-19/04-introduction-to-seventh-chords/dictation2.html How Seventh Chords Work in Root Position and First Inversion) that helped identify seventh chords in root position and first inversion. This week, why not make your own flow chart to help you identify seventh chords in all the inversions?
+In Unit 4, we shared a **flow chart** that helped identify seventh chords in root position and first inversion.
+
+![Seventh Chords In Root Position and First Inversion]({{ '/images/Week4SeventhChordsRootPositionAndFirstInversion.jpg' | relative_url }})
+
+ This week, why not make your own flow chart to help you identify seventh chords in all the inversions?
 
 - In our flow chart, we suggested the initial question "Can you hear the interval of a second?" You can certainly begin with this question, but try some other ones too.
    - "Does this chord have a context in a major key, a minor key, or either?" (Hints: dd = minor only; dm = can be found in different contexts in major *and* minor; Mm has the same function in major *and* minor etc.)

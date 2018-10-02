@@ -13,7 +13,7 @@ The midterm will contain questions on the following topics:
 - Melodic intervals
 - Harmonic intervals
 - Major and minor scales (natural, melodic, harmonic)
-- Triads (Major, Minor, Diminished, Augmented)
+- Triads (major, minor, diminished, augmented)
 - Seventh Chords (dd, dm, mm, Mm, MM)
 - Rhythmic dictation
 - Melodic dictation
