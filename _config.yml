@@ -49,6 +49,9 @@ collections:
   08-review-of-concepts:
     output: true
     name: Review of Concepts
+  09-introduction-to-harmonic-dictation:
+    output: true
+    name: Introduction to Harmonic Dictation
     
 
 # ignore stuff
