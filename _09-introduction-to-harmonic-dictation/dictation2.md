@@ -9,7 +9,7 @@ A cadence is composed of the two final chords in the harmonic progression that e
 
 ![Cadences]({{ '/images/Week9Cadences.jpg' | relative_url }}){:target='_blank'}
 
-Commit the following table of cadences to memory:
+Commit the following table to memory:
 
 **Cadence Type** | Perfect Authentic Cadence | Imperfect Authentic Cadence | Plagal Cadence | Deceptive Cadence | Half Cadence  
 **Chords** | V-I | V-I | IV-I | V-vi | I-V  
