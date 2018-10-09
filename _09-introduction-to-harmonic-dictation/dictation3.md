@@ -23,7 +23,7 @@ This chord progression is common in motown and other popular styles of the mid-t
 
 ![DooWop Progression]({{ '/images/Week9DooWop.jpg' | relative_url }}){:target='_blank'}
 
-### i-&flat;VII-&flat;VI-V - The Andalusian Progression
+### i - &flat; VII - &flat; VI - V - The Andalusian Progression
 
 This progression is characteristic in flamenco guitar music. The bassline, "do, te, le, sol," was commonly played as an *ostinato* for improvisation in the Baroque era. Listen to Claudio Monteverdi, "Amor" from *Lamento della ninfa*, for an example of this progression. For a more modern take on the Andalusian progression, listen to Michael Jackson, "Smooth Criminal."
 
