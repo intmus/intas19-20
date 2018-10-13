@@ -17,7 +17,7 @@ title: Sight Singing - Seventh Chords and Chapter 10
 
 ### Guidelines for Rogers/Ottman Exercises
 
-- 9.6: what key is this in? Analyze carefully! Conduct in a very slow 4. Dynamics and phrasing are important. Can you find the V7 arpeggio?
+- 9.6: what key is this in? Analyze carefully! Conduct in a very slow 4. Dynamics and phrasing are important. Can you find the V<sup>7</sup> arpeggio?
 - 9:13: in one as marked.
 - 9:18 Breathe in the proper places, not within slurs. In the first measure of line 2, breathe after the second note, as a new phrase (parallel to the beginning starts after this.
 - 9:19: Prepare to sing as a canon.
