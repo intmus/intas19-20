@@ -17,4 +17,4 @@ title: Sight Singing - Seventh Chords and Chapter 10
 
 ### Guidelines for Rogers/Ottman Exercises
 
-- In this chapter, various note values can serve as the beat. Conduct 10.29 in 2. In 10.32, the sixteenth note gets the beat.
+- In this chapter, various note values can serve as the beat. Conduct 10.29 in 2. In 10.32, the sixteenth note gets the beat. 
