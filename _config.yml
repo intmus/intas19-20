@@ -52,6 +52,9 @@ collections:
   09-introduction-to-harmonic-dictation:
     output: true
     name: Introduction to Harmonic Dictation
+  10-hearing-harmony
+    output: true
+    name: Hearing Harmony
     
 
 # ignore stuff

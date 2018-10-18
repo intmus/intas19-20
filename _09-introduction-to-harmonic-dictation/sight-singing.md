@@ -13,13 +13,8 @@ title: Sight Singing - Seventh Chords and Chapter 10
 
 ### Rogers/Ottman Exercises
 
-9.6, **9.13**, 9.18-19, 9.24, **9.30**, 9.31-32, 9.35, **9.36**
+**10.18**, 10.24-32, **10.47**, 10.51, 10.59, 10.68-10.78, **10.79**
 
 ### Guidelines for Rogers/Ottman Exercises
 
-- 9.6: what key is this in? Analyze carefully! Conduct in a very slow 4. Dynamics and phrasing are important. Can you find the V<sup>7</sup> arpeggio?
-- 9:13: in one as marked.
-- 9:18 Breathe in the proper places, not within slurs. In the first measure of line 2, breathe after the second note, as a new phrase (parallel to the beginning starts after this.
-- 9:19: Prepare to sing as a canon.
-- 9:24: Watch the C-sharp in measure 2; it doesn't continue the arpeggio set up in measure 1.
-- Section 4: Devote plenty of time to preparing these melodies, as they are the most difficult ones in the book so far.
+- In this chapter, various note values can serve as the beat. Conduct 10.29 in 2. In 10.32, the sixteenth note gets the beat
