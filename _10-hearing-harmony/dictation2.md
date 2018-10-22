@@ -3,6 +3,8 @@ layout: chapter
 title: Ear Training - Systematic Listening in Harmonic Dictation
 ---
 
+### Three-Chord Progressions
+
 Here is an example of the type of three-chord progression we will study this week.
 
 ![Sample Harmonic Dictation]({{ '/images/Week10sampleharmonicdictation.jpg' | relative_url }}){:target='_blank'}
