@@ -15,7 +15,7 @@ The instructor will play the progression four times: the first time equally voic
 
 Review the principles of chord progression and root movement from Unit 9. Commit these rules to memory, because they will help when you are trying to work out your analysis.
 
-### Tips for Success
+### Tips for Success  
 
 - As always, take careful note of the key signature. Look at the given soprano and bass pitches and notice which solfege syllables would be assigned to them in the given key.
 - In the first hearing, listen carefully for colors. What chord progression is it? If unsure, use the first hearing to take note of the chord qualities. This alone will tell you a lot.
