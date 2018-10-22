@@ -8,7 +8,7 @@ comments: true
 
 This week's EarMaster assignment is due Friday, October 26, 2018, at 5:00 p.m. Be sure to check that you are doing the right assignment!
 
-Any problems? Please consult your professor or TA.
+Any problems? Please consult your professor or TA.  
 
 ### Reminder: Sight Singing Audit 
 

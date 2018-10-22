@@ -5,7 +5,7 @@ title: Ear Training - What to Expect in Harmonic Dictation
 
 ### Philosophy
 
-Harmonic dictations draw upon the elements you have already mastered in Units 1-8 of this course: melodic and harmonic intervals, major and minor scales, triads, and seventh chords. Now we will use these elements in harmonic -- and melodic -- context by analyzing chords and notating melodic lines. Harmonic dictation is *not* difficult, as long as you approach it in a logical systematic way.
+Harmonic dictations draw upon the elements you have already mastered in Units 1-8 of this course: melodic and harmonic intervals, major and minor scales, triads, and seventh chords. Now we will use these elements in harmonic -- and melodic -- context by analyzing chords and notating melodic lines. Harmonic dictation is *not* difficult, as long as you approach it in a logical, systematic way.
 
 ### Procedures 
 
@@ -21,4 +21,4 @@ Review the principles of chord progression and root movement from Unit 9. Commit
 - In the first hearing, listen carefully for colors. What chord progression is it? If unsure, use the first hearing to take note of the chord qualities. This alone will tell you a lot.
 - On the second hearing, focus on getting your bass notes written. Bass notes are the strongest predictor of chord quality and inversion. Jot down some notes on possible analyses.
 - On the third hearing, write the soprano notes and use them to confirm your analysis. For example, a soprano note can help you to confirm whether a chord is IV or ii<sup>6</sup>.
-- On the final hearing, check your work for errors.
+- On the final hearing, check your work for errors. 
