@@ -7,9 +7,9 @@ title: Sight Singing - Seventh Chords and Chapter 11
 
 ### Warm-Up: Major and Minor Scale Triads
 
-{% include download.html title="Major and Minor Scale Triads" filename="Week11majorandminorscales.pdf" %}
+{% include download.html title="Major and Minor Scale Triads" filename="Week11majorandminortriads.pdf" %}
 
-![Major and Minor Scale Triads]({{ '/images/Week11majorandminorscales.jpg' | relative_url }}){:target='_blank'}
+![Major and Minor Scale Triads]({{ '/images/Week11majorandminortriads.jpg' | relative_url }}){:target='_blank'}
 
 ### Rogers/Ottman Exercises
 
