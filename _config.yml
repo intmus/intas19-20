@@ -55,7 +55,7 @@ collections:
   10-hearing-harmony:
     output: true
     name: Hearing Harmony
-  11-length-and-complexity-in-melody-and-harmony
+  11-length-and-complexity-in-melody-and-harmony:
     output: true
     name: Length and Complexity in Melody and Harmony
   
