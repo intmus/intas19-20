@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Sight Singing - Seventh Chords and Chapter 11
+title: Sight Singing - Major and Minor Scale Triads and Chapter 11
 ---
 
 ## Preparation for Unit 10 Sight Singing
