@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Sight Singing - Seventh Chords and Chapter 11
+title: Sight Singing - Sight-Reading and Chapter 12
 ---
 
 ## Preparation for Unit 12 Sight Singing
