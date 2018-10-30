@@ -58,6 +58,9 @@ collections:
   11-length-and-complexity-in-melody-and-harmony:
     output: true
     name: Length and Complexity in Melody and Harmony
+  12-modes-and-syncopations:
+    output: true
+    name: Modal Scales, Syncopated Rhythms
   
     
 
