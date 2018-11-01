@@ -13,7 +13,7 @@ The difficulty of this excerpt will be roughly that of the difficulty of chapter
 
 ### Rogers/Ottman Exercises
 
-12.11, 12.20, 12.21, 12.23, 12.29, 12.37, 12.39, 12.59 
+12.11, 12.20, 12.21, **12.23, 12.29, 12.37,** 12.39, 12.59 
 
 ### Guidelines for Rogers/Ottman Exercises
 
