@@ -25,3 +25,6 @@ As always, it is good to practice notating, playing, and singing all theoretical
 
 ![Modal Scales Singing Warmup]({{ '/images/Week13modalsinging.jpg' | relative_url }}){:target='_blank'}
 
+At the piano, sightread the melodic line from Mozart's Piano Sonata in C Major K. 545. Notice Mozart's use of the Aeolian, Mixolydian, Lydian, Phrygian, and Dorian modes. How do they move the melody and harmony along?
+
+![Mozart Piano Sonata]({{ '/images/Week13mozart.jpg' | relative_url }}){:target='_blank'}
