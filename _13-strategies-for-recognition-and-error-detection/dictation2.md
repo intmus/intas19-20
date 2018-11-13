@@ -3,6 +3,8 @@ layout: chapter
 title: Ear Training - Syncopated Rhythms in Simple and Compound Time
 ---
 
+### Today's Spotify Playlist: "UI Aural Skills III Syncopations" by user mirandawilson
+
 This week, we will notate rhythmic dictations that feature syncopated rhythms.
 
 There are three broad types of syncopations: 
@@ -12,7 +14,7 @@ There are three broad types of syncopations:
 
 The images below show examples of all three types of syncopations as we might find them in simple time and in compound time.
 
-![Syncopations in Simple Time]({{ '/images/Week13simplesyncopations.jpg' | relative_url }}){:target='_blank'}
+![Syncopations in Simple Time]({{ '/images/Week13simplesyncopation.jpg' | relative_url }}){:target='_blank'}
 
 ![Syncopations in Compound Time]({{ '/images/Week13compoundsyncopations.jpg' | relative_url }}){:target='_blank'}
 
