@@ -13,6 +13,10 @@ Write out the modal scales, sing them, and play them on the piano. This gives yo
 
 ![Modal Scales Flow Chart]({{ '/images/Week13modesflowchart.jpg' | relative_url }}){:target='_blank'}
 
+### The Next Step
+
+Once you have identified the scale, you should ascertain what key it's in. For example, if you decide it's a Mixolydian scale, and the starting pitch is A, that means *do* must be D. The key signature of D major is, of course, two sharps. Therefore, when you write out a scale with the starting pitch A, you'll add a C-sharp and an F-sharp. By using this method, you can avoid notation errors.
+
 **Flow Chart for Modal Scales in Descending Motion**
 
 Many learners find it more difficult to identify scales when they're presented in descending motion. While you can certainly use the first flow chart to identify descending modal scales, the second chart will also help you to sort through information.
