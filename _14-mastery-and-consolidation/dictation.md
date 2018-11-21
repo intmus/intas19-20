@@ -30,4 +30,6 @@ The images below show some possible melodic contexts for the intervals. If these
 ![P4]({{ '/images/Week14intervals1.jpg' | relative_url }}){:target='_blank'}
 ![P4]({{ '/images/Week14intervals2.jpg' | relative_url }}){:target='_blank'}
 
-{% include download.html title="PDF of Melodic Intervals in Context" filename="Week14melodicintervals.pdf" %}
+Click the link below to download a high-resolution version of the images above.
+
+{% include download.html title="Melodic Intervals in Context" filename="Week14melodicintervals.pdf" %}
