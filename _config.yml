@@ -64,6 +64,10 @@ collections:
   13-strategies-for-recognition-and-error-detection:
     output: true
     name: Strategies for Recognition and Error Detection
+  14-mastery-and-consolidation:
+    output: true
+    name: Mastery and Consolidation
+    
   
     
 
