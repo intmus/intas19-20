@@ -28,5 +28,6 @@ Using the above procedure, you might:
 The images below show some possible melodic contexts for the intervals. If these examples aren't personally meaningful to you, there are lots of sites around the internet with different suggestions. Get creative and invent your own chart!
 
 ![P4]({{ '/images/Week14intervals1.jpg' | relative_url }}){:target='_blank'}
-
 ![P4]({{ '/images/Week14intervals2.jpg' | relative_url }}){:target='_blank'}
+
+{% include download.html title="PDF of Melodic Intervals in Context" filename="Week14melodicintervals.pdf" %}
