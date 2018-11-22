@@ -12,6 +12,6 @@ Any problems? Please consult your professor or TA.
 
 ### Reminder: Sight Singing Audit 
 
-Remember to attend your audit warm-up at the appointed time, bringing all materials.
+Remember to attend your audit warm-up at the appointed time, bringing all materials. Next week will be the dress rehearsal for your final audit, so you'll want to be extra prepared.
 
 Questions? Please ask them in the forum below.
