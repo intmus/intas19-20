@@ -37,7 +37,7 @@ Make a flow chart for the steps you'll go through in interval recognition and no
 
 Once you've identified the interval, use solfege to check your notation. For example, if you heard a harmonic interval of which the given lower note is B, and you know through logical deduction that it's a major sixth, use your solfege -- *sol, mi* -- to determine that the key must be E major. Therefore, you can make sure to notate the other pitch as a G-sharp. (If unsure, check against the key signature.)
 
-### Summary of interval recognition and notation:
+### Summary of harmonic interval recognition and notation:
 
 Use the following procedure:
 

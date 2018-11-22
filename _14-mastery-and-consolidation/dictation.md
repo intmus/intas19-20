@@ -25,7 +25,9 @@ Using the above procedure, you might:
 
 ### Suggested Melodic Contexts
 
-The images below show some possible melodic contexts for the intervals. If these examples aren't personally meaningful to you, there are lots of sites around the internet with different suggestions. Get creative and invent your own chart!
+The images below show some possible melodic contexts for the intervals. Don't know these songs? Check out the Spotify playlist **"UI Aural Skills III Simple Intervals In Context"** by user **mirandawilson**. 
+
+If these examples aren't personally meaningful to you, there are lots of sites around the internet with different suggestions. Get creative and invent your own chart!
 
 ![P4]({{ '/images/Week14intervals1.jpg' | relative_url }}){:target='_blank'}
 ![P4]({{ '/images/Week14intervals2.jpg' | relative_url }}){:target='_blank'}
