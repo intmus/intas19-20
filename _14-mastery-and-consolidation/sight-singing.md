@@ -15,6 +15,7 @@ Click on the link below to download a PDF of the instructions and rubric for the
 ## Review: Preparations for the Musical Elements portion
 
 ###Intervals: 
+
 Please review the appropriate solfege choices in the table below. Important: you will lose points if, for example, you're asked to sing a minor seventh and you attempt to perform *do, te.* There is no context for this. Use *sol, fa*, the commonest context for the interval.
 
 |**Interval Name**   |**Abbreviation**|**Recommended Ascending Solfege (Major *and* Minor Keys)**|
@@ -34,7 +35,7 @@ Please review the appropriate solfege choices in the table below. Important: you
 |major seventh       | M7             |*do, ti*                                 |
 |perfect octave      | P8             |*do, do*                                 |
 
-Click the link below to download the "Intervals in Context" warm-up from Unit 3.
+Click the link below to download the "Intervals in Context" review warm-up.
 
 {% include download.html title="Intervals in Context" filename="Week4IntervalsInContext.pdf" %}
 
@@ -56,6 +57,6 @@ Please review the principles of identifying and notating triads from Unit 2.
 
 ### Seventh Chords in Context
 
-Please click on the link below to download the Unit 10 warm-up on seventh chords in context:
+Please click on the link below to download the review warm-up on seventh chords in context:
 
 {% include download.html title="Seventh Chords in Harmonic Context" filename="Week10SeventhChords.pdf" %}
