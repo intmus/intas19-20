@@ -14,7 +14,7 @@ Click on the link below to download a PDF of the instructions and rubric for the
 
 ## Review: Preparations for the Musical Elements portion
 
-###Intervals
+### Intervals
 
 Please review the appropriate solfege choices in the table below. Important: you will lose points if, for example, you're asked to sing a minor seventh and you attempt to perform *do, te.* There is no context for this. Use *sol, fa*, the commonest context for the interval.
 
