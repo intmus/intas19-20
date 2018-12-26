@@ -15,7 +15,7 @@ Many types of folk music from across the world are composed in modal idioms. For
 
 Using this method, we can take the lowest pitch of the scale as *do*, and adjust the other degrees of the scale as necessary. For example, using this method, the Mixolydian scale would be spelled *"do, re, mi, fa, sol, la, te, do."*
 
-![Modal Scales]({{ '/images/Unit16ModalScales.jpg' | relative_url }}){:target='_blank'}
+![Modal Scales on "Do"]({{ '/images/Unit16ModalScales2.jpg' | relative_url }}){:target='_blank'}
 
 **The "Diatonic Scale on Different Degrees" Method**
 
