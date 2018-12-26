@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title:Review: Modal Scales
+title: Reviewing Modal Scales
 ---
 
 ### Modal Scales
