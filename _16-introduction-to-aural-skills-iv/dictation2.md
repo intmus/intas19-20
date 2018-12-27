@@ -11,6 +11,8 @@ This week's warm-up will be sightreading at the level of Rogers/Ottman chapter 8
 
 **Prepared Material**
 
+(Material **in bold** is mandatory. Your section professor will select unbolded examples at random during your audit, so please prepare all the material.)
+
 14.4, 14.5, **14.7**, 14.14, **14.15**, 14.22, 14.27, **14.32**, 14.42, 14.43, **14.49**
 
 - Practice tips for rhythm: 4 and 5 are easy. 
