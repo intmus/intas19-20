@@ -14,7 +14,7 @@ comments: true
 
 ### What to Prepare
 
-- **Quizzes** We will have our first quiz on Tuesday, January 15. The (review) material will be modal scales. Please read through the second page of this chapter in preparation.
+- **Quizzes** We will have our first quiz on Tuesday, January 15. The (review) material will be modal scales. Please read through the second page of this chapter in preparation. The quiz for Thursday, January 17, will be on the new topic of compound intervals. We will begin preparation for this topic during Tuesday's class.
 
 - **Audits** will start in the week beginning Monday, January 14. Please begin preparation of the material using the third page of this chapter.
 
