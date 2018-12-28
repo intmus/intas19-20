@@ -6,7 +6,8 @@ title: Syncopated Rhythms in Simple Time
 ### Today's Playlist
 
 "UI Aural Skills Syncopated Rhythms" by "mirandawilson"
-<iframe src="https://open.spotify.com/embed/album/3EKlROHx6QjV1V8ABeckbb" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/5I9B4LlKvNUJ15M0R8VBHU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Reviewing Concepts from Aural Skills III
 
