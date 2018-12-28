@@ -17,11 +17,11 @@ Syncopated rhythms occur virtually everywhere in popular and dance musics from m
 
 There are several types of syncopations.
 
-1. In this example, the syncopation crosses the barline.
+- In this example, the syncopation crosses the barline.
 
 ![Over the Barline]({{ '/images/Unit17rhythm2.jpg' | relative_url }})
 
-2. In the next example, the syncopation happens within the divisions of the beat.
+- In the next example, the syncopation happens within the divisions of the beat.
 
 ![Within the Beat]({{ '/images/Unit17rhythm1.jpg' | relative_url }})
 
