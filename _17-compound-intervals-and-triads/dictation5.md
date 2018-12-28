@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Harmony: Secondary Dominants
+title: Harmony - Introduction to Secondary Dominants
 ---
 
 ### Building on existing skills
