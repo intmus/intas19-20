@@ -13,7 +13,7 @@ title: Syncopated Rhythms in Simple Time
 
 A syncopated rhythm is defined as a deviation from the flow of the expected rhythmic pattern. A syncopation often places accents or stresses in places where they aren't normally expected to occur.
 
-Syncopated rhythms occur virtually everywhere in popular and dance musics from many cultures. 
+Syncopated rhythms occur virtually everywhere in popular and dance musics from many cultures. Some of America's greatest composers -- Scott Joplin, George Gershwin, and many others influenced by their work -- wrote characteristically syncopated rhythmic structures in their compositions (see the playlist for some famous examples).
 
 There are several types of syncopations.
 
