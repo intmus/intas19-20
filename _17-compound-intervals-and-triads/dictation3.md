@@ -14,17 +14,10 @@ In Aural Skills IV, we will add an extra level of skill to your perception of tr
 ### Procedure for identifying compound triads
 
 1. Identify and write down the chord quality. This should be easy review.
-2. Find the root of the chord. For example, if you've identified that the triad is major, focus your hearing on *do*. 
+2. Find the root of the chord. For example, if you've identified that the triad is major, focus your hearing on *do*. (See below for review of the solfege to use for your triads.) 
 3. Compare the root note you identified with the bass note of the chord. Is it the same pitch class? If not, which note of the triad is it?
 4. Analyze the chord accordingly, i.e. *do* in the bass indicates root position, *mi* in the bass indicates M 6/3, *sol* in the bass indicates M 6/4.
-5. In doubt? Remember the doubling rules(see below) for triads in inversions. They will help you sort through information.
-
-**Review: solfege of the four types of compound triad**
-
-- Major: *do mi sol* (or one of the other common contextual uses of the major triads, such as *sol ti re*)
-- Minor: *do me sol* (or another common contextual use, such as *la do mi*))
-- Diminished: *ti re fa* (also acceptable: *re fa le*)
-- Augmented: *sol ti ri* (also acceptable: *me sol ti*)
+5. In doubt? Remember the doubling rules (see below) for triads in inversions. They will help you sort through information.
 
 ### Examples
 
@@ -43,6 +36,13 @@ In Aural Skills IV, we will add an extra level of skill to your perception of tr
 ![Diminished Triad in First Inversion]({{ '/images/Unit17triad3.jpg' | relative_url }})
 
 
+
+**Review: solfege of the four types of compound triad**
+
+- Major: *do mi sol* (or one of the other common contextual uses of the major triads, such as *sol ti re*)
+- Minor: *do me sol* (or another common contextual use, such as *la do mi*))
+- Diminished: *ti re fa* (also acceptable: *re fa le*)
+- Augmented: *sol ti ri* (also acceptable: *me sol ti*)
 
 **Review: Triad Doubling Rules in Part-Writing**
 
