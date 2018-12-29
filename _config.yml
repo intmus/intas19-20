@@ -76,6 +76,9 @@ collections:
   17-compound-intervals-and-triads:
     output: true
     name: Compound Intervals and Triads
+  18-more-on-secondary-dominants:
+    output: true
+    name: More on Secondary Dominants
     
   
     
