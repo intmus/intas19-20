@@ -1,7 +1,9 @@
 ---
 layout: chapter
-title: Piano Practice -- More on Secondary Dominants
+title: Score Study and Piano Practice -- More on Secondary Dominants
 ---
+
+<iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/3roMmT1Wg23FJJG8jYJ9mJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Building Recognition
 
