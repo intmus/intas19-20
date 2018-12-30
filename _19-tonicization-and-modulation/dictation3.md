@@ -5,7 +5,8 @@ title: Audit Preparation for week of 2/4-2/8/19
 
 ### This Week's Audit Material
 
-**Warm-Up**
+
+**Sightreading**
 
 Instead of a prepared warm-up, this week we will have sightreading at the level of Chapters 9-10 of the Rogers/Ottman textbook.
 
