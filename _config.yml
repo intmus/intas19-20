@@ -82,7 +82,7 @@ collections:
   19-tonicization-and-modulation:
     output: true
     name: Tonicization and Modulation
-  20-advancing-melodic-dictation
+  20-advancing-melodic-dictation:
     output: true
     name: Advancing Melodic Dictation
     
