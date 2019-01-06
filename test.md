@@ -5,8 +5,7 @@ layout: chapter
 
 # Download Button
 
-You might want to add a button to highlight a download. 
-Use the "download include":
+To add a button to highlight a download, use the "download include":
 
 - add file to "images" folder
 - paste the include code on your markdown page where you want the button to appear
@@ -48,3 +47,22 @@ Small example:
 {% endraw %}```
 
 {% include spotify.html id="playlist/1B2P0PRIzorihMPPyqGGXN" %}
+
+# YouTube embed 
+
+To embed a YouTube video, use the "youtube include":
+
+- View the video on YouTube, click the "Share" button
+- Copy the link, for example `https://youtu.be/6JQm5aSjX6g`
+- Paste youtube include code on your markdown page where you want the embed to appear
+- Fill in the `id` with the number found at the end of the share link
+
+For example,
+
+```{% raw %}
+{% include youtube.html id="6JQm5aSjX6g" %}
+{% endraw %}```
+
+becomes:
+
+{% include youtube.html id="6JQm5aSjX6g" %}
