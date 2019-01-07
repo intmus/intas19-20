@@ -7,7 +7,7 @@ title: Reviewing Modal Scales
 
 Spotify Playlist: "UI Aural Skills IV Modal Scales" by "mirandawilson"
 
-<iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/4uzxNesCDcqJxUiVzUgz9C" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% include spotify.html id="playlist/4uzxNesCDcqJxUiVzUgz9C" size="large" %}
 
 In Unit 12, we began our study of modal scales.
 

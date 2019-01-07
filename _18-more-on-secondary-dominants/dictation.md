@@ -3,7 +3,7 @@ layout: chapter
 title: Score Study and Piano Practice -- More on Secondary Dominants
 ---
 
-<iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/3roMmT1Wg23FJJG8jYJ9mJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% include spotify.html id="playlist/3roMmT1Wg23FJJG8jYJ9mJ" size="large" %}
 
 ### Building Recognition
 
@@ -32,7 +32,7 @@ In some progressions, we will use more than one secondary dominant. At the piano
 
 Listen to the opening to the second movement of Haydn's Symphony No. 94 ("Surprise"). In the first sentence of the movement, Haydn uses a secondary dominant to temporarily tonicize chord V.
 
-<iframe src="https://open.spotify.com/embed/track/3IehhHgOoLAK6h9nJz0vZ6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% include spotify.html id="track/3IehhHgOoLAK6h9nJz0vZ6" %}
 
 For extra work, refer to the score of this composition. (Also, full score study is an excellent professional habit to get into.) How many secondary dominants can you locate in the second movement?
 

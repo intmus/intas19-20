@@ -7,7 +7,7 @@ title: Melodic Dictation With Syncopation
 
 One of next week's quizzes will be on the subject of melodic dictation with syncopated rhythms. Please review the principles of syncopation that we studied in Unit 17.
 
-<iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/1B2P0PRIzorihMPPyqGGXN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{% include spotify.html id="playlist/1B2P0PRIzorihMPPyqGGXN" size="large" %}
 
 ### Tips for Success
 
