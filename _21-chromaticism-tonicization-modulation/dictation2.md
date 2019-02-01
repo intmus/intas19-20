@@ -11,4 +11,8 @@ In this example from Schubert's well-known Lied "Heidenröslein," the accidental
 
 ![pivot]({{ '/images/Unit21pivot.jpg' | relative_url }})
 
-Things to take away from this: *fi* is not "normal." If you hear *fi* in a dictation, this is a strong clue that you are now hearing *ti* in the new key. *Ti,* of course, is "normal" -- and tells you where *do* will be.
+In this example from Luigi Boccherini's famous *Minuet*, the D-sharp -- *fi* in A major -- similarly indicates *ti* in the new key, E major.
+
+![boccherini]({{ '/images/Unit21boccherini.jpg' | relative_url }})
+
+Things to take away from this: in diatonic melody, *fi* is not "normal." If you hear *fi* in a dictation, this is a strong clue that you are now hearing *ti* in the new key -- that the implied harmony is V/V or V<sup>7</sup>/V. *Ti,* of course, is "normal" -- and tells you where your new *do* will be.
