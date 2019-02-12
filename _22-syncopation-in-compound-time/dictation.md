@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Rhythmic Dictation -- Syncopation in Compound Time
+title: Rhythmic Dictation -- Reviewing Compound Time
 ---
 
 ### Reviewing Compound Time
