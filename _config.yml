@@ -88,6 +88,9 @@ collections:
   21-chromaticism-tonicization-modulation:
     output: true
     name: Chromaticism, Tonicization, and Modulation in Melody and Harmony
+  22-syncopation-in-compound-time:
+    output: true
+    name: Syncopation in Compound Time
     
   
     
