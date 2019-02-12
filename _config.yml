@@ -91,6 +91,9 @@ collections:
   22-syncopation-in-compound-time:
     output: true
     name: Syncopation in Compound Time
+  23-midterm-exam-review:
+    output: true
+    name: Midterm Exam Review
     
   
     
