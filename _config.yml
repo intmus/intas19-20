@@ -94,6 +94,9 @@ collections:
   23-midterm-exam-review:
     output: true
     name: Midterm Exam Review
+  24-introduction-non-diatonic:
+    output: true
+    name: Introduction to Non-Diatonic Scales
     
   
     
