@@ -10,7 +10,7 @@ title: Audit Preparation for week of 3/4/19-3/8/19
 Click on the link below to download the warm-up, "Metric Modulation"
 {% include download.html title="Metric Modulation" filename="Unit23MetricModulation.pdf" %}
 
-Metric modulation is defined as a change in tempo (i.e. pulse rate) *and/or* the subdivision (i.e. the grouping) which is derived from a note value or note grouping heard before the change.
+Metric modulation is defined as a change in tempo (i.e. pulse rate) *and/or* the subdivision (i.e. the grouping) which is derived from a note value or a note grouping heard before the change.
 
 You will need to write on this warm-up and show it to your section professor before performing it to make sure you have done the math correctly. It is *not* hard, but it requires some thought and some multiplication.
 
