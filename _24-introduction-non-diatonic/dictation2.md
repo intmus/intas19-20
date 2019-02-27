@@ -5,11 +5,13 @@ title: Introduction to Non-Diatonic Scales
 
 In past chapters, we studied the **diatonic scale** and its modes. This week, we will expand our repertoire of scales to encompass some of the scales favored by composers in the late nineteenth and early twentieth century. As you'll recall from music history class,many composers were influenced by the scales and tone colors of folk music; others were influenced by scales defined by the acoustical properties of sound itself.
 
-### Solfege -- Not Always Necessary Any More
+<iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/7aespyKMM0xFJijol0zeJw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+### Solfege -- No Longer Always Necessary (!)
 
 Some of the scales we will study fall into the pattern of diatonicism and therefore need to be spelled using their exact pitch classes (that is, according to the key signature of the relevant diatonic scale) when we notate them. In others, since diatonicism is irrelevant to them, can be spelled using any enharmonic spelling of the pitch class.
 
-This means that we will not use solfege when we sing some of these scales. We will study systematic ways to practice singing without solfege, and discuss what makes them work.
+This means that not all of these scales can be sung using solfege. We will study systematic ways to practice singing without solfege, and discuss what makes them work.
 
 ### 5-Tone (Pentatonic) Scales
 
@@ -41,7 +43,7 @@ Another hexatonic scale, the **augmented scale,** may be less familiar to you. I
 
 ### A New Heptatonic Scale (7-Tone)
 
-In addition to the diatonic scale and its modes, we will study another heptatonic scale. The **Lydian Dominant** scale makes reference to the partials of the harmonic series. Its solfege is *do re mi fi sol la te do.* Use exact spellings.
+In addition to the diatonic scale and its modes, we will study another heptatonic scale. The **Lydian Dominant** scale makes reference to the partials of the harmonic series. It is a feature of Tuvan throat singing, a folk music style in which singers project overtones above a fundamental pitch using their vocal technique, as we can hear in this week's Spotify playlist. It is also used by some composers in Western classical music. Its solfege is *do re mi fi sol la te do.* Use exact spellings.
 
 ![Lydian Dominant]({{ '/images/Unit24scales5.jpg' | relative_url }})
 
