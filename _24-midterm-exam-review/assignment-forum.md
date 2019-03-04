@@ -12,7 +12,9 @@ comments: true
 
 ### What to Prepare
 
-- **This week's quiz**: On Tuesday 3/5/19, there will be a quiz on rhythmic dictation in compound time with syncopations. Thursday 3/7/19 will be the midterm exam.
+- **This week's quiz**: On Tuesday 3/5/19, there will be a quiz on rhythmic dictation in compound time with syncopations. 
+
+- **Midterm Exam**: This will take place during class time on Thursday 3/7/19.
 
 - **This week's audits** will be on the material we discussed during the Tuesday 2/28/19 lecture. Please prepare the materials listed in Unit 23.
 
