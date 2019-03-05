@@ -19,6 +19,7 @@ Rogers/Ottman Chapter 17. **17.37**, 17.47, **17.51, 17.58,** 17.64, **17.67,** 
 - 17.58: Conduct in 2, that is, a big 1 and small 2 ("One and a two and"). Most metronomes and metronome apps have a 3+2 function, so try practicing with it. No modulations.
 - 17.64: Conduct the 5/8 in 2 ("one and a two and"). Start D-flat major. Line 2, measure 2: f minor. Pickup toline 3: back to D-flat major until the end. Conduct the penultimate measure in 3. 
 - 17.67: Conduct the 7/4 in a big 3 ("one and a two and three and"). No modulations.  
+- 17.73: Conduct the "5+3" as two big unequal beats ("one-two-three-four-five / one-two-three"). No modulation, but take care over solfege in m. 9 (half-diminished 7 chord).
 
 
 
