@@ -14,7 +14,7 @@ We have already studied rhythmic concepts such as "two against three" and "three
 
 Polyrhythms are *not* difficult if you figure them out using a little easy math. 
 - First, figure out what the two numbers have in common. For two against three, that number is six, because 2+2+2=6 and 3+3=6. 
-- Use that common number as your subdivision. Therefore, for two against three, subdivide the measure in six: "One-and-two-AND-three-and" will help you divide three into two, wherease "One-and-A-two-AND-a" will divide two into three.
+- Use that common number as your subdivision. Therefore, for two against three, subdivide the measure in six: "One-and-two-AND-three-and" will help you divide three into two, whereas "One-and-A-two-AND-a" will divide two into three.
 - Some people find mnemonic devices useful in internalizing the "global rhythm" of the polyrhythm. For example, "Nice cup of tea" (quarter, eighth, eighth, quarter) is a commonly-used mnemonic device for two against three.
 
 **Prepared Material**
