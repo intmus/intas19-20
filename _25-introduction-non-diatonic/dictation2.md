@@ -33,7 +33,7 @@ There are several types of pentatonic scales -- the term simply means that there
 
 We will study two types of hexatonic scale. 
 
-The most famous hexatonic scale is the **whole tone scale.** It is constructed entirely from whole steps, and is therefore symmetrical. Some late nineteenth-century/early twentieth-century composers, most famously Claude Debussy (1862-1918) and Maurice Ravel (1875-1937), favored this scale in their compositions because it rejected the "hierarchy" of dominant-harmony. Because there can be no dominant in whole-tone music, this gives it a quality of "weightlessness" that listeners identified with the blurred colors and brushstrokes of Impressionist painting (Claude Monet, Jean Renoir, etc.)  Any enharmonic spelling is fine for this scale.
+The most famous hexatonic scale is the **whole tone scale.** It is constructed entirely from whole steps, and is therefore symmetrical. Some late nineteenth-century/early twentieth-century composers, most famously Claude Debussy (1862-1918) and Maurice Ravel (1875-1937), favored this scale in their compositions because it rejected the "hierarchy" of dominant-tonic harmony. Because there can be no dominant in whole-tone music, this gives it a quality of "weightlessness" that listeners identified with the blurred colors and brushstrokes of Impressionist painting (Claude Monet, Jean Renoir, etc.)  Any enharmonic spelling is fine for this scale.
 
 ![Whole Tone]({{ '/images/Unit24scales3.jpg' | relative_url }})
 
