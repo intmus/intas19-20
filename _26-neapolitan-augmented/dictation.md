@@ -7,7 +7,7 @@ title: Introduction to the Neapolitan Chord
 
 - The **Neapolitan chord**, also known as the Neapolitan Sixth because it almost always appears in first inversion, describes a major triad whose root is the lowered supertonic. The solfege syllables of the chord are *ra, fa,* and *le*. **However, since it appears in first inversion, we usually describe the solfege of the Neapolitan chord as *fa-le-ra.***
 - Therefore, if you suspect you have heard a Neapolitan chord in a harmonic dictation, listen out for *fa* in the bass.
-- It is acceptable to spell the chord analysis as "N<sup>6</sup>" or as &#9837;II<sup>6</sup>.
+- It is acceptable to spell the chord analysis as N<sup>6</sup> or as &#9837;II<sup>6</sup>.
 - **Function**: the Neapolitan chord precedes the dominant, often substituting for IV, iv, ii<sup>6</sup>, or ii<sup>06</sup>. It most commonly appears in minor keys, though it is possible for it to appear in major keys also.
 
 ### In Context -- Harmonic Dictation
