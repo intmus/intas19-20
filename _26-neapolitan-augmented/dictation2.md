@@ -36,7 +36,7 @@ When the augmented sixth precedes V, *le* typically resolves down to *sol*, and 
 -  In this example, the German sixth chord is followed by i 6/4 (to avoid parallel perfect fifths). This presentation is common for reasons of good voice-leading. Notice how *le* resolves to *sol* in the bass as usual, but *fi* (in the alto voice) resolves upwards to sol.
 
 ### In Context - Singing
-- Prepare this material carefully, because it will be in the elements section of the final audit. **Experiment: can you perform the exercises in a variety of different key signatures?**
+- Prepare this material carefully, because it will be in the elements section of the final audit. **Experiment: can you perform the exercises in a variety of different keys?**
 
 ![Augmented 4]({{ '/images/Unit26augmented4.JPG' | relative_url }})
 
