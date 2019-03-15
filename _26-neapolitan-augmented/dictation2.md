@@ -39,4 +39,5 @@ When the augmented sixth precedes V, *le* typically resolves down to *sol*, and 
 - Prepare this material carefully, because it will be in your final audit. **Experiment: can you perform the exercises in a variety of different key signatures?**
 
 ![Augmented 4]({{ '/images/Unit26augmented4.JPG' | relative_url }})
+
 ![Augmented 5]({{ '/images/Unit26augmented5.JPG' | relative_url }})
