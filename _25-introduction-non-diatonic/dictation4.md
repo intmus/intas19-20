@@ -5,32 +5,20 @@ title: Audit Preparation for week of 3/25/19-3/29/19
 
 ### Next Week's Audit Material
 
-**Warm-Up**
+**Sightreading**
 
-Click on the link below to download the warm-up, "Polyrhythms"
-{% include download.html title="Polyrhythms" filename="Unit25Polyrhythms.pdf" %}
-
-We have already studied rhythmic concepts such as "two against three" and "three against four." In this warm-up, we will add "two against five" and "three against five."
-
-Polyrhythms are *not* difficult if you figure them out using a little easy math. 
-- First, figure out what the two numbers have in common. For two against three, that number is six, because 2+2+2=6 and 3+3=6. 
-- Use that common number as your subdivision. Therefore, for two against three, subdivide the measure in six: "One-and-two-AND-three-and" will help you divide three into two, whereas "One-and-A-two-AND-a" will divide two into three.
-- Some people find mnemonic devices useful in internalizing the "global rhythm" of the polyrhythm. For example, "Nice cup of tea" (quarter, eighth, eighth, quarter) is a commonly-used mnemonic device for two against three.
+Instead of a warm-up, we will have sightreading at the approximate difficulty level of Rogers/Ottman Chapter 13.
 
 **Prepared Material**
 
-Ottman/Rogers Chapter 18: 18.6, **18.8, 18.11,** 18.13, **18.23**, 18.27, **18.29**, 18.34
+Rogers/Ottman Chapter 19: 19.2, 19.4, **19.9, 19.18, 19.33**, 19.39, **19.52**
 
-- 6: pay close attention to the double dotting 
-- 8: conduct in 2
-- 11: conduct in 4. For full points, you must perform this with no stops!
-- 13: conduct in 6
-- 23: conduct in a subdivided 4, very slow tempo. M. 5 modulates to E-flat; m. 7 back to C minor.
-- 27: conduct in a subdivided 4. Line 5 m. 3: modulates to D. At the 3 pickups to the DS, modulate to G major.
-- 29: conduct in 6, no modulation.
-- 34: conduct in a subdivided 4.
-
-
-
+- 19.2: use of chromatic tones. Modulation to c minor occurs at line 5, m. 2; go back to E-flat major line 6, m. 2. Last line: 1st 2 measures in c minor, last 2 measures in E-flat major. 
+- 19.4: doesn’t modulate, but extensive use of chromatic tones. 
+- 19.9: no modulation, but beware of Brahms’s penchant for chromaticisms. e.g. *ri-mi*, *li-ti-do*, etc. 
+- 19.18: in this duet, be prepared to sing either part (you may be asked to sing this twice, once on each part). NB you MUST practice with a study buddy or you will find this too hard! It is not hard once you understand how the parts fit together. For full points, you must keep going at all costs. Hesitation loses points!
+- 19.33 Very chromatic use of circle of 5ths. Modulations: m. 4 is in D minor; m. 5 is in C minor, m. 6 is in G minor, m. 7 is D minor; m. 8 is G minor. To prepare, sing the vocal line against the continuo’s bassline to understand how this works. Then take away the bassline, but keep it in “your mind’s ear” to keep your orientation of pitch and harmony.
+- 19.39: One of Schubert’s characteristic harmonic turnarounds to a far-flung key. Langsam=slow. Conduct in a slow 2. C minor until line 3 measure 2: at the *mf* marking, call this E major. Last 2 measures (start at pickup to penultimate measure): C minor again.
+19.52: In this duet, be prepared to sing either part. Home key = A flat. Modulation occurs line 2, measure 3: call this E major. Last 3 measures: modulates to E-flat.
 
 (Material **in bold** is mandatory. Your section professor will select unbolded examples at random during your audit, so please prepare all the material.)

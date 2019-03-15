@@ -38,6 +38,6 @@ When the augmented sixth precedes V, *le* typically resolves down to *sol*, and 
 ### In Context - Singing
 - Prepare this material carefully, because it will be in the elements section of the final audit. **Experiment: can you perform the exercises in a variety of different keys?**
 
-![Augmented 4]({{ '/images/Unit26augmented4.JPG' | relative_url }})
+![Augmented 4]({{ '/images/Unit26augmented4.jpg' | relative_url }})
 
-![Augmented 5]({{ '/images/Unit26augmented5.JPG' | relative_url }})
+![Augmented 5]({{ '/images/Unit26augmented5.jpg' | relative_url }})
