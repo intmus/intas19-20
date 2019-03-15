@@ -100,6 +100,9 @@ collections:
   25-introduction-non-diatonic:
     output: true
     name: Introduction to Non-Diatonic Scales
+  26-neapolitan-augmented:
+    output: true
+    name: Introduction to Neapolitan and Augmented Sixth Chords
     
   
     
