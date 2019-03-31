@@ -8,7 +8,7 @@ comments: true
 
 - The EarMaster assignment is due at 5:00 p.m. on Friday, March 29, 2019. Make sure to start your assignment well in advance of the deadline in case you experience any difficulties that might necessitate asking your section professor or TA for assistance.
 
-- Remember to prepare the **Unit 24** material for this week's audit.
+- Remember to prepare the **Unit 25** material for this week's audit.
 
 ### What to Prepare
 

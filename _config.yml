@@ -103,6 +103,9 @@ collections:
   26-neapolitan-augmented:
     output: true
     name: Introduction to Neapolitan and Augmented Sixth Chords
+  27-chords-inversions-contexts:
+    output: true
+    name: Inverted Compound Seventh Chords in Context
     
   
     
