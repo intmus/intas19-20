@@ -12,7 +12,7 @@ comments: true
 
 ### What to Prepare
 
-- **This week's quizzes**: This week's quizzes are on harmonic dictation (with the possibilities of Neapolitan chords and augmented sixth chords) (Tuesday 4/2/19) and compound seventh chords in all inversions (Thursday 4/4/19).
+- **This week's quizzes**: This week's quizzes are on nondiatonic scales in ascending motion (Tuesday 4/2/19) and rhythmic dictation (Thursday 4/4/19).
 
 - **This week's audits** will be on the material we discussed during the Thursday 3/28/19 lecture. Please prepare the materials listed in Unit 25.
 
