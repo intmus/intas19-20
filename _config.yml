@@ -106,6 +106,10 @@ collections:
   27-chords-inversions-contexts:
     output: true
     name: Inverted Compound Seventh Chords in Context
+  28-harmonic-big-picture:
+    output: true
+    name: Hearing the Harmonic Big Picture
+    
     
   
     
