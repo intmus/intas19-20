@@ -17,7 +17,7 @@ These excerpts demonstrate how you might come across borrowed chords in a harmon
 
 - In this example, the expectation of the standard I-IV-V progression gets a new and unexpected color when we have iv, instead of the usual IV, as our predominant.
 
-![minoriv]({{ '/images/Unit29borrowedchords3.jpg' | relative_url }})
+![minoriv]({{ '/images/Unit29borrowedchords6.jpg' | relative_url }})
 
 - Here, instead of the “textbook” progression I-ii-V, we get a colorful tonic-predominant-dominant progression, I-ii<sup>∅4/2</sup>-V<sup>6/5</sup>. We also have another instance of minor iv instead of major IV: remember, **there may be more than one borrowed chord within the same harmonic dictation**.
 
