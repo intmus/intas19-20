@@ -21,6 +21,8 @@ These excerpts demonstrate how you might come across borrowed chords in a harmon
 
 - Here, instead of the “textbook” progression I-ii-V, we get a colorful tonic-predominant-dominant progression, I-ii<sup>∅4/2</sup>-V<sup>6/5</sup>. We also have another instance of minor iv instead of major IV: remember, **there may be more than one borrowed chord within the same harmonic dictation**.
 
+![multipleborrowings]({{ '/images/Unit29borrowedchords4.jpg' | relative_url }})
+
 ### Instructions for practice
 
 At the piano, play through these progressions. Then, for comparison, play what they would sound like without the borrowed chords (i.e. in the more "normal" way, such as chord IV instead of borrowed chord iv in a major key. The trick to learning to hear different color is to be 100% familiar with the “expected” chords so you can understand how how the borrowed chord changes the color of the harmony.
