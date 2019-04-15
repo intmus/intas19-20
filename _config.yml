@@ -109,6 +109,9 @@ collections:
   28-harmonic-big-picture:
     output: true
     name: Hearing the Harmonic Big Picture
+  29-borrowed-chords:
+    output: true
+    name: Borrowed Chords
     
     
   
