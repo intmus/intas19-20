@@ -23,4 +23,4 @@ These excerpts demonstrate how you might come across borrowed chords in a harmon
 
 ### Instructions for practice
 
-At the piano, play through these progressions. Then, for comparison, play what they would sound like without the borrowed chords (i.e. in the more "normal" way, such as chord IV instead of borrowed chord iv in a major. The trick to learning to hear different color is to be 100% familiar with the “expected” chords so you can understand how how the borrowed chord changes the color of the harmony.
+At the piano, play through these progressions. Then, for comparison, play what they would sound like without the borrowed chords (i.e. in the more "normal" way, such as chord IV instead of borrowed chord iv in a major key. The trick to learning to hear different color is to be 100% familiar with the “expected” chords so you can understand how how the borrowed chord changes the color of the harmony.
