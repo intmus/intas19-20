@@ -8,7 +8,7 @@ title: Audit Preparation for week of 4/22/19-4/26/19
 **Warm-Up**
 
 Click on the link below to download the warm-up "Twelve-Tone Rows."
-{% include download.html title="Trichords" filename="Unit29TwelveTone.pdf" %}
+{% include download.html title="Twelve-Tone Rows" filename="Unit29TwelveTone.pdf" %}
 
 This week's warm-up is drawn from the sixth movement of Alban Berg's *Lyric Suite*, a piece constructed using twelve-tone serialism. You may not be familiar with the style, so listen to the sixth movement first. (Get inspired and listen to all of it! Then Google the intriguing story of forbidden love that inspired the composition...)
 
