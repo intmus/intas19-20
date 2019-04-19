@@ -112,7 +112,9 @@ collections:
   29-borrowed-chords:
     output: true
     name: Borrowed Chords
-    
+  30-irregular-resolutions:
+    output: true
+    name: Irregular Resolutions in Harmony
     
   
     
