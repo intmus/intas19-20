@@ -3,7 +3,7 @@ layout: chapter
 title: Final Audit Rubric
 ---
 
-The Sight-Singing Final Audit counts as 25% of your semester grade in singing, or 12.5% of your total grade for this class. The rubric is the same as for regular audits, and each part (see I-III below) is counted equally: 
+The Sight-Singing Final Audit counts as 25% of your semester grade in singing, or 12.5% of your total grade for this class. The rubric is the same as for regular audits, and each component (Elements, Sight Reading, Prepared Material) is counted equally: 
 
 - 10-9 Excellent (perfect or nearly perfect) accuracy, pitch, rhythm, solfège, expressive phrasing and conducting. 
 - 8-7 Very strong accuracy, pitch, rhythm, solfège, expression, and conducting. Has multiple errors in pitch and/or rhythm but student was aware of errors and able to fix them upon request.
