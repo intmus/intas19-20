@@ -80,35 +80,51 @@ Study the [score](http://ks.imslp.net/files/imglnks/usimg/3/33/IMSLP14821-Debuss
 **Text and Translation**
 
 *Scaramouche et Pulcinella,*
+
 *Qu'un mauvais dessein rassembla,*
+
 *Gesticulent noirs sous la lune,*
 
 *Cependant l'excellent docteur Bolonais*
+
 *Cueille avec lenteur des simples*
+
 *Parmi l'herbe brune.*
 
 *Lors sa fille, piquant minois,*
+
 *Sous la charmille, en tapinois,*
+
 *Se glisse demi-nue,*
 
 *En quête de son beau pirate espagnol,*
+
 *Dont un langoureux rossignol*
+
 *Clame la détresse à tue-tête.*
 
 Scaramouche and Pulcinella, 
+
 brought together by some wicked scheme
+
 gesticulate, dark beneath the moon.
 
 Meanwhile, the excellent doctor 
+
 of Bologna slowly gathers 
+
 medicinal herbs in the brown grass.
 
 Then his saucy-faced daughter
+
 sneaks underneath the arbor
+
 half-naked, in quest
 
 Of her handsome Spanish pirate,
+
 of whose distress a languorous nightingale 
+
 deafeningly declaims.
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/3qkTs62CNP7bJJCITRTJHB" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
