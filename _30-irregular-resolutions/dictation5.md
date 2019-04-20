@@ -10,44 +10,72 @@ Study the [score](http://ks.imslp.net/files/imglnks/usimg/1/1d/IMSLP08983-Schube
 **Text and Translation** 
 
 *Der Lerche wolkennahe Lieder*
+
 *Erschmettern zu des Winters Flucht.*
+
 *Die Erde hüllt in Sammt die Glieder,*
+
 *Und Blüthen bilden rothe Frucht.*
+
 *Nur du, o sturmbewegte Seele,*
+
 *Blüthenlos, in dich gekehrt,*
+
 *Und wirst in goldner Frühlingshelle*
+
 *Von tiefer Sehnsucht aufgezehrt.*
 
 *Nie wird, was du verlangst, entkeimen*
+
 *Dem Boden, Idealen fremd;*
+
 *Der trotzig deinen schönsten Träumen*
+
 *Die Kraft entgegen stemmt.*
+
 *Du ringst dich matt mit seiner Härte,*
+
 *Vom Wunsche heftiger entbrannt:*
+
 *Mit Kranichen ein Gefährte*
+
 *Zu wandern in ein milder Land.* 
 
 The songs of the lark, up near the clouds,
+
 Ring out as winter flies away.
+
 The earth covers its limbs in velvet
+
 And blossoms build red fruit.
+
 Only you, oh storm-tossed soul,
+
 Only you do not blossom. You are turned in on yourself,
+
 And in the golden brightness of spring
+
 You are drained by deep longing.
 
 What you crave will never spring from
+
 This soil, a stranger to ideals,
+
 Which, despite your most beautiful dreams,
+
 Sets its raw strength up against you.
+
 You tire yourself in fighting against its toughness,
+
 Enflamed with the burning desire
+
 To set off as a traveler with the cranes
+
 And to migrate to a milder country.
 
 ### Claude Debussy, “Fantoches” (“Puppets”) from *Fêtes galantes* (The Courtship Party).
 
-Study the [full score](http://ks.imslp.net/files/imglnks/usimg/3/33/IMSLP14821-Debussy_-_F%C3%AAtes_galantes_(voice_and_piano).pdf "Fêtes galantes").
+Study the [score](http://ks.imslp.net/files/imglnks/usimg/3/33/IMSLP14821-Debussy_-_F%C3%AAtes_galantes_(voice_and_piano).pdf "Fêtes galantes").
 
 **Text and Translation**
 

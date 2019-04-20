@@ -12,7 +12,7 @@ Scheduled by appointment with Dr. Wilson and Dr. Jones during Finals Week
 - All modes, using solfege (starting pitch will be given)
 - Whole tone, chromatic, octatonic scales, ascending and descending (sing on a neutral syllable like "la," do not attempt to use solfege)
 - Neapolitan and augmented sixth chords, ascending (tonic chord will be given; use solfege)
-- All tetrachords and trichords previously studied in class (starting pitch will be given;sing using numbers)
+- All tetrachords and trichords previously studied in class (starting pitch will be given; sing using numbers)
 
 **Sight Reading**
 - An excerpt will be provided. Expect material of the difficulty level of Rogers/Ottman Chapter 13.
