@@ -26,9 +26,9 @@ Review the harmonic contexts of intervals by practicing the following chords and
 
 ### Singing Practice
 
-Review this singing warm-up of intervals and solfege in common contexts. Re-commit the solfege to memory for easy recall.
+Review this singing warm-up of intervals and solfege in common contexts. Memorize the solfege and context for easy recall.
 
-![Intervals in Context]({{ '/images/Week4IntervalsInContext.jpg' | relative_url }})
+![Intervals in Context]({{ '/images/Unit31intervalscontext.jpg' | relative_url }})
 
 ### Study Skills - Flow Chart
 
