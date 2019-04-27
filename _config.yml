@@ -115,6 +115,9 @@ collections:
   30-irregular-resolutions:
     output: true
     name: Irregular Resolutions in Harmony
+  31-putting-it-all-together:
+    output: true
+    name: Putting It All Together
     
   
     
