@@ -2,8 +2,28 @@
 layout: chapter
 title: Comprehensive Review of Intervals 
 ---
+ ### Recommended Solfege for Simple Intervals
 
-### Review Contexts
+Here again is the chart of simple intervals and their recommended solfege from Week 1. Memorize the solfege for easy recall:
+
+|**Interval Name**   |**Abbreviation**|**Recommended Ascending Solfege**|
+|--------------------|----------------|---------------------------------|
+|perfect unison      | P1             |*do, do*                         |
+|minor second        | m2             |*ti, do* or *mi, fa*             |
+|major second        | M2             |*do, re*                         |
+|minor third         | m3             |*mi, sol*                        |
+|major third         | M3             |*do, mi*                         |
+|perfect fourth      | P4             |*sol, do*                        |
+|augmented fourth    | A4             |*fa, ti*                         |
+|diminished fifth    | d5             |*ti, fa*                         |
+|perfect fifth       | P5             |*do, sol*                        |
+|minor sixth         | m6             |*mi, do*                         |
+|major sixth         | M6             |*sol, mi*                        |
+|minor seventh       | m7             |*sol, fa*                        |
+|major seventh       | M7             |*do, ti*                         |
+|perfect octave      | P8             |*do, do*                         |
+
+### Review the Contexts
 
 Download the study guide (link below) on the context and solfege of intervals, and listen to the related Spotify playlist.
 
