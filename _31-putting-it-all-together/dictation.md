@@ -2,7 +2,7 @@
 layout: chapter
 title: Comprehensive Review of Intervals 
 ---
- ### Recommended Solfege for Simple Intervals
+### Recommended Solfege for Simple Intervals
 
 Here again is the chart of simple intervals and their recommended solfege from Unit 1. Memorize the solfege for easy recall:
 
