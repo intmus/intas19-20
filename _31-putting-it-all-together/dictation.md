@@ -4,7 +4,7 @@ title: Comprehensive Review of Intervals
 ---
  ### Recommended Solfege for Simple Intervals
 
-Here again is the chart of simple intervals and their recommended solfege from Week 1. Memorize the solfege for easy recall:
+Here again is the chart of simple intervals and their recommended solfege from Unit 1. Memorize the solfege for easy recall:
 
 |**Interval Name**   |**Abbreviation**|**Recommended Ascending Solfege**|
 |--------------------|----------------|---------------------------------|
@@ -25,7 +25,7 @@ Here again is the chart of simple intervals and their recommended solfege from W
 
 ### Review the Contexts
 
-Download the study guide (link below) on the context and solfege of intervals, and listen to the related Spotify playlist.
+Download the study guide from Unit 4 (link below) on the context and solfege of intervals, and listen to the related Spotify playlist.
 
 {% include download.html title="Interval Context and Solfege" filename="Week14melodicintervals.pdf" %}
 
