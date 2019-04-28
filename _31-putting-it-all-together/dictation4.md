@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Comprehensive Review of Seventh Chords
+title: Comprehensive Review of Compound Seventh Chords
 ---
 
 ### Review of Solfege and Function
