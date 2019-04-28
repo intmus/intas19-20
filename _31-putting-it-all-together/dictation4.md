@@ -69,6 +69,16 @@ Review and memorize the flow chart to sort through information quickly and elimi
 
 ![Flow Chart]({{ '/images/Unit25flowchart.jpg' | relative_url }})
 
-### Memory and Imagination
+### Piano Practice - Inversions and Contexts
 
-Memorize the rules and tables above so that you have the information at your fingertips. But for strong success in this topic, you must also be able to imagine contexts for the seventh chords using the rules of voice-leading and harmonic progression. The best way to cultivate this skill -- which is not necessarily a straightforward one -- is to improvise at the piano to learn how the chords look, sound, and feel to play.
+Practice the following contexts for compound seventh chords at the piano. Notice the voice-leading, and play the chords both blocked and arpeggiated, as well as playing the four voices separately to hear their linear shapes.
+
+![dd7]({{ '/images/Unit27chords1.jpg' | relative_url }})
+
+![dm7]({{ '/images/Unit27chords2.jpg' | relative_url }})
+
+![mm7]({{ '/images/Unit27chords3.jpg' | relative_url }})
+
+![Mm7]({{ '/images/Unit27chords4.jpg' | relative_url }})
+
+![MM7]({{ '/images/Unit27chords5.jpg' | relative_url }})
