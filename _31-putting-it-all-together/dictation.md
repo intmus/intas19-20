@@ -35,3 +35,23 @@ Review this singing warm-up of intervals and solfege in common contexts. Memoriz
 Flow charts are invaluable in helping us identify correct answers and eliminate errors when we are under pressure in an exam. Review the flow chart below for easy categorization of intervals.
 
 ![Intervals Flow Chart]({{ '/images/Week5FlowChartIntervals.jpg' | relative_url }})
+
+### Simple vs. Compound
+
+It isn't hard to "translate" simple intervals into the compound intervals we are now studying. For reference, here is a compound intervals cheat sheet. The procedure? Simply identify the interval and add 7...
+
+Simple Interval | Compound Interval
+--- | --- 
+m2 | m9 
+M2 | M9 
+m3 | m10
+M3 | M10 
+P4 | P11
+A4 | A11
+d5 | d12 
+P5 | P12 
+m6 | m13
+M6 | M13 
+m7 | m14 
+M7 | M14 
+P8 | P15
