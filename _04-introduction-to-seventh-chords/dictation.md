@@ -13,11 +13,11 @@ The table below explains the characteristics, harmonic function, and solfege of 
 
 ![Seventh Chords In Root Position]({{ '/images/Week4SeventhChordsRootPosition.jpg' | relative_url }})
 
-Chord Name   |   double diminished 7   |   half diminished 7   |   minor-minor 7   |   major-minor 7   |   major-major 7    
+Chord Name   |   double diminished 7 **or** fully diminished   |   half diminished **or** diminished minor   |   minor-minor 7   |   major-minor 7   |   major-major 7    
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
 **Symbol**   |   dd 7   |   dm 7   |   mm 7   |   Mm 7   |   MM 7   
 **Intervallic Structure of the Chord**   |   diminished triad + major third OR three stacked minor 3rds   |   diminished triad + major 3rd   |   minor triad + minor 3rd   |   major triad + minor 3rd   |   major triad + major 3rd   
-**Common Harmonic Function**   |   vii07 in minor keys   |   iiØ7 in minor keys OR viiØ7 in major keys   |   ii7 OR vi7 in major keys   |   V7 in major AND minor keys   |   rare in classical music; commoner in jazz and pop
+**Common Harmonic Function**   |   vii<sup>07</sup> in minor keys   |   ii<sup>Ø7</sup> in minor keys OR vii<sup>Ø7</sup> in major keys   |   ii<sup>7</sup> OR vi<sup>7</sup> in major keys   |   V<sup>7</sup> in major AND minor keys   |   rare in classical music; commoner in jazz and pop
 **Solfege**   |   *ti re fa le*   |   *re fa le do* OR *ti re fa la*   |   *re fa la do* OR *la do mi sol*   |   *sol ti re fa*   |   *do mi sol ti*
 
 ### Seventh Chords in Melodic and Harmonic Contexts
