@@ -20,12 +20,12 @@ title: Melodic Dictation Exam Review
 
 - Joseph Haydn, Piano Sonata No. 12
 
-![Haydn Piano Sonata]({{ '/images/Unit31Haydn.jpg' | relative_url }})
+![Haydn Piano Sonata]({{ '/images/Unit31Haydn.JPG' | relative_url }})
 
 Play through this example on the piano, and take stock of the melodic and harmonic annotations that are they key to understanding Classical phrases. In the final exam, you may be called upon to write a dictation of comparable difficulty.
 
 - Wolfgang Amadeus Mozart, Piano Sonata in A Minor K. 310
 
-![Mozart Piano Sonata]({{ '/images/Unit31Mozart.jpg' | relative_url }})
+![Mozart Piano Sonata]({{ '/images/Unit31Mozart.JPG' | relative_url }})
 
 <iframe src="https://open.spotify.com/embed/track/4CwHoRhg1It2AQa0DDUZq3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
