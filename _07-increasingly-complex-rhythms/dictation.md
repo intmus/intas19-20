@@ -3,14 +3,14 @@ layout: chapter
 title: Ear Training - Increasingly Complex Rhythms
 ---
 
-## Compound Time Review
+### Compound Time Review
 
 As you know, compound time is defined by a beat that is divisible by **three**, as opposed to simple time, in which the beat is divisible by two.
 
 There are several methodical procedures for writing rhythmic dictations. The following suggestions may help you navigate.
 
 
-### 1. The "Back to Basics" Method
+**1. The "Back to Basics" Method**
 
 Begin by jotting down the following information on your quiz paper:
 
@@ -24,8 +24,7 @@ Your paper may look something like this.
 
 ![Rhythm Basics]({{ '/images/Week7Rhythm1.PNG' | relative_url }})
 
-
-### 2. The "Dummy Rhythm" Method
+**2. The "Dummy Rhythm" Method**
 
 No one is calling anyone a dummy! Rather, a dummy rhythm is a predictable beat pattern that we commonly find in music. Many compound time rhythmic dictations will feature a "long-short" division of the beat. In 12/4, this division is "half note - quarter note." 
 
@@ -37,8 +36,7 @@ Your paper may look like this.
 
 (Don't like our dummy rhythm? Choose your own!)
 
-
-### 3. The "Forwards and Backwards" Method
+**3. The "Forwards and Backwards" Method**
 
 Sometimes we begin writing down a rhythmic dictation confidently, only to get lost after the first few note values. But who says we have to keep starting at the beginning? Oftentimes, you may find yourself able to perfectly recollect the last few note values long after you've forgotten what happened in the first few measures. 
 
@@ -49,7 +47,7 @@ Your paper may look like this.
 ![Rhythm Basics]({{ '/images/Week7Rhythm3.PNG' | relative_url }})
 
 
-## Further Practice
+**Further Practice**
 
 - Try writing down the rhythms of passages from a piece in compound time that you've studied on your instrument.
 - Try writing down the rhythm of a poem you know. Poetry has meters too -- for example, Shakespeare's famous *iambic pentameter*. 

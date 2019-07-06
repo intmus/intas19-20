@@ -19,8 +19,7 @@ Second Inversion**   |   1-3-4-6   |   4/3
 - You may find the chord quality of 4/2 chords easier to identify than for the other inversions, because they are composed of the interval of a second between the lowest two pitches, stacked with a triad at the top. The quality of the second and of the triad will be determined by the chord quality, but crucially, the triad that makes up the upper three pitches of a 4/2 chord has the same quality as the triad the makes up the lower three pitches of the chord when it appears in in root position. 
 - Further, the interval of a second that makes up the lowest two pitches of a 4/2 chord is the inverse of the seventh between the lowest and highest pitches of the chord in root position.
 
-
-### Piano and Singing Practice
+**Piano and Singing Practice**
 
 Please play the following chords in root position and all their inversions on the piano. Sing up and down the notes of the chords using solfege. As you do so, engage three of your learning tools: your visual, auditory, and kinesthetic senses. Ask yourself:
 
@@ -38,7 +37,7 @@ Chord   |   dd 4/2   |   dm 4/2   |   mm 4/2   |   Mm 4/2   |   MM 4/2
 **salient features**   |   This chord may appear in 4/2 in scores. In this class, always ID it as root position.   |   Apart from dd 4/2, the only 4/2 chord with a *diminished* triad.   |   The only 4/2 chord with a *minor* triad.   |   Strong dominant function = could resolve to I6   |   The only 4/2 chord with a *minor second*  
 
 
-### Tips for Easy Identification and Notation
+**Tips for Easy Identification and Notation**
 
 - What are some of the features that *only* exist in certain chords?
    - As always in inverted chords, the minor second is the dead giveaway that the chord quality is MM. Once you identify that interval, don't waste time thinking about other chord qualities, since it can only be MM. Its position within the chord will give you your inversion. Recall your solfege and use it to notate the chord.
@@ -51,7 +50,7 @@ Chord   |   dd 4/2   |   dm 4/2   |   mm 4/2   |   Mm 4/2   |   MM 4/2
    - Two of the chords contain not one but two perfect consonances...
    - Find your own methods!
 
-### Make Your Own Flow Chart.
+**Make Your Own Flow Chart**
 
 In Unit 4, we shared a **flow chart** that helped identify seventh chords in root position and first inversion.
 

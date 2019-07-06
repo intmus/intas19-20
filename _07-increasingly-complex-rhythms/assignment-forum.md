@@ -6,7 +6,7 @@ comments: true
 
 ### Reminder: Midterm Exam
 
-The midterm exam will be given during class time on Thursday, October 11. No makeup exams will be given.
+The midterm exam will be given during class time on Thursday, October 17. No makeup exams will be given.
 
 The midterm will contain questions on the following topics:
 
@@ -20,12 +20,12 @@ The midterm will contain questions on the following topics:
 
 ### Reminder: Earmaster 
 
-This week's EarMaster assignment is due Friday, October 5, 2018, at 5:00 p.m. Be sure to check that you are doing the right assignment!
+This week's EarMaster assignment is due **Friday, October 11, 2019, at 5:00 p.m.**
 
-Any problems? Please consult your professor or TA.
+Important note: **Be careful that you are completing the correct assignment.** If you are unsure, please show your screen to your professor or TA, *or* send a screen shot by email. 
 
-### Reminder: Sight Singing Audit 
+### Reminder: Sight Singing Lesson 
 
-Remember to attend your audit warm-up at the appointed time, bringing your Ottman-Rogers textbook.
+Remember to attend your sight singing lesson at the appointed time, bringing your Unit 7 materials as a paper print-out or on your laptop or tablet. 
 
 Questions? Please ask them in the forum below.

@@ -1,34 +1,23 @@
 ---
 layout: chapter
-title: Sight Singing - Sightreading & Chapter 8
+title: Sight Singing - Sightreading; ii & IV
 ---
 
-## Preparation for Unit 8 Sight Singing
+### Preparation for Unit 8 Sight Singing
 
-This week, you will again sight-read a short piece of music instead of having a warm-up. Your professor will give you a tonic triad, a starting pitch, a tempo, and about 30 seconds to prepare yourself.
+Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-Please sing the excerpt using solfege, conducting yourself as you sing.
+{% include download.html title="Unit 8 Sight Singing Assignment" filename="Unit8SSA.pdf" %}
 
-As you prepare, please take note of the following features of the piece:
-- What is the time signature?
-- What is the key signature?
-- Which solfege degree does the piece start and end on?
-- Which pitches are *do*, *mi*, and *sol*? Plan around the tonic triad -- it's there to help you.
-- Which pitches are *sol*, *ti*, and *re* (the dominant triad)? 
-- Look out for unexpected skips, rhythms, or anything else that might take you by surprise.
+### Sight Singing Instructions
+**Sightreading**
+The coming week's sight singing lesson will feature sightreading. The difficulty level will be approximately that of melodies we were studying back in Unit 4 and Unit 5. Your instructor will give you a moment to practice the sightreading before you perform it. As always, take careful note of the clef, the key signature, the time signature, and so on. What is the beat note? How many beats are in the measure? Where are *do*, *mi*, and *sol*, and other "signposts"? How is the beat divided? Sing and conduct confidently, aiming for a steady tempo, fluent solfege, and perfect intonation.
 
-Importantly, please don't hesitate to sing during your preparation time. If you prepare out loud, then when you have to sing "for real," it will be your second time through. You will not be graded on any of the sounds you make during the preparation time.
+**Prepared Material: Chords ii and IV**
+In common chord progressions, the dominant is typically preceded by a pre-dominant chord. The most common of these is IV, though ii<sup>6</sup> (which has the same bass note, *fa*) is often used too. This week, expect to sing a lot of *fa*, *la* (or *le*, in minor keys), and *re* as we explore these chords.
 
-### Rogers/Ottman Exercises
+Another place we regularly find chord IV is in its second inversion as part of the “pedal 6/4,” one of the three specific uses of the 6/4 triad in harmony (the other two being the passing 6/4 and the cadential 6/4, which we will study in future units). The pedal 6/4 is often found as a variant of chord I in harmonic progressions such as the one that accompanies “Twinkle Twinkle Little Star” and “Baa Baa Black Sheep.” This week, we will sing duets that demonstrate this harmonic progression.
 
-8.4, **8.23**, 8.34, 8.37, 8.43, **8.50**, 8.63, **8.64**, 8.66
+Chord IV can also precede I in the plagal cadence. Part of developing professional-level musicianship is understanding the harmonic progressions indicated by basslines. We will sing several of these in this unit. You will notice that they often contain several large leaps. When you understand the rational order of harmonic progression, this will take some of the difficulty out of singing them.
 
-### Rogers/Ottman Guidelines
-
-- 8.4: count rests, sing as canon
-- 8.23: compound time, many leaps
-- 8.34: leaps in m.3, slightly difficult cadence
-- 8.37: listen to it in context to understand leaps and tuning of second line.
-- 8.43: What is the triad outlined in the first 3 notes???
-- 8.50: a bassline. If you aren’t used to these, this can be challenging.
-- 8.63-64, 8.66: expect to be given either part.	
+For more practice singing Baroque basslines, please see this [link](http://conquest.imslp.info/files/imglnks/usimg/6/6b/IMSLP24489-PMLP09471-CCARH_Bach_Chorales.pdf) to several hundred of Bach’s chorales in four-part settings.
