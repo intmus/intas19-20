@@ -15,7 +15,11 @@ Write out the modal scales, sing them, and play them on the piano. This gives yo
 
 ### The Next Step
 
-Once you have identified the scale, you should ascertain what key it's in. For example, if you decide it's a Mixolydian scale, and the starting pitch is A, that means *do* must be D. The key signature of D major is, of course, two sharps. Therefore, when you write out a scale with the starting pitch A, you'll add a C-sharp and an F-sharp. By using this method, you can avoid notation errors.
+**Two Methods** 
+- The "Find the Key Signature" Method
+Once you have identified the scale, you should ascertain what key it's in. For example, if you identify a Mixolydian scale, and the starting pitch is A, that means A is the fifth degree of the key of the key signature. Counting backwards, that gives you D. The key signature of D major is, of course, two sharps. Therefore, when you write out a scale with the starting pitch A, you'll add a C-sharp and an F-sharp. By using this method, you can avoid notation errors.
+- The "First Pitch = *do*" Method
+Alternatively, you can remember which scale degrees to alter. So if you identify a Mixolydian scale whose starting pitch is A, you'll recall that a Mixolydian scale is like a major scale whose seventh degree is lowered to *te*. Therefore, there won't be a G-sharp -- the seventh degree is G-natural.
 
 **Flow Chart for Modal Scales in Descending Motion**
 

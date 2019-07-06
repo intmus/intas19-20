@@ -3,7 +3,8 @@ layout: chapter
 title: Ear Training - Syncopated Rhythms in Simple and Compound Time
 ---
 
-### Today's Spotify Playlist: "UI Aural Skills III Syncopations" by user mirandawilson
+**Today's Spotify Playlist: "UI Aural Skills III Syncopations" by user "mirandawilson"**
+<iframe src="https://open.spotify.com/embed/playlist/5p9EoAESi0apkC4IPNxLNw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 This week, we will notate rhythmic dictations that feature syncopated rhythms.
 
@@ -18,8 +19,7 @@ The images below show examples of all three types of syncopations as we might fi
 
 ![Syncopations in Compound Time]({{ '/images/Week13compoundsyncopations.jpg' | relative_url }}){:target='_blank'}
 
-### Tips for Success
-
+**Tips for Success**
 - The usual conditions for success apply here too, such as taking careful note of the number of beats in the measure, beat note, and possible divisions and subdivisions of the beat. Please review all the time signatures and their beat notes.
 - Normal notation conventions such as beaming still apply. What changes is the use of **ties**. Ties will be used to notate various syncopations that cross beats and barlines.
 - During the dictation, conduct along using your non-writing hand. Keeping to a strict beat is key to figuring out the syncopations, since the definition of a syncopation is a rhythm that is at odds with the normal pattern of accentuated beats.

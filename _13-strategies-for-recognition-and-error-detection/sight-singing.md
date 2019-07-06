@@ -1,24 +1,20 @@
 ---
 layout: chapter
-title: Sight Singing - Sight-Reading and Chapter 13
+title: Sight Singing - Sightreading and the Scottish Snap
 ---
 
-## Preparation for Unit 14 Sight Singing
+### Preparation for Unit 14 Sight Singing
 
-### Sight-Reading 5
+Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-Instead of a warm-up, this week you will be given a short excerpt to sightread. You will be given around a minute to prepare yourself using the usual strategies (what is the clef? Time signature? Key signature? Can you find tonic and dominant triadic patterns? Is there anything unusual in there that you might stumble over?)
+{% include download.html title="Unit 14 Sight Singing Assignment" filename="Unit14SSA.pdf" %}
 
-The difficulty of this excerpt will be roughly that of the difficulty of chapters 10-11 of the Rogers/Ottman textbook.
+### Instructions
 
-### Rogers/Ottman Exercises
+**Sightreading**
+This will be approximately of the same difficulty level as material we studied 1-2 weeks ago. Please follow the usual procedural advice for success in sightreading.
 
-Rogers/Ottman: 13.83, **13.89**, 13.110, 13.114, **13.115, 13.117,** 13.118
+**The Scottish Snap**
+The Scottish snap, also known as the "Scotch snap," is a form of syncopated rhythm characteristic of the folk music of Scotland and the Scottish country dance form known as the *strathspey*. It is also found in music of the Scottish diaspora around the world, including the folk music in the Ozark and Appalachian regions of the United States.
 
-### Rogers/Ottman Guidelines
-
-- 13.83: don’t drag the syncopations
-- 13.110: Some dotted figures, some Scottish snaps, take care to be accurate
-- 13.114 and 115: these come from non-Classical repertoire. Take note of the different styles.
-- 13.117: prepare the arpeggiated syncopated patterns carefully.
-- 13.118: this contains syncopations and large leaps, both of which require careful preparation.
+The Scottish snap is like the reverse of the usual "dotted rhythm" procedure. By contrast, the Scottish snap has the short note first, on the beat. Being on the beat gives the short note the impression of being accented. When preparing the rhythmic examples, take care that the short note of the Scottish snap falls exactly on the beat.
