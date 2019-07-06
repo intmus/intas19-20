@@ -6,7 +6,7 @@ comments: true
 
 ### Reminder: Earmaster 
 
-This week's EarMaster assignment is due **Thursday, December 5, 2019, at 5:00 p.m.**
+This week's EarMaster assignment is due **Friday, December 6, 2019, at 5:00 p.m.**
 
 Important note: **Be careful that you are completing the correct assignment.** If you are unsure, please show your screen to your professor or TA, *or* send a screen shot by email. 
 
