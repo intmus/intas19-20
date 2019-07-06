@@ -23,9 +23,10 @@ Using the above procedure, you might:
 - label the starting pitch of A-flat as *do*. If A-flat = *do*, *do* must be D-flat
 - The key signature of D-flat major is, of course, five flats. Therefore, the second pitch must be notated as a D-flat.
 
-### Suggested Melodic Contexts
+**Suggested Melodic Contexts**
 
 The images below show some possible melodic contexts for the intervals. Don't know these songs? Check out the Spotify playlist **"UI Aural Skills III Simple Intervals In Context"** by user **mirandawilson**. 
+<iframe src="https://open.spotify.com/embed/playlist/3oN3mV2Gv5DtxxlnjEFqsc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 If these examples aren't personally meaningful to you, there are lots of sites around the internet with different suggestions. Get creative and invent your own chart!
 
