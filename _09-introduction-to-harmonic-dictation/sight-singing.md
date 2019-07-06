@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Sight Singing - Seventh Chords and Chapter 10
+title: Sight Singing - Seventh Chords; Compound Meter
 ---
 
 ### Preparation for Unit 10 Sight Singing
