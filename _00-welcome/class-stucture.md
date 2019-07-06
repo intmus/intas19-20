@@ -3,7 +3,8 @@ layout: chapter
 title: Introduction to Aural Skills 
 ---
 
-# Purpose and Philosophy of Aural Skills
+## The Purpose and Philosophy of Aural Skills
+
 
 *“A perfect musician should be able to picture a piece, at first hearing...as though the score were visible.”*
 
@@ -13,7 +14,7 @@ These two thought-provoking quotes from Robert Schumann's *Advice For Young Musi
 
 Aural skills are essential to professional-level musicianship. The two interdependent topics in this class are ear training and sight singing. 
 
-## Ear Training
+### Ear Training
 
 Ear training cultivates the ability to accurately write down music that you hear. In this class, we will cover dictation in the following subjects:
 
@@ -24,6 +25,6 @@ Ear training cultivates the ability to accurately write down music that you hear
 - Melody
 - Harmony
 
-## Sight Singing
+### Sight Singing
 
 Sight singing cultivates score-reading ability that enables you to hear music "in your mind's ear," and perform it using moveable-do solfege and conducting.
