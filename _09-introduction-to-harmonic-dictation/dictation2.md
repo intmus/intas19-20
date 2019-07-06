@@ -3,6 +3,7 @@ layout: chapter
 title: Ear Training - Cadences
 ---
 
+### Cadences
 You are likely already familiar with some of the most familiar types of chord progressions: *cadences.*
 
 A cadence is composed of the two final chords in the harmonic progression that ends a musical phrase.

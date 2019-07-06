@@ -4,6 +4,7 @@ title: Ear Training - Common Chord Progressions in Context
 ---
 
 - Spotify playlist for today's lecture: "UI Aural Skills III Chord Progressions" by user "mirandawilson"
+<iframe src="https://open.spotify.com/embed/playlist/2IETBabDnEV8BbFMDtyCuJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ## I-IV-V-I - The Basis of Western Harmony
 

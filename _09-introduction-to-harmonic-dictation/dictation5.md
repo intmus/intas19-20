@@ -3,6 +3,7 @@ layout: chapter
 title: Ear Training - Root Movement Cheat Sheet
 ---
 
+### Making Predictions the Easy Way
 Memorize the following table -- or make some flash cards using this information -- for easy recall of the implied Roman numeral and figured bass analysis that we can predict from examining the movement of the bass notes in harmonic dictation.
 
 Bass Notes | Likely Chord Pattern 
