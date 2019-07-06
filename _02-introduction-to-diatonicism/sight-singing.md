@@ -9,7 +9,7 @@ The coming week's sight singing lesson will continue to focus on singing interva
 
 Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-{% include download.html title="Unit 2 Sight Singing Assignment" filename="Unit3SSA.docx.pdf" %}
+{% include download.html title="Unit 3 Sight Singing Assignment" filename="Unit3SSA.docx.pdf" %}
 
 ### Sight Singing Instructions
 
