@@ -12,6 +12,6 @@ Important note: **Be careful that you are completing the correct assignment.** I
 
 ### Reminder: Sight Singing Lesson 
 
-Remember to attend your sight singing lesson at the appointed time, bringing your Unit 4 materials as a paper print-out or on your laptop or tablet. 
+Remember to attend your sight singing lesson at the appointed time, bringing your Unit 3 materials as a paper print-out or on your laptop or tablet. 
 
 Questions? Please ask them in the forum below.

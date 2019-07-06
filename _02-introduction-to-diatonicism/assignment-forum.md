@@ -10,7 +10,7 @@ The first EarMaster assignment is due **Friday, September 6, 2019, at 5:00 p.m.*
 
 ### Reminder: Sight Singing Lessons 
 
-This week is the first week of sight singing lessons. Remember to attend your lesson at the appointed time. **Please bring the material that we prepared in class on Thursday, August 29, 2019.** You may choose to bring a paper print-out of the PDF, or view the device on a laptop or large tablet. Please do not use a phone.
+This week is the first week of sight singing lessons. Remember to attend your lesson at the appointed time. **Please bring the Unit 2 material that we prepared in class on Thursday, August 29, 2019.** You may choose to bring a paper print-out of the PDF, or view the device on a laptop or large tablet. Please do not use a phone.
 
 ### This week's Spotify playlist
 

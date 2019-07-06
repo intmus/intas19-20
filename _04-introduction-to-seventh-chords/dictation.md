@@ -3,7 +3,7 @@ layout: chapter
 title: Ear Training - How Seventh Chords Work
 ---
 
-## Introduction to Seventh Chords
+### Introduction to Seventh Chords
 
 In this class, we will study **five** types of seventh chords.
 
