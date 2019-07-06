@@ -3,7 +3,7 @@ layout: chapter
 title: Ear Training - How Seventh Chords Work in Second Inversion
 ---
 
-## Inverting Seventh Chords: Second Inversion
+### Inverting Seventh Chords: Second Inversion
 
 In Unit 4, we studied five different types of seventh chords (dd, dm, mm, Mm, MM) in root position and first inversion.
 
