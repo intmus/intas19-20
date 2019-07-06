@@ -1,11 +1,18 @@
 ---
 layout: chapter
-title: Sight Singing - Sightreading & Chapter 9
+title: Sight Singing - Sightreading & V7
 ---
 
-## Preparation for Unit 9 Sight Singing
+### Preparation for Unit 9 Sight Singing
 
-This week, you will again sight-read a short piece of music instead of having a warm-up. Your professor will give you a tonic triad, a starting pitch, a tempo, and about 60 seconds to prepare yourself.
+Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
+
+{% include download.html title="Unit 9 Sight Singing Assignment" filename="Unit9SSA.pdf" %}
+
+### Sight Singing Instructions
+
+**Sightreading**
+This week, you will again sight-read a short piece of music. Your professor will give you a tonic triad, a starting pitch, a tempo, and about 60 seconds to prepare yourself.
 
 Please sing the excerpt using solfege, conducting yourself as you sing.
 
@@ -20,15 +27,11 @@ As you prepare, please take note of the following features of the piece:
 
 Importantly, please don't hesitate to sing during your preparation time. If you prepare out loud, then when you have to sing "for real," it will be your second time through. You will not be graded on any of the sounds you make during the preparation time.
 
-### Rogers/Ottman Exercises
+**Prepared Materials - The Dominant Seventh**
 
-9.6, **9.13**, 9.18-19, 9.24, **9.30**, 9.31, 9.32, 9.35, **9.36**. 
+The V<sup>7</sup> chord is composed of the dominant triad – *sol ti re* – with the addition of a minor third above it. The solfege is therefore *sol ti re fa*. It is the same for both major and minor keys; when notating it in a minor key, be sure to raise the seventh scale degree to create *ti*.
 
-### Rogers/Ottman Guidelines
+The function of V<sup>7</sup> is to set up the expectation of a resolution to the tonic triad (or a resolution to the submediant triad in a deceptive cadence).
+Though they are both familiar chords, V<sup>7</sup> is different from V because it is a dissonant chord. In fact, it is doubly dissonant: *ti* and *fa* give us a tritone whichever way up you spell them, while *sol* and *fa* give us a minor seventh. In both cases these dissonances need to be resolved. In voice-leading procedure for the V<sup>7</sup>-I progression, *fa* must resolve downwards to step to *mi* (or *me*, in minor keys). *Ti* usually resolves to *do*. 
 
-- 9.6: choose the key carefully! Conduct in a very slow 4. Dynamics and phrasing are important. Can you find the V7 arpeggio?
-- 9:13: in one as marked.
-- 9:18 Breathe in the proper places, not within slurs. In the first measure of line 2, breathe after the second note, as a new phrase (parallel to the beginning starts after this.
-- 9:19: Prepare to sing as a canon.
-- 9:24: Watch the C-sharp in measure 2; it doesn't continue the arpeggio set up in measure 1.
-- Section 4: Devote plenty of time to preparing these melodies, as they are the most difficult ones in the book so far.
+Take careful notice of the intervals created by the tones of the V<sup>7</sup> chord. Become adept at singing the minor seventh – *sol fa* – and the diminished fifth – *ti fa*. 
