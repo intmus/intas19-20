@@ -3,7 +3,7 @@ layout: chapter
 title: Ear Training - Building Fluency in Melodic Dictation
 ---
 
-## Characteristics of Melodic Dictations
+### Characteristics of Melodic Dictations
 
 Classical phrase structure often contains repetitions of motivic material. It also often contains references to tones from certain triads, even if we cannot hear the implied harmonic accompaniment. This week's melodic dictations, in addition to the stepwise movement we have covered in previous weeks, will feature tones from the tonic and dominant triads, and in some cases the dominant seventh chord.
 
