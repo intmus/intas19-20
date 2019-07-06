@@ -1,22 +1,18 @@
 ---
 layout: chapter
-title: Sight Singing - Major and Minor Scale Triads and Chapter 11
+title: Sight Singing - Major and Minor Scale Triads; Diatonic Leaps; Subdivisions of the Beat
 ---
 
-## Preparation for Unit 10 Sight Singing
+### Preparation for Unit 11 Sight Singing
 
-### Warm-Up: Major and Minor Scale Triads
+Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-{% include download.html title="Major and Minor Scale Triads" filename="Week11majorandminortriads.pdf" %}
+{% include download.html title="Unit 11 Sight Singing Assignment" filename="Unit11SSA.pdf" %}
 
-![Major and Minor Scale Triads]({{ '/images/Week11majorandminortriads.jpg' | relative_url }}){:target='_blank'}
+### Instructions
 
-### Rogers/Ottman Exercises
+**Warm-Up**
+Take particular care over the aspects of this warm-up that singers typically find hard to sing. For example, the augmented triad -- chord III+ -- in the minor key. In harmonic minor, many learners struggle with the augmented second between *le* and *ti*, so try not to let it take you by surprise in your lesson.
 
-**11.12, 11.15,** 11.19, 11.25, 11.26, 11.31, **11.32** 
-
-### Guidelines for Rogers/Ottman Exercises
-
-- 11.15: Langsam is the German word for "slow." Don't rush.
-- 11.25: Conduct in 2.
-- 11.26: Pay special attention to all of the little differences in rhythm from beat to beat. For full points, this must be absolutely accurate.
+**Melody and Rhythm**
+Unit 11 examples build on skills learned in Unit 10. Be sure to review all the possible divisions and subdivisions of your beat note. Examine the melodic leaps to relate them to common chord patterns. Review your solfege of all the chords we have studied so far in these lessons.

@@ -4,12 +4,11 @@ title: Ear Training - Systematic Listening in Harmonic Dictation
 ---
 
 ### Three-Chord Progressions
-
 Here is an example of the type of three-chord progression we will study this week.
 
 ![Sample Harmonic Dictation]({{ '/images/Week10sampleharmonicdictation.jpg' | relative_url }}){:target='_blank'}
 
-**Systematic Steps**
+### Systematic Steps
 
 - **Big-picture listening:** "I'm listening to the overall color of the progression. *All the chords sound like major triads.*" (Remember this, it's important.)
 

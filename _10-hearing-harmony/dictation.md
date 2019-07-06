@@ -5,7 +5,7 @@ title: Ear Training - What to Expect in Harmonic Dictation
 
 ### Philosophy
 
-Harmonic dictations draw upon the elements you have already mastered in Units 1-8 of this course: melodic and harmonic intervals, major and minor scales, triads, and seventh chords. Now we will use these elements in harmonic -- and melodic -- context by analyzing chords and notating melodic lines. Harmonic dictation is *not* difficult, as long as you approach it in a logical, systematic way.
+Harmonic dictations draw upon the elements you have already mastered in Units 1-8 of this course: melodic and harmonic intervals, major and minor scales, triads, and seventh chords. Now we will use these elements in harmonic -- and melodic -- context by analyzing chords and notating melodic lines. Harmonic dictation is not difficult, as long as you approach it in a logical, systematic way.
 
 ### Procedures 
 
