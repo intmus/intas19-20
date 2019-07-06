@@ -3,15 +3,16 @@ layout: chapter
 title: Ear Training - More Complicated Melodies
 ---
 
-### Fluency in C Clefs
+### Building Fluency
 
+**Fluency in C Clefs**
 We can all use extra practice in C clefs, whether in sight singing or in ear training. This week's melodic examples will all use alto clef and tenor clef. Having trouble? Use middle C for orientation, i.e. the middle line of the staff in alto clef and the second-to-top line of the staff in tenor clef.
 
-### Fluency in Compound Time
+**Fluency in Compound Time**
 
 This week, we will practice melodic dictation exclusively in compound meters. Don't just practice those with 8 in the denominator -- practice the ones with 16 or 4 too, since they may be less familiar.
 
-## Practice Examples
+**Practice Examples**
 
 Choose one familiar folk song in compound time from the list below, and write it out in a C clef in compound time. Sometimes there is more than one possible way to do this. For example, you may choose to interpret the song as having 2 beats in the measure (i.e. 6/8, 6/16, or 6/4), or 4 (i.e. 12/8, 12/16, or 12/4). 
 
