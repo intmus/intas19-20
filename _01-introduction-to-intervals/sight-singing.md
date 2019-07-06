@@ -3,46 +3,33 @@ layout: chapter
 title: Sight Singing - Simple Meters and Finding "Do"
 ---
 
-# Preparation for Unit 2 Sight Singing
+### Preparation for Unit 2 Sight Singing
 
-This week's sight singing will focus on singing intervals using moveable-*do* solfege, chanting rhythms in simple meters, and putting the two concepts together in stepwise melodies in major keys. 
+Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-## Warm-Up: Find *Do* Exercise
+{% include download.html title="Unit 2 Sight Singing Assignment" filename="Unit2SSA.pdf" %}
 
-{% include download.html title="Find Do Exercise" filename="Week2AND3WarmupFindDoExercise.pdf" %}
+### Sight Singing Instructions
 
-![Find Do Exercise]({{ '/images/Week2AND3WarmupFindDoExercise.jpg' | relative_url }})
+**Simple Meters** 
+In simple meter, the beat is divisible by two. A simple time signature contains a numerator and a denominator. The numerator indicates the number of beats in the measure, which gives you your conducting pattern. The denominator indicates the beat note, i.e. “4” is a quarter note, “2” is a half note, and so on.
 
-Please print the warm-up and bring it to your audit. **If you do not bring a print-out of the warm-up to your audit, you will lose 50% of the grade for your audit.**
+**Conducting patterns**
+In all simple time signatures, certain factors remain the same. The downbeat is indicated by a downwards movement, and the pickup by an upwards movement. In triple time, the second beat goes away from the body. In quadruple time, the strong beats – 1 and 3 – are indicated by strong movements, 1 downwards and 3 away from the body. The second beat – a weak beat – goes across the body. There is a simple reason for this: in an ensemble, players and/or singers can keep track of beat patterns by looking for the strong beats, so the strong beats must be indicated by unmistakable movements. In quadruple time, it isn’t a problem for the second beat to be less visible to the players because it’s a weak beat.
 
-## Rogers/Ottman Exercises
+**Solfege syllables**
+In this class, we will use a sight singing system known as “movable-do solfege.” The tonic of any key will be assigned the syllable “do.” The other syllables will be assigned accordingly.
 
-You will be asked to perform the examples **in bold** first. Your professor will then select additional examples from those in plain type for you to perform.
+Scale Degree | 1 | 2 | 3 | 4 | 6 | 7 |
+--- | --- | --- | --- | --- | --- | --- | --- 
+Theoretical Name | tonic | supertonic | mediant | subdominant | dominant | submediant | leading tone
+Solfege Syllable | do | re | mi | fa | sol | la | ti 
 
-1.30-1.46, **1.47,** 1.48-1.58, **1.59,** 1.60-1.62, 2.32-2.38, **2.39,** 2.40-2.45, **2.46,** 2.47-2.48 
+**Unit 2 Singing Focus**
 
-
-## How to Prepare the Material
-
-### Chapter 1
-
-Be sure to read the introductory material at the beginning of chapter, especially the section on **how to conduct** on page 2. One of the chief aims in this chapter is to reinforce the principle that any note value, not just a quarter note, can be a beat -- the beat note depends on the time signature in question. For example, when the denominator of a time signature is 2, conduct a half-note beat. (Therefore, conduct 1.55 in 3 half notes, not in 6 quarter notes.)
-
-Q. How do I perform the rhythms?
-A. Use a strong, neutral syllable such as "Tah."
-
-Duets: Please prepare both parts. Practice them with a partner so that you are not surprised by the sound of both parts together when you perform them together with the professor in your audit.
-
-### Chapter 2
-
-The material in this chapter builds upon that in Chapter 1. It may help to practice each exercise first as a rhythmic study, and then add the pitches. 
-
-In your audit, prepare to *solfege and conduct simultaneously.* A steady tempo is a priority -- hesitation will lose points. Prepare both parts of each duet. Practice playing the opposite part on the piano and/or practice with a partner. 
-
-*Reminder: do not write solfege syllables in your book.* 
-
-## Strategies for Preparation
-
-- In melodic examples, look everywhere for "signposts." Examine your key signature, then look for all the places *do*, *mi*, and *sol* appear in the score. Look for the contexts in which we have been studying intervals this week.
-- Reminder: **Do not write solfege syllables in your book. If your professor discovers that there are solfege syllables written in your book, this will incur the grade of 0 for your audit even if you did not write the solfege yourself.
-- When singing duets, think both vertically (harmonically) and horizontally (melodically). A useful exercise is to practice an harmonic interval extracted from a duet. For instance, in 2.44, play the second pitch (D) on the piano and practice singing a major 6th above. Also be aware of how the parts interact. For instance, in 2.48, the upper part imitates the lower.
+- Simple meters with beat notes of 1/16, 1/8, 1/4, 1/2
+- Understanding rhythms in simple time, including easy divisions and subdivisions of the beat
+- Chanting rhythms while conducting in beat patterns
+- Simultaneously clapping and chanting rhythms
+- Singing mostly stepwise diatonic melodies in major keys using solfege and conducting
+- Singing stepwise melodies in duets to understand simple harmonies and maintain a melodic line without becoming distracted by the second line

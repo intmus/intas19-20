@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Introduction to Aural Skills
+title: Introduction to Aural Skills 
 ---
 
 # Purpose and Philosophy of Aural Skills
@@ -27,4 +27,3 @@ Ear training cultivates the ability to accurately write down music that you hear
 ## Sight Singing
 
 Sight singing cultivates score-reading ability that enables you to hear music "in your mind's ear," and perform it using moveable-do solfege and conducting.
-
