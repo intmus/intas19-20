@@ -6,7 +6,7 @@ comments: true
 
 ### Reminder: Midterm Exam
 
-The midterm exam will be given during class time on Thursday, October 17. No makeup exams will be given.
+The midterm exam will be given during class time on **Thursday, October 17, 2019**. No makeup exams will be given.
 
 The midterm will contain questions on the following topics:
 
