@@ -3,11 +3,11 @@ layout: chapter
 title: Ear Training - Introduction to Melodic Dictation
 ---
 
-# Introduction to Melodic Dictation
+### Introduction to Melodic Dictation
 
 Melodic dictation can seem daunting at first, but it’s not as hard as it looks. Remember that the examples we will study in this class are both *repetitive* and *predictable*. This is not a bad thing. If you know what to expect, you can make educated guesses even if you aren't sure of the answer.
 
-## Things all the melodic dictations this week will do:
+### Things all the melodic dictations this week will do:
 
 - They will outline the tones of the tonic (I) triad, *do-mi-sol*, at the beginning of the phrase, and usually at the end too. This is how a melody establishes a key and implies a cadence.
 - They will very likely outline tones from the dominant (V) triad, *sol-ti-re*, too. A variant of this chord is, of course, V7: *sol-ti-re-fa*. 
@@ -16,9 +16,9 @@ Melodic dictation can seem daunting at first, but it’s not as hard as it looks
 
 ## First steps in practicing melodic dictation:
 
-Listen to the tonic triad. Sing up and down the scale of that key, using solfege. Sing up and down the tonic triad: “Do-mi-sol-mi-do.” On scratch paper, write down which tones correspond to the solfege syllables, i.e. in G major “do-mi-sol” will be G, B, and D.
+Listen to the tonic triad. Sing up and down the scale of that key, using solfege. Sing up and down the tonic triad: *“Do-mi-sol-mi-do.”* On scratch paper, write down which tones correspond to the solfege syllables, i.e. in G major *do-mi-sol* will be G, B, and D.
 
-Once you feel comfortable with the tonic triad, sing the dominant triad: “Sol-ti-re.” In G major, the tones will be D, F-sharp, and A. Remember these, because they will help you write down the right pitches.
+Once you feel comfortable with the tonic triad, sing the dominant triad: *“Sol-ti-re.”* In G major, the tones will be D, F-sharp, and A. Remember these, because they will help you write down the right pitches.
 
 ## How NOT to do it:
 
@@ -28,7 +28,7 @@ Don’t “separate out” rhythm and pitch. The rhythms in these examples will 
 
 Most common nursery rhymes and other famous songs do all the repetitive, predictable things mentioned above.
 
-- The well-known song “Hot Cross Buns” has sentence structure. The “mi-re-do” scalar pattern establishes the key and the basic idea.
+- The well-known song “Hot Cross Buns” has sentence structure. The *mi-re-do* scalar pattern establishes the key and the basic idea.
 
 ![Hot Cross Buns]({{ '/images/Week3HotCrossBuns.PNG' | relative_url }})
 

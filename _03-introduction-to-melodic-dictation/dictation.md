@@ -23,4 +23,4 @@ Part of learning rhythm successfully is knowing what a rhythm *sounds* like and 
 
 ### Compound Time Signatures
 
-In next week's audit, we will cover compound time signatures. A compound time signature is one in which the numerator is divisible by three. Therefore, in 6/8 time, if we divide the numerator by three, we get two, meaning that there are two beats in the measure. The beat note is a dotted quarter - i.e., equivalent in duration to three eighth notes.
+In the coming units, we will intensively study compound time signatures. A compound time signature is one in which the numerator is divisible by three. Therefore, in 6/8 time, if we divide the numerator by three, we get two, meaning that there are two beats in the measure. The beat note is a dotted quarter - i.e., equivalent in duration to three eighth notes.

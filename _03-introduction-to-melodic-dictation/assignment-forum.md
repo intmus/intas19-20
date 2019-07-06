@@ -6,16 +6,12 @@ comments: true
 
 ### Reminder: Earmaster 
 
-This week's EarMaster assignment is due Friday, September 7, 2018, at 5:00 p.m.
+This week's EarMaster assignment is due **Friday, September 13, 2019, at 5:00 p.m.**
 
-**Be careful that you are completing the correct assignment.** Your screen should look something like this:
+Important note: **Be careful that you are completing the correct assignment.** If you are unsure, please show your screen to your professor or TA, *or* send a screen shot by email. 
 
-![Week 3 Assignment]({{ '/images/Week3Assignment.PNG' | relative_url }})
+### Reminder: Sight Singing Lesson 
 
- Any problems? Please consult your professor or TA.
-
-### Reminder: Sight Singing Audit 
-
-Remember to attend your audit warm-up at the appointed time, bringing your Ottman-Rogers textbook and your printed warm-up. Please download and print the Unit 4 warm-up to bring to this Thursday's class.
+Remember to attend your sight singing lesson at the appointed time, bringing your Unit 4 materials as a paper print-out or on your laptop or tablet. 
 
 Questions? Please ask them in the forum below.

@@ -3,7 +3,7 @@ layout: chapter
 title: Ear Training - Hearing Intervals Harmonically
 ---
 
-## Introduction to Harmonic Intervals
+### Introduction to Harmonic Intervals
 
 In ear training, we call an interval "harmonic" if its two tones are played simultaneously.
 
