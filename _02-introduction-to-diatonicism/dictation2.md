@@ -3,7 +3,7 @@ layout: chapter
 title: Ear Training - Triads in Review
 ---
 
-## Triads - Review of the Principles
+### Triads - Review of the Principles
 
 - The **major triad** is composed of a stacked major third plus minor third. The two commonest ways it appears in diatonic harmony are as chord I in a major key (*do-mi-sol*), and chord V (*sol-ti-re*) in major AND minor keys. It's also very common for it to appear as chord IV in major keys (*fa-la-do*).
 
@@ -13,10 +13,10 @@ title: Ear Training - Triads in Review
 
 - The **augmented triad** is composed of two stacked major thirds. It is relatively rare in diatonic harmony. It doesn’t naturally occur within the tones of the diatonic scale, and sounds very chromatic. For this reason, many learners find it hard to sing. When it does occur, it is usually spelled *sol-ti-ri* and appears as a chromatic variant of the dominant (*sol-ti-re*).
 
-## Identifying Triads in Inversions
+### Identifying Triads in Inversions
 
-### Step 1: 
+**Step 1:** 
 - Listen to the “color” of the triad. Often you will be able to tell the chord quality from only one hearing. Major and minor tend to be unmistakable. Be careful to distinguish between augmented and diminished triads, the two dissonant ones. If unsure, listen contextually, using your solfege and diatonic harmonic logic.
 
-### Step 2: 
+**Step 2:** 
 - Listen to the triad intervallically. An inverted triad will have some kind of fourth in it. In major and minor, there will be a perfect fourth. In a diminished triad, there will be an augmented fourth. In an augmented triad, the symmetricality of the chord means that all intervals will "sound like" major thirds, regardless of the inversion and notation, because a diminished fourth is enharmonically equivalent to a major third. For this reason, you may identify all augmented triads as 5/3 in tests.

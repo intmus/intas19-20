@@ -3,7 +3,7 @@ layout: chapter
 title: Ear Training - What Is Diatonicism?
 ---
 
-## Q. What Is Diatonicism?
+### Q. What Is Diatonicism?
 
 The materials we will learn about in Aural Skills III - intervals, scales, chords, rhythm, melody, and harmony - will come from Western **diatonic** melody and harmony. 
 
@@ -54,7 +54,6 @@ The most common chords in diatonic harmonic progressions are: the tonic triad (I
 
 One of the main themes in this class will be the fact that melody and harmony move in very predictable ways. If you learn these patterns, identifying elements in isolation becomes much easier and more predictable.
 
-## Further reading
+### Further reading
 
 For more information on Mozartean style, see Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven by William S. Caplin (Oxford University Press, 2000). This book is available in the library in [print](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71171686160001451&context=L&vid=UID&search_scope=everything&tab=everything&lang=en_US) or [ebook](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_pq_ebook_centralEBC271183&context=PC&vid=UID&search_scope=everything&tab=everything&lang=en_US).
-

@@ -3,26 +3,29 @@ layout: chapter
 title: Sight Singing - Simple Meters and Finding "Do"
 ---
 
-## Preparation for Unit 3 Sight Singing
+### Preparation for Unit 3 Sight Singing
 
-The coming week's sight singing audit will continue to focus on singing intervals using moveable-*do* solfege, chanting rhythms in simple meters, and putting the two concepts together in stepwise melodies in major keys. 
+The coming week's sight singing lesson will continue to focus on singing intervals using moveable-*do* solfege, chanting rhythms in simple meters, and putting the two concepts together in stepwise melodies in major keys. 
 
-## Warm-Up: Find *Do* Exercise
+Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-{% include download.html title="Find Do Exercise" filename="Week2AND3WarmupFindDoExercise.pdf" %}
+{% include download.html title="Unit 2 Sight Singing Assignment" filename="Unit3SSA.pdf" %}
 
-![Find Do Exercise]({{ '/images/Week2AND3WarmupFindDoExercise.jpg' | relative_url }})
+### Sight Singing Instructions
 
-Please print the warm-up and bring it to your audit. **If you do not bring a print-out of the warm-up to your audit, you will lose 50% of the grade for your audit.**
+**Intervals: perfect and imperfect consonances**
+All the perfect and imperfect consonances – perfect unisons, fourths, fifths, and octaves; major and minor thirds; major and minor sixths – have something in common. They can all be found within the tones of the major triad and its inversions.
 
-## Rogers/Ottman Exercises
+As you know, an inverted major third is a minor sixth, and an inverted minor third is a major sixth. The perfect fifth is commonly associated with the two outer pitches of the major triad, and in its inverted form composes a perfect fourth. Therefore, it makes sense to think of these inversions using the same solfege, i.e.:
 
-You will be asked to perform the examples **in bold** first. Your professor will then select additional examples from those in plain type for you to perform.
+**Solfege of perfect and imperfect consonances**
 
-**3.19,** 3.20-21, **3.22,** 3.39, **3.50,** 3.51-53, 3.66
+Interval | Inverse
+--- | ---
+M3 = *do, mi* | m6 = *mi, do*
+m3 = *mi, sol* | M6 = *sol, mi*
+P5 = *do, sol* | P4 = *sol, do*
 
-## Guidelines for Rogers/Ottman
+**Melodies composed of major triad skips**
+In any diatonic melody, you should locate *do*, *mi*, and *sol*. These are your signposts that will guide you around melodic shapes. In this unit, we will focus on melodies that explicitly use tones from the major triad. Many melodies do this: it’s very common to begin *sol, do* or some other combination of tones from the tonic triad such as *sol, mi* or *mi, sol.*
 
-Again, be sure to read the introductory material in each chapter of Rogers/Ottman, as that will inform you about the nature of the material. Are you consistently following the phrasing as marked?
-
-Remember: prepare **both** parts of each duet. Tip: make sure to practice duets with a partner. A successful performer knows what the piece sounds like as a harmonic whole.
