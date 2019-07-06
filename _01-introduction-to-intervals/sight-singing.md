@@ -20,7 +20,7 @@ In all simple time signatures, certain factors remain the same. The downbeat is 
 **Solfege syllables**
 In this class, we will use a sight singing system known as “movable-do solfege.” The tonic of any key will be assigned the syllable “do.” The other syllables will be assigned accordingly.
 
-Scale Degree | 1 | 2 | 3 | 4 | 6 | 7 |
+Scale Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 
 --- | --- | --- | --- | --- | --- | --- | --- 
 Theoretical Name | tonic | supertonic | mediant | subdominant | dominant | submediant | leading tone
 Solfege Syllable | do | re | mi | fa | sol | la | ti 
