@@ -1,19 +1,18 @@
 ---
 layout: chapter
-title: Sight Singing - Preparation for the Final Audit
+title: Sight Singing - Preparation for the Sight Singing Final
 ---
 
-The Final Audit has three components: 
+The Sight Singing Final has three components: 
 - Elements
 - Sightreading
 - Prepared example (in the PDF below).
 
-Click on the link below to download a PDF of the instructions and rubric for the Aural Skills III Final Audit.
+Click on the link below to download a PDF of the instructions, rubric, and prepared examples for the Aural Skills III Sight Singing Final.
 
 {% include download.html title="Aural Skills III Sight Singing Final" filename="Unit15SSAFINAL.pdf" %}
 
 ### Review: Preparations for the Musical Elements portion
-
 **Intervals**
 
 Please review the appropriate solfege choices in the table below. Important: you will lose points if, for example, you're asked to sing a minor seventh and you attempt to perform *do, te.* It is much more logical to use the contextual solfege *sol, fa*, which is where we find this interval most often in the melodies and harmonies of diatonic Western music.
@@ -51,6 +50,5 @@ Please review the principles of identifying and notating triads from Unit 2.
 ![Triad Singing Workout]({{ '/images/Week8TriadSinging.jpg' | relative_url }})
 
 **Seventh Chords in Context**
-
 Please click on the link below to download the review warm-up on seventh chords in context:
 {% include download.html title="Seventh Chords in Harmonic Context" filename="Week10SeventhChords.pdf" %}
