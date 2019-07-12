@@ -29,7 +29,13 @@ Please study this table of recommended solfege syllables for every interval, and
 
 ### Further Reading
 
-Download this PDF of well-known contexts for the interval chart detailed above. If you don't know the pieces, you can listen to them at the Spotify playlist below: **"UI Aural Skills III Intervals in Context"** by user "mirandawilson".
+Download these two PDFs and read them before the next class.
+
+**"Intervals Through Key Relationships** provides a more detailed explanation of the principles of recommended solfege for intervals. Play the examples on the piano and sing them until you have internalized the rationale for the context-based system of identifying and singing intervals.
+
+{% include download.html title="Intervals Through Key Relationships" filename="Unit2intervalskeys.pdf" %}
+
+**"Melodic Intervals in Diatonic Context"** details well-known pieces that feature the intervals using the solfege recommended in the chart above. Don't know the pieces? No problem, please visit the Spotify playlist "UI Aural Skills III Intervals in Context" embedded below.
 
 {% include download.html title="Melodic Intervals in Diatonic Context" filename="Unit2intervalsincontext.pdf" %}
 
