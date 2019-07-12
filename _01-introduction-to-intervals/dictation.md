@@ -27,3 +27,10 @@ Please study this table of recommended solfege syllables for every interval, and
 |major seventh       | M7             |*do, ti*                         |
 |perfect octave      | P8             |*do, do*                         |
 
+### Further Reading
+
+Download this PDF of well-known contexts for the interval chart detailed above. If you don't know the pieces, you can listen to them at the Spotify playlist below: **"UI Aural Skills III Intervals in Context"** by user "mirandawilson".
+
+{% include download.html title="Melodic Intervals in Diatonic Context" filename="Unit2intervalsincontext.pdf" %}
+
+<iframe src="https://open.spotify.com/embed/playlist/4ivoFH5A9lbUjEN1NQtUmh" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> 
