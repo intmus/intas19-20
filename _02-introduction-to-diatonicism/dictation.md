@@ -56,9 +56,11 @@ For example, the phrase structure in the first movement of Mozart's Piano Sonata
 
 In this example from the second movement of Mozart's *Eine kleine Nachtmusik*, by contrast, a "basic idea" and a "contrasting idea" take place within a broader *antecedent.* An antecedent is a "question" that is answered by a *consequent* in which the basic idea and contrasting idea are brought back.
 
+![Mozart K525]({{ '/images/Unit3K525.jpg' | relative_url }})
+
 ### Harmony
 
-The most common chords in diatonic harmonic progressions are: the tonic triad (I),the dominant triad (V), the dominant seventh chord (V7), and the subdominant triad (IV).
+The most common chords in diatonic harmonic progressions are: the tonic triad (I),the dominant triad (V), the dominant seventh chord (V,sup>7</sup>), and the subdominant triad (IV).
 
 Looking again at Mozart's C major piano sonata, we can find these chords within the first few measures. Measure 1 features chord I. Measure 2 contains the tones from the V<sup>7</sup> chord (in its second inversion). Measure 3 contains tones from the subdominant triad and the tonic triad. Measure 4 features both chord V (inverted) and chord I. Memorize the tones of I, V, V<sup>7</sup>, and IV. They are essential to an understanding of basic harmony.
 
