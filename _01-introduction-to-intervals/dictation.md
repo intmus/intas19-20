@@ -27,7 +27,7 @@ Please study this table of recommended solfege syllables for every interval, and
 |major seventh       | M7             |*do, ti*                         |
 |perfect octave      | P8             |*do, do*                         |
 
-### Further Reading
+### Further (Compulsory) Reading
 
 Download these two PDFs and read them before the next class.
 
