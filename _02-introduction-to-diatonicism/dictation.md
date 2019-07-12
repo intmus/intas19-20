@@ -44,7 +44,7 @@ We will study simple time signatures such as 2/4, 3/4, 4/4, and 2/2, and compoun
 
 ### Melody
 
-Diatonic melodic phrases, especially those from the Classical era, typically fall into two types: (1) the sentence, and (2) the period. Diatonic melodies are often derived largely from chords I, IV, and V.
+Diatonic melodic phrases, especially those from the Classical era, typically fall into two types: (1) the sentence, and (2) the period. Diatonic melodies are often derived largely from chords I, IV, V, and V<sup>7</sup>.
 
 Diatonic melodies use predictable cadence patterns (i.e. there may be an implied perfect cadence at the end).
 
