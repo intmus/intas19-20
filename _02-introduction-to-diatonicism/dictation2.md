@@ -41,7 +41,7 @@ Second Inversion | 6/4 | 6/4
 
 ### First Inversion (6/3) Triads in Context
 
- ![Triads Root and 1st]({{ '/images/Unit2triadroot1st.jpg' | relative_url }})
+ ![Triads Root and 1st]({{ '/images/Unit2triadsroot1st.jpg' | relative_url }})
 
  - Major 6/3 is composed of a stacked *minor* third + perfect fourth
  - Minor 6/3 is composed of a stacked *major* third + perfect fourth
