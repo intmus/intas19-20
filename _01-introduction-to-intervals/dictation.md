@@ -31,7 +31,7 @@ Please study this table of recommended solfege syllables for every interval, and
 
 Download these two PDFs and read them before the next class.
 
-**"Intervals Through Key Relationships** provides a more detailed explanation of the principles of recommended solfege for intervals. Play the examples on the piano and sing them until you have internalized the rationale for the context-based system of identifying and singing intervals.
+**"Intervals Through Key Relationships"** provides a more detailed explanation of the principles of recommended solfege for intervals. Play the examples on the piano and sing them until you have internalized the rationale for the context-based system of identifying and singing intervals.
 
 {% include download.html title="Intervals Through Key Relationships" filename="Unit2intervalskeys.pdf" %}
 
