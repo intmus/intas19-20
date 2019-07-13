@@ -62,11 +62,11 @@ In the early stages of chord and inversion identification, learners often confus
 
 Study and listen to these common contexts for second inversion triads. In the first example, the opening of the second movement of Beethoven's Symphony No. 5, the first three pitches of the melody form an ascending second inversion *major* triad.
 
- ![Symphony 5]({{ '/images/Unit2beethoven.jpg' | relative_url }})
+ ![Symphony 5]({{ '/images/Unit2beethoven.JPG' | relative_url }})
 
  By contrast, study and listen to the opening of Brahms's Hungarian Dance No. 5. The first three pitches of the melody form an ascending second inversion *minor* triad.
 
- ![Hungarian Dance]({{ '/images/Unit2brahms.jpg' | relative_url }})
+ ![Hungarian Dance]({{ '/images/Unit2brahms.JPG' | relative_url }})
 
 Listen to the Spotify playlist below several times until you know both compositions well. Also in the playlist is Chopin's "Raindrop" Prelude, a famous example of the the major 6/4 triad played in descending motion. Can you sing along in solfege?
 
