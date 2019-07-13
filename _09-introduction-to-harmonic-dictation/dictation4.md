@@ -15,7 +15,7 @@ When analyzing a harmonic progression, start by listening to the root movement, 
 
 **I-V<sup>6/4</sup>-I<sup>6</sup>** is a logical choice, because the second inversion dominant triad (known as "the passing 6/4") leads smoothly into the first inversion tonic triad.
 
-- Bass movement *do, re, mi* has other possibilities. Here, the dominant function is taken by **vii<sup>o6</sup>.
+- Bass movement *do, re, mi* has other possibilities. Here, the dominant function is taken by **vii<sup>o6</sup>.**
 
 - Bass movement *do, re, sol*: *re* in the bass voice indicates chord **ii**, which has pre-dominant function. It is therefore very logical to propose that the next chord is **V**.
 
