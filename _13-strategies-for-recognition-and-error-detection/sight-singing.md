@@ -18,3 +18,5 @@ This will be approximately of the same difficulty level as material we studied 1
 The Scottish snap, also known as the "Scotch snap," is a form of syncopated rhythm characteristic of the folk music of Scotland and the Scottish country dance form known as the *strathspey*. It is also found in music of the Scottish diaspora around the world, including the folk music in the Ozark and Appalachian regions of the United States.
 
 The Scottish snap is like the reverse of the usual "dotted rhythm" procedure. By contrast, the Scottish snap has the short note first, on the beat. Being on the beat gives the short note the impression of being accented. When preparing the rhythmic examples, take care that the short note of the Scottish snap falls exactly on the beat.
+
+<iframe src="https://open.spotify.com/embed/album/1mOWIEjASufVEpBiZv54YC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

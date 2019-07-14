@@ -14,6 +14,7 @@ In Unit 1, we summed up the aims of this course with the following quotes from R
 Schumann's ideal for musicianship was that anyone aspiring to the profession ought to be able to transcribe melodies and harmonies. Over the past fifteen weeks, we have studied this process. 
 
 **A Two-Way Street**
+
 Remember that success in ear training and sight singing lies in understanding what certain musical concepts *look* like and *sound* like -- and moreover, knowing how to match the visual and the auditory without difficulty.
 
 We have learned over the course of the semester that this is not as daunting as it sounds. Melodic and harmonic dictations become much easier when you train your ear to identify patterns, then use the logic of music theory to commit them to the page.
