@@ -1,24 +1,20 @@
 ---
 layout: chapter
-title: Audit Preparation for week of 1/14-1/18/19
+title: Sight Singing - Triplets in Simple Meters; Duplets in Compound Meters
 ---
 
-### This Week's Audit Material
+### Preparation for Unit 17 Sight Singing
 
-**Warm-Up**
+Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-This week's warm-up will be sightreading at the level of Rogers/Ottman chapter 8. You will be given a tonic triad and a minute's preparation. Be sure to rehearse the usual parameters -- meter, rhythm, melody, solfege, conducting -- before you perform.
+{% include download.html title="Unit 17 Sight Singing Assignment" filename="Unit17SSA.pdf" %}
 
-**Prepared Material**
+### Instructions
 
-(Material **in bold** is mandatory. Your section professor will select unbolded examples at random during your audit, so please prepare all the material.)
-
-14.4, 14.5, **14.7**, 14.14, **14.15**, 14.22, 14.27, **14.32**, 14.42, 14.43, **14.49**
-
-- Practice tips for rhythm: 4 and 5 are easy. 
-- 14 contains varying divisions and subdivisions. Prepare them carefully. 
-- 15 is more difficult. Think very critically about how you will perform 2 against 3. 
-- 27: this contains varying divisions of the beat. Make sure your conducting is very strong so that you can easily switch between duple, triple, *and* quadruple divisions of the beat.
-- 32 (duet): practice with a partner. For full points, this must be executed very cleanly.
-- 43: this example contains relatively simple solfege, but puts this week's rhythms into practice in a melodic context. If you struggle with the rhythm, practice that on its own a few times before adding pitch and solfege.
-- 49: for best results, change the way you count the division of the beat during the long rests. For example, count measure 5 "One-and-a-two-and-a" (i.e. articulating two sets of quarter note triplets). When you get to measure 6, four of those tripletized quarter notes will "go into" the whole note and two of them will go into the half note.
+- When an (undotted) note value is divided in two, we can express it using the following divisions and subdivisions.
+![simple division]({{ '/images/Unit17simpledivision.jpg' | relative_url }})
+- To divide the same note value in three, we use the same note value as for the duple division, but we write three of them and indicate that the division is a triplet by means of a triplet symbol, “3,” like this:
+![triplet division]({{ '/images/Unit17tripletdivisions.jpg' | relative_url }})
+- Conversely, we can divide a dotted note value in 2 by means of the duplet symbol, “2,” like this:
+![duplet division]({{ '/images/Unit17dupletdivisions.jpg' | relative_url }})
+- In both cases, a tip for successfully performing these divisions of the beat is to make sure your conducting is very steady. Train yourself to switch your mental subdivision instantaneously between duple and triple.

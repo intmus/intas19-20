@@ -22,10 +22,12 @@ We have learned over the course of the semester that this is not as daunting as 
 To this end, when you hear a melodic dictation, the first pattern to listen for is the structure of the phrase. Are we hearing period structure, or sentence structure? Please review the following principles:
 
 **Sentence (8 measures)**
+
 - Measures 1-4: **presentation** composed of a basic idea (2 measures) + repetition of the basic idea (2 measures)
 - Measures 5-8: **continuation** composed of fragmentation of the basic idea, plus a cadence (can be half cadence, imperfect authentic cadence, or perfect cadence).
 
 **Period (8 measures)**
+
 - Measures 1-4: **antecedent** composed of a basic idea (2 measures) + contrasting idea (2 measures), ending with a half cadence (or imperfect authentic cadence).
 - **Important: there *must* be a HC or IAC at the end of the antecedent, otherwise it's not a period!**
 - Measures 5-8: **consequent** composed of material from the antecedent, ending with a perfect authentic cadence.
