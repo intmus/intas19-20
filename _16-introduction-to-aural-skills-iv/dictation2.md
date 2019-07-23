@@ -12,9 +12,9 @@ Please click on the link below to access the sight singing assignment for next w
 ### Instructions
 
 - When an (undotted) note value is divided in two, we can express it using the following divisions and subdivisions.
-![simple division]({{ '/images/Unit17simpledivision.jpg' | relative_url }})
+![simple division]({{ '/images/Unit17simpledivision.JPG' | relative_url }})
 - To divide the same note value in three, we use the same note value as for the duple division, but we write three of them and indicate that the division is a triplet by means of a triplet symbol, “3,” like this:
-![triplet division]({{ '/images/Unit17tripletdivisions.jpg' | relative_url }})
+![triplet division]({{ '/images/Unit17tripletdivisions.JPG' | relative_url }})
 - Conversely, we can divide a dotted note value in 2 by means of the duplet symbol, “2,” like this:
-![duplet division]({{ '/images/Unit17dupletdivisions.jpg' | relative_url }})
+![duplet division]({{ '/images/Unit17dupletdivisions.JPG' | relative_url }})
 - In both cases, a tip for successfully performing these divisions of the beat is to make sure your conducting is very steady. Train yourself to switch your mental subdivision instantaneously between duple and triple.
