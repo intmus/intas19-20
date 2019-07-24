@@ -3,11 +3,9 @@ layout: chapter
 title: Sight Singing - Complicated Rhythms; Secondary Dominants
 ---
 
-### This Week's Sight Singing Material
+### Instructions
 
 {% include download.html title="Unit 18 Sight Singing Assignment" filename="Unit18SSA.pdf" %}
-
-### Instructions
 
 **Introduction to Polyrhythms**
 This concept continues from last week's study of triplet divisions of undotted note values and duplet divisions of dotted note values. This week, we will add the concepts of "two against three" and "three against four" to our vocabulary of complicated rhythms. In all cases, good subdivision is the key to success.
