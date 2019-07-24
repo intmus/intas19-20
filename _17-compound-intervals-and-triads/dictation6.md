@@ -1,21 +1,16 @@
 ---
 layout: chapter
-title: Audit Preparation for week of 1/21-1/25/19
+title: Sight Singing - Complicated Rhythms; Secondary Dominants
 ---
 
-### This Week's Audit Material
+### This Week's Sight Singing Material
 
-**Warm-Up: Secondary Dominants**
+{% include download.html title="Unit 18 Sight Singing Assignment" filename="Unit18SSA.pdf" %}
 
-{% include download.html title="Secondary Dominants Warm-Up" filename="Unit17SecondaryDominants.pdf" %}
+### Instructions ###
 
-**Prepared Material**
+**Introduction to Polyrhythms**
+This concept continues from last week's study of triplet divisions of undotted note values and duplet divisions of dotted note values. This week, we will add the concepts of "two against three" and "three against four" to our vocabulary of complicated rhythms. In all cases, good subdivision is the key to success.
 
-(Material **in bold** is mandatory. Your section professor will select unbolded examples at random during your audit, so please prepare all the material.)
-
-Chapter 14: **14.53, 14.55**, 14.57, 14.58, 14.65, **14.66, 14.67**
-
-- 14.53: In this example, you must switch back and forth between triplets and duplets, and there is some syncopation. Confused? Practice the rhythm only a few times, then add pitches. Be careful: this piece is in melodic minor, so pay special attention to the sixth and seventh scale degrees and their respective solfege.
-- 14.55: this example requires you to sing four at the same time as conducting in three. The trick to getting this right lies in subdivison. In the pickups and the first full measure, you should subdivide in sixteenth notes. There will be 12 of them in the measure. Now, when you get to the quadruplet in m. 2, each of the quarter notes will be "worth" three of those sixteenth notes from before. With a little logical thinking, it is not difficult.
-- 14.57 and 14.58: take special care over differentiating between the duple and triple divisions of the beats.
-- Duets (14.66 and 14.67): we caution you against preparing these alone, since they are quite difficult to get together. Please practice with a partner, and expect to have to sing both parts, particularly lower parts. For full points, you must be able to fit your part perfectly against the other part.
+**Secondary Dominants**
+We have recently begun studying the concept of secondary dominants in tonicizations in the ear training portion of this class. Now we will sing some too. This involves finding a pivot point at which you can move your solfege to that of the new key. In this case, we choose the secondary dominant chord as the starting point for the tonicization. This concept takes most learners some time to get used to, so don't be discouraged if you find yourself singing off-key at first. As always, find some signposts and stepping stones to help you navigate successfully from note to note.

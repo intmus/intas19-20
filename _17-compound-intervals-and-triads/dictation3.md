@@ -21,21 +21,13 @@ In Aural Skills IV, we will add an extra level of skill to your perception of tr
 
 ### Examples
 
-- Major triad in root position. Notice that the root is doubled. In any case, if you can hear the P5 between bass and tenor, that's a dead giveaway that the chord is in root position.
+![Triads in Inversions]({{ '/images/Unit17compoundtriads.jpg' | relative_url }})
 
-![Major Triad in Root Position]({{ '/images/Unit17triad4.jpg' | relative_url }})
+- The first example is a major triad in root position. Notice that the root is doubled. In any case, if you can hear the P5 between bass and tenor, that's a dead giveaway that the chord is in root position.
 
+- Next is a minor triad in second inversion. Notice that the fifth is doubled. Notice the intervallic relations of the other voices too, such as the perfect fifth between soprano and alto voices that indicates the root and fifth of the chord.
 
-- Minor triad in second inversion. Notice that the fifth is doubled. Notice the intervallic relations of the other voices too, such as the perfect fifth between soprano and alto voices that indicates the root and fifth of the chord.
-
-![Minor Triad in Second Inversion]({{ '/images/Unit17triad2.jpg' | relative_url }})
-
-
-- Diminished triad in first inversion. Notice that the third (*re*) is doubled. We don't want to have either note of the tritone doubled because of the instability.
-
-![Diminished Triad in First Inversion]({{ '/images/Unit17triad3.jpg' | relative_url }})
-
-
+- The third example is a diminished triad in first inversion. Notice that the third (*re*) is doubled. We don't want to have either note of the tritone doubled because of the instability.
 
 **Review: solfege of the four types of compound triad**
 
