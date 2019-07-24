@@ -7,7 +7,7 @@ title: Sight Singing - Triplets in Simple Meters; Duplets in Compound Meters
 
 Please click on the link below to access the sight singing assignment for next week. You must bring the assignment to your sight singing lesson. You may choose to print it out, or to view it on a laptop or tablet device. **Please do not attempt to read the assignment from your phone in the lesson. This seldom results in a high score.**
 
-{% include download.html title="Unit 17 Sight Singing Assignment" filename="Unit17SSA.pdf" %}
+{% include download.html title="Unit 17 Sight Singing Assignment" filename="Unit17SSA1.pdf" %}
 
 ### Instructions
 
