@@ -17,4 +17,8 @@ All the prepared examples will modulate from a major key to the dominant of that
 
 If this initially seems perplexing, look forwards in the score to find accidentals. In most cases this week, the accidental will be *fi* of the home key, which we can reinterpret as *ti* of the new key.
 
-You may find this process easier in the duets, where the presence of another part keeps you on track harmonically through the key change. Try practicing with your partner playing the piano while you sing, and vice versa. Then attempt to sing it together. Listen carefully to the harmonies created by the two voices working together. You'll want to take care, as always, that you stick to your own part and don't attempt to switch to the other person's part, but don't ignore them -- their line is crucial to staying on course as an ensemble.
+**Duets and Root Movement**
+
+You may find this process easier in the duets, where the presence of another part keeps you on track harmonically through the key change. The topic of root movement, which we've studied all week, is particularly pertinent here. When you sing the bass voice, imagine yourself as the part that "drives" the harmony. 
+
+Try practicing with your partner playing the piano while you sing, and vice versa. Then attempt to sing it together. Listen carefully to the harmonies created by the two voices working together. You'll want to take care, as always, that you stick to your own part and don't attempt to switch to the other person's part, but don't ignore them -- their line is crucial to staying on course as an ensemble.
