@@ -1,25 +1,20 @@
 ---
 layout: chapter
-title: Audit Preparation for week of 2/4-2/8/19
+title: Sight Singing - Modulation to the Dominant
 ---
 
-### This Week's Audit Material
-
+### This Week's Sight Singing Material
 
 **Sightreading**
 
-Instead of a prepared warm-up, this week we will have sightreading at the level of Chapters 9-10 of the Rogers/Ottman textbook.
+Your instructor will give you a short excerpt to sightread. The difficulty level will be comparable to melodies we studied 2-3 weeks ago. There will not be any secondary dominants/tonicizations/modulations in the sightreading.
 
 **Prepared Material**
 
-(Material **in bold** is mandatory. Your section professor will select unbolded examples at random during your audit, so please prepare all the material.)
+{% include download.html title="Unit 20 Sight Singing Assignment" filename="Unit20SSA.pdf" %}
 
-Chapter 15: **15.45,** **15.61,** 15.65, 15.82, **15.88**
+All the prepared examples will modulate from a major key to the dominant of that key. The "pivot" where you will switch your solfege to that of the new key will be indicated by an asterisk. 
 
-In this chapter, we will study strategies for identifying from melodic context where modulation has occurred.
+If this initially seems perplexing, look forwards in the score to find accidentals. In most cases this week, the accidental will be *fi* of the home key, which we can reinterpret as *ti* of the new key.
 
-- 15.45: Start in B-flat minor. At m. 3, change to F minor at the 2nd note (=C). Stay in F minor until the end.
-- 15.61: Start in C major. At the pickup to m.3, change to G major, remain in G major until the end.
-- 15.65: Start in D minor. The last 3 measures of first half are A major. At the double bar, return to D major and stay there until the end.
-- 15.82 starts in G major. Do not modulate; call C# *fi*.
-- 15.88: Start in D major. At the pickup to line 2, change to A major. At the pickup to double bar, change back to D major. Watch out for the occasional *fi*.
+You may find this process easier in the duets, where the presence of another part keeps you on track harmonically through the key change. Try practicing with your partner playing the piano while you sing, and vice versa. Then attempt to sing it together. Listen carefully to the harmonies created by the two voices working together. You'll want to take care, as always, that you stick to your own part and don't attempt to switch to the other person's part, but don't ignore them -- their line is crucial to staying on course as an ensemble.
