@@ -6,7 +6,7 @@ comments: true
 
 ### Things to Do
 
-- The EarMaster assignment is due at 5:00 p.m. on Friday, February 14, 2019. Make sure to start your assignment well in advance of the deadline in case you experience any difficulties that might necessitate asking your section professor or TA for assistance.
+- The EarMaster assignment is due at 5:00 p.m. on Friday, February 14, 2020. Make sure to start your assignment well in advance of the deadline in case you experience any difficulties that might necessitate asking your section professor or TA for assistance.
 
 - Remember to prepare the material studied in last Thursday's class for this week's sight singing lesson.
 
