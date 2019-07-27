@@ -15,7 +15,9 @@ This week's warm-up explores modulations to closely related keys. A close relati
 
 In the last sight singing assignment, we studied melodies in major keys that modulated to the dominant. In this assignment, we will study melodies in *minor* keys that modulate to the relative major. Where asterixes are marked, change your solfege.
 
-**Playlist of Modulating 
+**Playlist of Modulating Melodies**
+
+Please listen to the playlist in full. Try to pinpoint the moment at which the modulations take place. For extra enrichment, try writing down some of the melodies.
 
 <iframe src="https://open.spotify.com/embed/playlist/5Qqq55hpWCPoAXs70Z1TMo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
