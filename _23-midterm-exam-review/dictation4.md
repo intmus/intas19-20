@@ -1,14 +1,29 @@
 ---
 layout: chapter
-title: Audit Preparation for week of 3/4/19-3/8/19
+title: Sight Singing - Advanced Rhythm
 ---
 
-### This Week's Audit Material
+### This Week's Sight Singing
 
-**Warm-Up**
+**Meter Changes; Hemiola; Irregular Meter; Metric Modulation**
 
-Click on the link below to download the warm-up, "Metric Modulation"
-{% include download.html title="Metric Modulation" filename="Unit23MetricModulation.pdf" %}
+{% include download.html title="Unit 24 Sight Singing Assignment" filename="Unit24SSA.pdf" %}
+
+**Meter Change**
+
+Composers of the nineteenth century and beyond often used metronome markings to indicate how to proceed when the meter changes. Study the two procedures carefully: does the beat remain constant and the notes within the beat change, or the other way around?
+
+**Hemiola**
+
+Hemiola is a common rhythmic device used over many centuries of composition. In hemiola, there is a change to note *groupings* without a notated meter change. This can make it sound as if a meter change has taken place, however.
+
+**Irregular (Asymmetrical) Meters**
+
+Sometimes we see time signatures with a 5 or a 7 in the numerator. While it is definitely possible to conduct these in 5 or 7, this week we will focus on conducting them in broader patterns, such as "2+3" for a time signature with 5 in the numerator. The beats will be unequal, and this may take some time to get used to. As always, subdivide. This makes irregular meters much easier to understand.
+
+**Solo: Metric Modulation**
+
+This exciting solo was composed by Dr. Leonard Garrison, inspired by the music of the American composer Elliott Carter. Carter famously pioneered the concept of "metric modulation."
 
 Metric modulation is defined as a change in tempo (i.e. pulse rate) *and/or* the subdivision (i.e. the grouping) which is derived from a note value or a note grouping heard before the change.
 
@@ -26,21 +41,3 @@ You will need to write on this warm-up and show it to your section professor bef
 - Last line, mm. 1-2 - be careful! The quarter note is the same!!
 - Last line, mm. 2-3 - the beat does not change, but the division of it does.
 - Last line, last measure: if the previous dotted quarter note is equal to the quarter note in this measure, do the two measures sound the same?
-
-**Prepared Material**
-
-Rogers/Ottman - All examples are in bold this week.
-**17.3, 17.4, 17.5, 17.6, 17.7, 17.13, 17.18, 17.25, 17.32, 17.33**
-- Two different procedures for what happens when we change meter in the middle of a phrase.
-- 17.3 through 17.6: keep beat note constant, i.e. the eighth note will remain the same even when the meter changes. Practice these examples by setting your metronome on an eighth note.
-- 17.7, the procedure will change: beat that remains constant; length of eighth notes will change. 7.7a and 17.7b actually sound the same.
-- 17.13: keep beat constant. However, now you must alternate between beating in 4 and beating in 2.
-- 17.18 fluctuates without notice between 6/8 and 9/8.
-- 17.24 through 17.27 introduce "irregular" time signatures of 5 and 7. Conduct 5/8 and 5/4 examples in two as directed above the staff. For example, when it says "3+2," conduct in two with a long first beat and short second beat, i.e. "ONE-and-a-TWO-and." Conduct the 7/8 and 7/4 examples in three or in two if you prefer. For example, you can conduct 17.26 in three by counting "ONE-and-a-TWO-and-THREE-and," or conduct it in two by counting "ONE-and-a-TWO-ee-and-a."
-- Melodic examples: 17.32 is in a modal folk style (take special care over the solfege "la" and "te" in mm. 5-6). Quarter beat is constant.
-- 17.33 is a duet--when the line splits in two at the end, take the upper part. The meter is 3/4 OR 2/4 and changes without notice, so write the conductor's beats if necessary. Modulates to E minor for 2 measures in line 3. Then back to G.
-
-
-
-
-(Material **in bold** is mandatory. Your section professor will select unbolded examples at random during your audit, so please prepare all the material.)
