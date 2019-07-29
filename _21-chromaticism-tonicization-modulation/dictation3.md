@@ -11,4 +11,6 @@ Instead of a warm-up, this week's lesson will feature sightreading. You may expe
 
 **Prepared Material**
 
+{% include download.html title="Unit 22 Sight Singing Assignment" filename="Unit22SSA.pdf" %}
+
 Previously, we studied modulations from tonic to dominant, or from minor keys to relative majors. This week's examples modulate to other related keys. Before you begin, examine the accidentals in the scores. What modulation is implied? At the asterisk, change your solfege to that of the new key.
