@@ -1,26 +1,17 @@
 ---
 layout: chapter
-title: Audit Preparation for week of 3/18/19-3/22/19
+title: Sight Singing - Advanced Rhythm and Melody
 ---
-
-### This Week's Audit Material
+### This Week's Sight Singing
 
 **Sightreading**
 
-You will be given a sightreading example of approximately the difficulty of Rogers/Ottman chapter 12.
+You will be given a sightreading example by your instructor. It may contain chromaticisms, but you will not be given an example that contains modulation.
 
-**Prepared Examples**
+**Melodies Featuring Meter Changes or Irregular (Asymmetrical) Meters**
 
-Rogers/Ottman Chapter 17. **17.37**, 17.47, **17.51, 17.58,** 17.64, **17.67,** 17.73.
+{% include download.html title="Unit 25 Sight Singing Assignment" filename="Unit25SSA.pdf" %}
 
-- 17.37: The *beat* remains constant. Therefore, the eighth note divisions of the beat will change depending on whether the division of the beat is duple or triple. Take careful note that the rhythm of m. 6 (2+2+2) is different from that in m. 7 (2+3+1). For full points, rhythm must be perfect.
-- 17.47: Contains many syncopations, which must be performed accurately against a steady conducted beat. Start in e minor. m. 5, high E: modulate to b minor (fa of the new key). m. 9 (after the double bar): back to e minor. Conduct and count through the rests. m. 13: b minor for four measures. Last 4 measures: back to e minor.
-- 17.51: Conduct in 1. (It is OK to practice this in a quick 3, but ultimately the tempo is so fast that it's better to conduct in 1.) Notice the *hemiola* in the last line -- equivalent to a "big 3." This is why it's best to conduct in 1...
-- 17.58: Conduct in 2, that is, a big 1 and small 2 ("One and a two and"). Most metronomes and metronome apps have a 3+2 function, so try practicing with it. No modulations.
-- 17.64: Conduct the 5/8 in 2 ("one and a two and"). Start D-flat major. Line 2, measure 2: f minor. Pickup toline 3: back to D-flat major until the end. Conduct the penultimate measure in 3. 
-- 17.67: Conduct the 7/4 in a big 3 ("one and a two and three and"). No modulations.  
-- 17.73: Conduct the "5+3" as two big unequal beats ("one-two-three-four-five / one-two-three"). No modulation, but take care over solfege in m. 9 (half-diminished 7 chord).
+This material builds on the rhythmic concepts we studied last week. Conducting and singing in unfamiliar meters can be perplexing for first-time learners, so set yourself up for success by practicing with conducting and rhythm only a few times while you accustom yourself to how it feels to conduct in irregular patterns. 
 
-
-
-(Material **in bold** is mandatory. Your section professor will select unbolded examples at random during your audit, so please prepare all the material.)
+Next, try practicing with conducting and chanting solfege. That is, you'll say the solfege syllables without attempting a pitch. Last of all, add the pitches in. Some of the melodies in this material were composed in the late nineteenth or early twentieth century, when the concept of diatonicism was being pushed to its utmost limits. Therefore, the melodies will not contain as many triadic "signposts" as, for example, a melody by Mozart.
