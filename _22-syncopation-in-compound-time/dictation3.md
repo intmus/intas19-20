@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Audit Preparation for week of 2/25-3/1/19
+title: Sight Singing - Same
 ---
 
 (Please note that this page is a repeat of the material from last week, since there are no sight singing lessons during Jazz Week. Please take the extra time to prepare well for your sight singing lesson that will take place in the week after Jazz Week.)
