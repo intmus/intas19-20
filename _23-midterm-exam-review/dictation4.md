@@ -41,3 +41,7 @@ You will need to write on this warm-up and show it to your section professor bef
 - Last line, mm. 1-2 - be careful! The quarter note is the same!!
 - Last line, mm. 2-3 - the beat does not change, but the division of it does.
 - Last line, last measure: if the previous dotted quarter note is equal to the quarter note in this measure, do the two measures sound the same?
+
+**Playlist**
+The works on this playlist are in irregular meters. Listen carefully until you can identify the meter of the piece and it becomes familiar to your ear.
+<iframe src="https://open.spotify.com/embed/playlist/2aRuAg3QkpzFKjoN4MNepm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
