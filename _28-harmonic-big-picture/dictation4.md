@@ -9,7 +9,7 @@ title: Sight Singing - Trichords, Tetrachords, and Non-Diatonic Melodies
 
 **Warm-Up**
 
-This rhythmic warm-up comes from *Mikrokosmos,* a multi-volume series of progressive piano repertoire by the Hungarian composer B&eacute;la Bart&oacute;k. Do not attempt to conduct in eighth notes; instead, conduct in large beats as shown. The beats will have the value of either two or three eight notes. Therefore, conduct 3/8 measures in 1.
+This rhythmic warm-up comes from *Mikrokosmos,* a multi-volume series of progressive piano repertoire by the Hungarian composer B&eacute;la Bart&oacute;k. Do not attempt to conduct in eighth notes; instead, conduct in large beats as shown. The beats will have the value of either two or three eight notes. Therefore, conduct 3/8 measures in one.
 
 **Pitch-Class Sets**
 
