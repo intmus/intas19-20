@@ -17,6 +17,8 @@ We will use the pitch-class set singing skills developed last week to build non-
 
 **Non-Diatonic Melodies**
 
-Study the intervallic relations of the pitches in these melodies carefully before attempting them. Analyze them according to the principles of the pitch-class sets and scales we have already studied. An analytical understanding makes performance much more manageable. If you are unfamiliar with the style of this week's melodies, look up the composers and study as much of their music as possible to familiarize yourself with their non-diatonic languages.
+When melody is non-diatonic, moveable-*do* solfege is no longer practical or relevant. Therefore, please sing all excerpts on "la."
+
+Study the intervallic relations of the pitches in the melodies carefully before attempting them. Analyze them according to the principles of the pitch-class sets and scales we have already studied. An analytical understanding makes performance much more manageable. If you are unfamiliar with the style of this week's melodies, look up the composers and study as much of their music as possible to familiarize yourself with their non-diatonic languages.
 
 Struggling? Try an exercise where you move from pitch to pitch, isolating each interval until it feels more comfortable. Do this without the given rhythms a few times to strengthen your sense of pitch. Then add back the rhythms now you know the melodic shape better.
