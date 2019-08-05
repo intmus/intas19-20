@@ -1,11 +1,11 @@
 ---
 layout: chapter
-title: Final Audit Elements -- Tips for Success
+title: Sight Singing Final Elements -- Tips for Success
 ---
 
 ### Simple Intervals
 
-- Review the material on context-based solfege from Chapters 1, 3, 5, 8, 9, and 14. 
+- Review the material on context-based solfege from Units 1, 3, 5, 8, 9, and 14. 
 - Using the recommended solfege from these chapters, make sure you have a method for every one of the simple intervals, both in ascending and descending motion. Struggling? Find a way to navigate between pitches using a scale or a chord.
 
 ### Diatonic Modes
