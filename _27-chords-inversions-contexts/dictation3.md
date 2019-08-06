@@ -5,7 +5,7 @@ title: Sight Singing - Modes and Tetrachords
 
 ### Sight Singing Material
 
-{% include download.html title="Modes and Tetrachords" filename="Unit28SSA.pdf" %}
+{% include download.html title="Unit 28 Sight Singing Assignment" filename="Unit28SSA.pdf" %}
 
 **Instructions for Modal Melodies**
 
