@@ -6,17 +6,17 @@
 
 # site info
 title: "Integrated Aural Skills"
-tagline: "2018-19"
+tagline: "2019-20"
 description: "an open, interactive, online textbook for college music theory"
-keywords: "music theory, OER, university of idaho, inquiry-based"
+keywords: "music aural skills, OER, university of idaho"
 owner: Miranda Wilson
 email: mirandaw@uidaho.edu
 published: 2018
-github-repo: https://github.com/intmus/intas18-19
+github-repo: https://github.com/intmus/intas19-20
 
 # urls
 url: https://intmus.github.io
-baseurl: /intas18-19
+baseurl: /intas19-20
 
 # collections
 # each unit of the book is a collection
@@ -118,8 +118,7 @@ collections:
   31-putting-it-all-together:
     output: true
     name: Putting It All Together
-    
-  
+
     
 
 # ignore stuff
