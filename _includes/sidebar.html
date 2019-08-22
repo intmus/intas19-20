@@ -21,10 +21,8 @@
     {% endfor %}
     
     <a class="sidebar-nav-item{% if page.url == '/about.html' %} active{% endif %}" href="{{ '/about.html' | relative_url }}">About</a>
-    <a class="sidebar-nav-item{% if page.url == '/forum/index.html' %} active{% endif %}" href="{{ '/forum/index.html' | relative_url }}">Assignments &amp; Forums</a>
+    <a class="sidebar-nav-item{% if page.url == '/forum/index.html' %} active{% endif %}" href="{{ '/forum/index.html' | relative_url }}">Forum &amp; Assignments</a>
     <a class="sidebar-nav-item{% if page.url == '/search/' %} active{% endif %}" href="{{ '/search/index.html' | relative_url }}">Search</a>
-    <!--<a class="sidebar-nav-item{% if page.url == '/abc-tutorial.html' %} active{% endif %}" href="{{ '/abc-tutorial.html' | relative_url }}">ABC Tutorial</a>
-    <a class="sidebar-nav-item{% if page.url == '/abc-playground.html' %} active{% endif %}" href="{{ '/abc-playground.html' | relative_url }}">ABC Playground</a>-->
     <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a>
   </nav>
 

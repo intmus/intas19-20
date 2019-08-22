@@ -1,27 +1,19 @@
 ---
-title: Aural Skills Assignments &amp; Forum
+title: Forum &amp; Assignments 
 layout: page
 ---
 
-Welcome to the Aural Skills Assignments & Forum! 
-Links to all assignments for the course will be posted on this page, please follow the link for the description of the homework and a help forum.
-For other discussion and questions, check our general forum threads.
-This discussion space is intended to help students learn, communicate, and collaborate.
+Welcome to the Integrated Musicianship Discord for the UI music theory and aural skills! We will use our Discord server to distribute assignments, answer homework questions, schedule tutoring, and a number of other class-related activities.
 
-We will be notified when you post, so feel free to ask any questions. 
-Between all of the instructors, this will decrease response time so that you get answers when you need them. 
-And remember that you should help your classmates if you think you know the answer to their questions!
+{% include discord.html %}
 
-For information about getting started with [Disqus](https://disqus.com/) and our community guidelines, please check the [help page]({{ "/forum/help.html" | absolute_url }}).
+## Rules
 
-## Homework assignments:
+You may use this Discord server to discuss your coursework in welcoming, safe space. 
+Remember that even if you are not struggling, others might be, so we will have a zero-tolerance policy for behavior that could be considered bullying or overly negative. 
+As such, please respect each other and the following rules:
 
-{% for item in site.documents %}{% if item.comments == true %}
-- [{{ item.title }}]({{ item.url | absolute_url }}) ([0 Comments]({{ item.url | absolute_url }}#disqus_thread)){% endif %}{% endfor %}
-
-## General discussions:
-
-- [General Concepts]({{ "/forum/concepts.html" | absolute_url }}) ([0 Comments]({{ "/forum/concepts.html#disqus_thread" | absolute_url }}))
-- [Typos and Website Suggestions]({{ "/forum/suggestions.html" | absolute_url }}) ([0 Comments]({{ "/forum/suggestions.html#disqus_thread" | absolute_url }}))
-
-<script id="dsq-count-scr" src="//intmus.disqus.com/count.js" async></script>
+- No inappropriate content or language. PG at all times!
+- Use a civil tone for all posts. (Don't be a jerk.)
+- No spamming. We love humor, but don't use so much that it is difficult to find the information.
+- No self promotion without a moderator's approval. We are proud that you have gigs, but this is not the place to pester people...unless it has a specific relevance to our topics.
