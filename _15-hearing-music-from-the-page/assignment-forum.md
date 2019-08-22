@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 15 Assignment and Forum
-comments: true
+
 ---
 
 ### Reminder: Schedule Your Sight Singing Final
@@ -18,4 +18,4 @@ Important note: **Be careful that you are completing the correct assignment.** I
 
 Because this week is Dead Week, the sight singing lesson will be a dress rehearsal for your sight singing final. Please arrive prepared and ready to perform -- and also bring three well-reasoned questions that show evidence of your preparation. Be sure to bring your Sight Singing Final materials as a paper print-out or on your laptop or tablet. 
 
-Questions? Please ask them in the forum below.
+Questions? Please ask them on the Aural Skills Discord channel.

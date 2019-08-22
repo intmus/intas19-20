@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 31 Assignment and Forum
-comments: true
+
 ---
 
 ### Things to Do

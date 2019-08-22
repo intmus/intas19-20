@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 22 Assignment and Forum
-comments: true
+
 ---
 
 ### Things to Do
@@ -16,4 +16,4 @@ comments: true
 
 - The regular quizzes, audits, and EarMaster schedule will begin again next week. Don't forget to prepare!
 
-Questions? Please ask them in the forum below. You can sign in using your social media, or you can create a free account at Disqus.
+Questions? Please ask them on the Aural Skills Discord channel.

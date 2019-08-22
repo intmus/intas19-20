@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 28 Assignment and Forum
-comments: true
+
 ---
 
 ### Things to Do
@@ -16,4 +16,4 @@ comments: true
 
 - **This week's sight singing** will feature the examples we prepared last week in class.
 
-Questions? Please ask them in the forum below. You can sign in using your social media, or you can create a free account at Disqus.
+Questions? Please ask them on the Aural Skills Discord channel.

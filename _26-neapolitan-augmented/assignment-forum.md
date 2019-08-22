@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 26 Assignment and Forum
-comments: true
+
 ---
 
 ### Things to Do
@@ -16,4 +16,4 @@ comments: true
 
 - **This week's audits** will be on the material we discussed during last Thursday's lecture. Please prepare the materials listed in Unit 25.
 
-Questions? Please ask them in the forum below. You can sign in using your social media, or you can create a free account at Disqus.
+Questions? Please ask them on the Aural Skills Discord channel.

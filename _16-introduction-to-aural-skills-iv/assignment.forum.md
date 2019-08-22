@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 16 Assignment and Forum
-comments: true
+
 ---
 
 ### Things to Do
@@ -21,4 +21,4 @@ comments: true
 - **Listening** widely and critically to all kinds of music is essential to professional-level musicianship. The playlist below demonstrates many of the principles we will study this week and beyond.
 <iframe src="https://open.spotify.com/embed/playlist/6x9dMCmgNM3pR1yTxobvsR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Questions? Please ask them in the forum below. You can sign in using your social media, or you can create a free account at Disqus.
+Questions? Please ask them on the Aural Skills Discord channel.

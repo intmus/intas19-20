@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 17 Assignment and Forum
-comments: true
+
 ---
 
 ### Things to Do
@@ -22,4 +22,4 @@ comments: true
 
 - **Next week's sight singing lessons** will be on the materials listed in this chapter (Unit 17), and will be tested in the week beginning Monday 1/27/19.
 
-Questions? Please ask them in the forum below. You can sign in using your social media, or you can create a free account at Disqus.
+Questions? Please ask them on the Aural Skills Discord channel.

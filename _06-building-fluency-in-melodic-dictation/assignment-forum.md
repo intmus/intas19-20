@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 6 Assignment and Forum
-comments: true
+
 ---
 
 ### Reminder: Earmaster 
@@ -14,4 +14,4 @@ Important note: **Be careful that you are completing the correct assignment.** I
 
 Remember to attend your sight singing lesson at the appointed time, bringing your Unit 6 materials as a paper print-out or on your laptop or tablet. 
 
-Questions? Please ask them in the forum below.
+Questions? Please ask them on the Aural Skills Discord channel.

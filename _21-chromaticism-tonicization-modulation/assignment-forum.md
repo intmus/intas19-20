@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Unit 21 Assignment and Forum
-comments: true
+
 ---
 
 ### Things to Do
@@ -20,4 +20,4 @@ comments: true
 
 <iframe src="https://open.spotify.com/embed/playlist/5Uaw2sfPP5z86cJDNdV2b8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Questions? Please ask them in the forum below. You can sign in using your social media, or you can create a free account at Disqus.
+Questions? Please ask them on the Aural Skills Discord channel.
