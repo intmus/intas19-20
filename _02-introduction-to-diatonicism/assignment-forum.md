@@ -18,4 +18,4 @@ Listen to the examples discussed this week at the playlist “UI Aural Skills II
 
 <iframe src="https://open.spotify.com/embed/playlist/0EnkRmPvWoH8w2dhbcQEkI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Questions? Please ask them on the Aural Skills Discord channel. If you don't yet have a login, you can comment using your social media information, or you can sign up for a free account at Disqus.
+Questions? Please ask them on the Aural Skills Discord channel.
