@@ -44,7 +44,10 @@ One tip for the easy recognition of seventh chords is to look for them in the co
 
 ![MM7 in Mr. Sandman]({{ '/images/Week4majormajor7.PNG' | relative_url }})
 
+We can also find it in some classical repertoire, including this example from the first of Erik Satie's *Gymnopédies*. The opening features two different MM<sup>7</sup> chords. One has D as its root (*do-mi-sol-ti*) and the other has G (*fa-la-do-mi*, a less usual presentation).
+
+![MM7 in Satie]({{ '/images/Unit4Gymnopedie.JPG' | relative_url }})
+
 Study, play, and sing the seventh chords until you can differentiate between them with ease. You can listen to them on this week's Spotify playlist, “UI Aural Skills III Seventh Chords” by user “mirandawilson.”**
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/0lrEwPkfESiO4wYbRLlG4D" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
