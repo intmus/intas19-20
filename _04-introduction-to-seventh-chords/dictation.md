@@ -46,7 +46,7 @@ One tip for the easy recognition of seventh chords is to look for them in the co
 
 We can also find it in some classical repertoire, including this example from the first of Erik Satie's *Gymnopédies*. The opening features two different MM<sup>7</sup> chords. One has D as its root (*do-mi-sol-ti*) and the other has G (*fa-la-do-mi*, a less usual presentation).
 
-![MM7 in Satie]({{ '/images/Unit4Gymnopedie.JPG' | relative_url }})
+![MM7 in Satie]({{ '/images/Unit4Gymnopedie.jpg' | relative_url }})
 
 Study, play, and sing the seventh chords until you can differentiate between them with ease. You can listen to them on this week's Spotify playlist, “UI Aural Skills III Seventh Chords” by user “mirandawilson.”**
 
