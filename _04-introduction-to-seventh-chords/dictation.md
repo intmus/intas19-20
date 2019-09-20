@@ -16,7 +16,7 @@ The table below explains the characteristics, harmonic function, and solfege of 
 Chord Name   |   double diminished (fully diminished) 7   |   half diminished (diminished minor) 7   |   minor-minor 7   |   major-minor 7   |   major-major 7    
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
 **Symbol**   |   dd <sup>7</sup>   |   dm <sup>7</sup>   |   mm <sup>7</sup>   |   Mm <sup>7</sup>   |   MM <sup>7</sup>   
-**Intervallic Structure of the Chord**   |   diminished triad + major third OR three stacked minor 3rds   |   diminished triad + major 3rd   |   minor triad + minor 3rd   |   major triad + minor 3rd   |   major triad + major 3rd   
+**Intervallic Structure of the Chord**   |   diminished triad + minor third OR three stacked minor 3rds   |   diminished triad + major 3rd   |   minor triad + minor 3rd   |   major triad + minor 3rd   |   major triad + major 3rd   
 **Common Harmonic Function**   |   vii<sup>07</sup> in minor keys   |   ii<sup>Ø7</sup> in minor keys OR vii<sup>Ø7</sup> in major keys   |   ii<sup>7</sup> OR vi<sup>7</sup> in major keys   |   V<sup>7</sup> in major AND minor keys   |   rare in classical music; commoner in jazz and pop
 **Solfege**   |   *ti re fa le*   |   *re fa le do* OR *ti re fa la*   |   *re fa la do* OR *la do mi sol*   |   *sol ti re fa*   |   *do mi sol ti*
 
