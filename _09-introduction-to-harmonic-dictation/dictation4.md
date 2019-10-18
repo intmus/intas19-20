@@ -35,7 +35,7 @@ When analyzing a harmonic progression, start by listening to the root movement, 
 
 - Bass movement *do, sol, la* indicates **I-V-vi**, i.e. a deceptive cadence.
 
-- Bass movement *do, la, fa* here indicates the "doo-wop" progression we studied earlier in this chapter. The **I-vi-IV** progression can easily be confused with its variant, **I-vi-ii<sup>6</sup>, so again, check the chord quality before making an analysis.
+- Bass movement *do, la, fa* here indicates the "doo-wop" progression we studied earlier in this chapter. The **I-vi-IV** progression can easily be confused with its variant, **I-vi-ii<sup>6</sup>**, so again, check the chord quality before making an analysis.
 
 - Bass movement *do, ti, do* isn't necessarily **I-vii<sup>o</sup>-I.** Here, it indicates **I-V<sup>6/5</sup>-I.**
 
