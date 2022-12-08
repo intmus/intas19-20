@@ -21,4 +21,4 @@ Compound intervals are not harder to identify and notate than simple intervals. 
 2. Add 7. This gives you a major 10th. Write "M10."
 3. Now notate the second pitch in the score, taking care to use the correct octave.
 
-![Simple vs. Compound Intervals]({{ '/images/Unit17interval.jpg' | relative_url }})
+![Simple vs. Compound Intervals]({{ '/images/Unit17interval.jpg' | absolute_url }})

@@ -17,7 +17,7 @@ Please review the principles of identifying and notating triads from Unit 2.
 
 **Play all triads and their inversions on the piano in a variety of keys. In addition, practice singing this triads workout in a variety of keys.**
 
-![Triad Singing Workout]({{ '/images/Week8TriadSinging.jpg' | relative_url }})
+![Triad Singing Workout]({{ '/images/Week8TriadSinging.jpg' | absolute_url }})
 
 ### Seventh Chords in Review (All Inversions)
 

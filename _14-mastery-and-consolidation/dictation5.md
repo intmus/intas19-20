@@ -12,4 +12,4 @@ As you know, there are two procedures by which we can name solfege syllables in 
 
 In Unit 13, we studied flow charts that helped differentiate the modes using the first method. We can, of course, use the other method to categorize all the scales and modes studied so far into three broad groups: "major-sounding," "minor-sounding," and "1/2 step below the lowest two pitches."
 
-![Scales Flow Chart]({{ '/images/Week14scalesflowchart.jpg' | relative_url }})
+![Scales Flow Chart]({{ '/images/Week14scalesflowchart.jpg' | absolute_url }})

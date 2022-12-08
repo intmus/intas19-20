@@ -9,7 +9,7 @@ The rules for secondary dominants in minor keys are comparable to those for majo
 
 In this example, chord VI is tonicized.
 
-![Minor key secondary dominant]({{ '/images/Unit21secdom.jpg' | relative_url }})
+![Minor key secondary dominant]({{ '/images/Unit21secdom.jpg' | absolute_url }})
 
 
 

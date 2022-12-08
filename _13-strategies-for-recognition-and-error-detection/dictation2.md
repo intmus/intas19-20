@@ -15,9 +15,9 @@ There are three broad types of syncopations:
 
 The images below show examples of all three types of syncopations as we might find them in simple time and in compound time.
 
-![Syncopations in Simple Time]({{ '/images/Week13simplesyncopation.jpg' | relative_url }}){:target='_blank'}
+![Syncopations in Simple Time]({{ '/images/Week13simplesyncopation.jpg' | absolute_url }}){:target='_blank'}
 
-![Syncopations in Compound Time]({{ '/images/Week13compoundsyncopations.jpg' | relative_url }}){:target='_blank'}
+![Syncopations in Compound Time]({{ '/images/Week13compoundsyncopations.jpg' | absolute_url }}){:target='_blank'}
 
 **Tips for Success**
 - The usual conditions for success apply here too, such as taking careful note of the number of beats in the measure, beat note, and possible divisions and subdivisions of the beat. Please review all the time signatures and their beat notes.

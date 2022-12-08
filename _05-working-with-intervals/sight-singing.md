@@ -17,8 +17,8 @@ It is not difficult to sing any simple interval in ascending or descending motio
 Some intervals may seem more difficult than others. Many learners find it difficult, for example, to articulate descending intervals. If you are asked to sing a descending major third, *mi-do*, you can use “Skip to My Lou” again (*mi, do*) or you can give yourself an intermediary step by inserting *re*, and audiating another well-known folk song, “Hot Cross Buns” (*mi, re, do*). Once you have confidently found *do*, you can remove the *re* and simply sing “*mi, do*.”
 
 The charts below provide some suggestions of well-known songs that you can use as relatable intervallic contexts.
-![P4]({{ '/images/Week14intervals1.jpg' | relative_url }}){:target='_blank'}
-![P4]({{ '/images/Week14intervals2.jpg' | relative_url }}){:target='_blank'}
+![P4]({{ '/images/Week14intervals1.jpg' | absolute_url }}){:target='_blank'}
+![P4]({{ '/images/Week14intervals2.jpg' | absolute_url }}){:target='_blank'}
 
 For more inspiration, check out the Spotify playlist **"UI Aural Skills III Simple Intervals In Context"** by user **mirandawilson**. 
 <iframe src="https://open.spotify.com/embed/playlist/3oN3mV2Gv5DtxxlnjEFqsc" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

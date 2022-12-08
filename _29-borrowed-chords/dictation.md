@@ -11,7 +11,7 @@ title: What are Borrowed Chords?
 
 You are likely familiar with the most common type of borrowed chord, the **Picardy third** (also known by its French title, the *tierce de Picardie*). This is when major chord I appears in a minor key, often at a final cadence.
 
-![Picardy3rd]({{ '/images/Unit29borrowedchords1.jpg' | relative_url }})
+![Picardy3rd]({{ '/images/Unit29borrowedchords1.jpg' | absolute_url }})
 
 ### Other borrowed chords
 

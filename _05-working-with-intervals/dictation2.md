@@ -20,7 +20,7 @@ Third Inversion   |   1-2-4-6   |   4/2
 
 In other words, every 4/3 chord will be composed of a third between the two lowest pitches, with a second in the middle, and a third stacked on top. The quality of the intervals is determined by the chord quality. Please also memorize the following information:
 
-![Seventh Chords in Root, 1st, 2nd]({{ '/images/Week57thChords2ndInversion.PNG' | relative_url }})
+![Seventh Chords in Root, 1st, 2nd]({{ '/images/Week57thChords2ndInversion.PNG' | absolute_url }})
 
 Chord   |   dd 4/3   |   dm 4/3   |   mm 4/3   |   Mm 4/3   |   MM 4/3   
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |

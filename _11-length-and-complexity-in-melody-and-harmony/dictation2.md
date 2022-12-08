@@ -6,15 +6,15 @@ title: Ear Training - More Complicated Harmonies
 ### Chord Progressions 
 In Unit 11, we will study harmonic progressions composed of six chords. These chords will follow the logic of chord progressions that we studied in Unit 9, whose rules are determined by the principles of voice-leading.
 
-![Chord Progressions in Major]({{ '/images/Week9MajorProgression.jpg' | relative_url }}){:target='_blank'}
+![Chord Progressions in Major]({{ '/images/Week9MajorProgression.jpg' | absolute_url }}){:target='_blank'}
 
-![Chord Progressions in Minor]({{ '/images/Week9MinorProgression.jpg' | relative_url }}){:target='_blank'}
+![Chord Progressions in Minor]({{ '/images/Week9MinorProgression.jpg' | absolute_url }}){:target='_blank'}
 
 **The Anatomy of a 6-Chord Harmonic Dictation**
 - All the exercises we study will start on the tonic triad. The chords in the first measure will proceed logically according to the Unit 9 chord chart. No surprises!
 - The second measure will contain a cadence (perfect authentic, imperfect authentic, deceptive, half, or plagal), which will be preceded by a pre-cadential chord. This pre-cadential chord will also conform to the logic of the chord chart.
 
-![Harmonic Dictation 6 Chords]({{ '/images/Week11harmonicdictation6.jpg' | relative_url }}){:target='_blank'}
+![Harmonic Dictation 6 Chords]({{ '/images/Week11harmonicdictation6.jpg' | absolute_url }}){:target='_blank'}
 
 **Things to Notice**
 - Measure 1: same logical three-chord progression as in our previous exercises. *Do-re-mi* in the bass voice implies tonic-dominant-tonic.

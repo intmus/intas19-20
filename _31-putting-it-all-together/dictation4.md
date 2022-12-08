@@ -5,7 +5,7 @@ title: Comprehensive Review of Compound Seventh Chords
 
 ### Review of Solfege and Function
 
-![Seventh Chords In Root Position]({{ '/images/Week4SeventhChordsRootPosition.jpg' | relative_url }})
+![Seventh Chords In Root Position]({{ '/images/Week4SeventhChordsRootPosition.jpg' | absolute_url }})
 
 Chord Name   |   double diminished (fully diminished) 7   |   half diminished (diminished minor) 7   |   minor-minor 7   |   major-minor 7   |   major-major 7    
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
@@ -19,15 +19,15 @@ Chord Name   |   double diminished (fully diminished) 7   |   half diminished (d
 Study the following scores and listen to them on the Spotify playlist "UI Aural Skills III Seventh Chords" by user "mirandawilson."
 
 - **dd<sup>7</sup>**: Johann Sebastian Bach (attrib.), *Toccata and Fugue*
-![Toccata and Fugue]({{ '/images/Week4dd7.PNG' | relative_url }})
+![Toccata and Fugue]({{ '/images/Week4dd7.PNG' | absolute_url }})
 - **dm<sup>7</sup>**: Richard Wagner, "Vorspiel" from *Tristan und Isolde*
-![Tristan]({{ '/images/Week4dm7.PNG' | relative_url }})
+![Tristan]({{ '/images/Week4dm7.PNG' | absolute_url }})
 - **mm<sup>7</sup>**: Claude Debussy, *La fille aux cheveux de lin**
-![Debussy]({{ '/images/Week4mm7.PNG' | relative_url }})
+![Debussy]({{ '/images/Week4mm7.PNG' | absolute_url }})
 - **Mm<sup>7</sup>**: Ludwig van Beethoven, Piano Sonata Op. 2 No. 3, I
-![Mm7 in Beethoven Op. 2 No. 3]({{ '/images/Week4majorminor7.PNG' | relative_url }})
+![Mm7 in Beethoven Op. 2 No. 3]({{ '/images/Week4majorminor7.PNG' | absolute_url }})
 - **MM<sup>7</sup>**: Pat Ballard, "Mr. Sandman"
-![MM7 in Mr. Sandman]({{ '/images/Week4majormajor7.PNG' | relative_url }})
+![MM7 in Mr. Sandman]({{ '/images/Week4majormajor7.PNG' | absolute_url }})
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/0lrEwPkfESiO4wYbRLlG4D" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -46,13 +46,13 @@ Third Inversion   |   1-2-4-6   |   4/2
 
 Review how the inversions of the seventh chords feel under your fingers on the piano keyboard. Play them blocked, then arpeggiated. Notice how they are similar to, and different from each other. Improvise contexts for them using your knowledge of chord progressions and voice-leading.
 
-![Seventh Chords in All Inversions]({{ '/images/Week7seventhchordsallintervals.jpg' | relative_url }})
+![Seventh Chords in All Inversions]({{ '/images/Week7seventhchordsallintervals.jpg' | absolute_url }})
 
 ### Singing Practice - Seventh Chords in Solfege and Context
 
 Review this singing warm-up, paying special attention to finding your intervals in a vocally independent manner (i.e. with minimal reference to pitches on the piano).
 
-![Seventh Chords in Harmonic Context]({{ '/images/Week10SeventhChords.jpg' | relative_url }}){:target='_blank'}
+![Seventh Chords in Harmonic Context]({{ '/images/Week10SeventhChords.jpg' | absolute_url }}){:target='_blank'}
 
 ### Compound Seventh Chords - Intervallic Relations
 
@@ -67,18 +67,18 @@ Review the following table of intervallic relations within compound seventh chor
 
 Review and memorize the flow chart to sort through information quickly and eliminate potential wrong answers.
 
-![Flow Chart]({{ '/images/Unit25flowchart.jpg' | relative_url }})
+![Flow Chart]({{ '/images/Unit25flowchart.jpg' | absolute_url }})
 
 ### Piano Practice - Inversions and Contexts
 
 Practice the following contexts for compound seventh chords at the piano. Notice the voice-leading, and play the chords both blocked and arpeggiated, as well as playing the four voices separately to hear their linear shapes.
 
-![dd7]({{ '/images/Unit27chords1.jpg' | relative_url }})
+![dd7]({{ '/images/Unit27chords1.jpg' | absolute_url }})
 
-![dm7]({{ '/images/Unit27chords2.jpg' | relative_url }})
+![dm7]({{ '/images/Unit27chords2.jpg' | absolute_url }})
 
-![mm7]({{ '/images/Unit27chords3.jpg' | relative_url }})
+![mm7]({{ '/images/Unit27chords3.jpg' | absolute_url }})
 
-![Mm7]({{ '/images/Unit27chords4.jpg' | relative_url }})
+![Mm7]({{ '/images/Unit27chords4.jpg' | absolute_url }})
 
-![MM7]({{ '/images/Unit27chords5.jpg' | relative_url }})
+![MM7]({{ '/images/Unit27chords5.jpg' | absolute_url }})

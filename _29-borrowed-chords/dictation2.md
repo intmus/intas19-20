@@ -9,19 +9,19 @@ These excerpts demonstrate how you might come across borrowed chords in a harmon
 
 - Here again is the most familiar borrowed chord, the Picardy third.
 
-![Picardy3rd]({{ '/images/Unit29borrowedchords1.jpg' | relative_url }})
+![Picardy3rd]({{ '/images/Unit29borrowedchords1.jpg' | absolute_url }})
 
 - In this example, the deceptive cadence gets an unexpected twist…♭VI!
 
-![flat6]({{ '/images/Unit29borrowedchords2.jpg' | relative_url }})
+![flat6]({{ '/images/Unit29borrowedchords2.jpg' | absolute_url }})
 
 - In this example, the expectation of the standard I-IV-V progression gets a new and unexpected color when we have iv, instead of the usual IV, as our predominant.
 
-![minoriv]({{ '/images/Unit29borrowedchords6.jpg' | relative_url }})
+![minoriv]({{ '/images/Unit29borrowedchords6.jpg' | absolute_url }})
 
 - Here, instead of the “textbook” progression I-ii-V, we get a colorful tonic-predominant-dominant progression, I-ii<sup>∅4/2</sup>-V<sup>6/5</sup>. We also have another instance of minor iv instead of major IV: remember, **there may be more than one borrowed chord within the same harmonic dictation**.
 
-![multipleborrowings]({{ '/images/Unit29borrowedchords4.jpg' | relative_url }})
+![multipleborrowings]({{ '/images/Unit29borrowedchords4.jpg' | absolute_url }})
 
 ### Instructions for practice
 

@@ -19,7 +19,7 @@ The intervals we study in this class will encompass all the simple intervals, i.
 
  For example, in the first movement of Mozart’s Piano Sonata in C Major K. 545, within a C major context, we can see the Aeolian mode (m. 5), Mixolydian mode (m. 6), Lydian mode (m. 7), Phrygian mode (m. 8), and the melodic minor scale (m. 9).
 
- ![Mozart K545]({{ '/images/Unit3K545.jpg' | relative_url }})
+ ![Mozart K545]({{ '/images/Unit3K545.jpg' | absolute_url }})
 
 ### Chords 
 
@@ -52,11 +52,11 @@ Diatonic melodies are often repeat "ideas," sometimes exactly and sometimes with
 
 For example, the phrase structure in the first movement of Mozart's Piano Sonata in G Major K. 283 features a "basic idea" which is repeated in mm. 3-4. There is then a "continuation and fragmentation" of the idea towards the imperfect authentic cadence (V<sup>7</sup>-I).
 
-![Mozart K283]({{ '/images/Unit3K283.jpg' | relative_url }})
+![Mozart K283]({{ '/images/Unit3K283.jpg' | absolute_url }})
 
 In this example from the second movement of Mozart's *Eine kleine Nachtmusik*, by contrast, a "basic idea" and a "contrasting idea" take place within a broader *antecedent.* An antecedent is a "question" that is answered by a *consequent* in which the basic idea and contrasting idea are brought back.
 
-![Mozart K525]({{ '/images/Unit3K525.jpg' | relative_url }})
+![Mozart K525]({{ '/images/Unit3K525.jpg' | absolute_url }})
 
 ### Harmony
 
@@ -64,7 +64,7 @@ The most common chords in diatonic harmonic progressions are: the tonic triad (I
 
 Looking again at Mozart's C major piano sonata, we can find these chords within the first few measures. Measure 1 features chord I. Measure 2 contains the tones from the V<sup>7</sup> chord (in its second inversion). Measure 3 contains tones from the subdominant triad and the tonic triad. Measure 4 features both chord V (inverted) and chord I. Memorize the tones of I, V, V<sup>7</sup>, and IV. They are essential to an understanding of basic harmony.
 
- ![Mozart K545]({{ '/images/Unit3K545.jpg' | relative_url }})
+ ![Mozart K545]({{ '/images/Unit3K545.jpg' | absolute_url }})
 
 ### Overview
 

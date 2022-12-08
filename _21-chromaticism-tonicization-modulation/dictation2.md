@@ -9,10 +9,10 @@ In many cases, you'll be able to identify the new *do* by its *ti.* Wherever *ti
 
 In this example from Schubert's well-known Lied "Heidenröslein," the accidental in measure 6 indicates the shift to C major (the dominant). *Fi* -- a chromaticism in the home key -- indicates the new *ti*. 
 
-![pivot]({{ '/images/Unit21pivot.jpg' | relative_url }})
+![pivot]({{ '/images/Unit21pivot.jpg' | absolute_url }})
 
 In this example from Luigi Boccherini's famous *Minuet*, the D-sharp -- *fi* in A major -- similarly indicates *ti* in the new key, E major.
 
-![boccherini]({{ '/images/Unit21boccherini.jpg' | relative_url }})
+![boccherini]({{ '/images/Unit21boccherini.jpg' | absolute_url }})
 
 Things to take away from this: in diatonic melody, *fi* is not "normal." If you hear *fi* in a dictation, this is a strong clue that you are now hearing *ti* in the new key -- that the implied harmony is V/V or V<sup>7</sup>/V. *Ti,* of course, is "normal" -- and tells you where your new *do* will be.

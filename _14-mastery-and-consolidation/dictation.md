@@ -15,7 +15,7 @@ Interval recognition and notation is easy as long as you can quickly do the foll
 
 For example, you may hear this interval:
 
-![P4]({{ '/images/Week14intervals3.jpg' | relative_url }}){:target='_blank'}
+![P4]({{ '/images/Week14intervals3.jpg' | absolute_url }}){:target='_blank'}
 
 Using the above procedure, you might:
 - place it within the context of "Here Comes the Bride" 
@@ -30,8 +30,8 @@ The images below show some possible melodic contexts for the intervals. Don't kn
 
 If these examples aren't personally meaningful to you, there are lots of sites around the internet with different suggestions. Get creative and invent your own chart!
 
-![P4]({{ '/images/Week14intervals1.jpg' | relative_url }}){:target='_blank'}
-![P4]({{ '/images/Week14intervals2.jpg' | relative_url }}){:target='_blank'}
+![P4]({{ '/images/Week14intervals1.jpg' | absolute_url }}){:target='_blank'}
+![P4]({{ '/images/Week14intervals2.jpg' | absolute_url }}){:target='_blank'}
 
 Click the link below to download a high-resolution version of the images above.
 

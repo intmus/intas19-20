@@ -8,13 +8,13 @@ To link to files to download from your content pages, first add the files:
 
 To display an image on a content page, use this markdown notation:
 
-`![alt text]({{ '/images/filename.jpg' | relative_url }})`
+`![alt text]({{ '/images/filename.jpg' | absolute_url }})`
 
 *Replace "alt text" with a description of the image, this will only be displayed if the image can't load or for a screen reader. Replace "filename.jpg" with the actual image filename. The curly brackets are "Liquid" code that makes sure the link to the image will be correct.*
 
 To link to a PDF to download, use this markdown notation: 
 
-`[title]({{ '/images/filename.pdf' | relative_url }}){:target='_blank'}`
+`[title]({{ '/images/filename.pdf' | absolute_url }}){:target='_blank'}`
 
 *Replace "title" with the name of the file, this will be the text that is the link. Replace "filename.pdf" with the actual pdf filename. The funny looking "target" code at the end makes sure that the link opens in a new tab.*
 

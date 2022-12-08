@@ -22,7 +22,7 @@ This chapter will walk you through the kind of thought process that will lead to
 
 In this example, the student listens to all the intervallic relations and imagines a predominant context for the chord. The bassline -- *re, sol, do* -- is particularly helpful to imagine here. 
 
-![mm7]({{ '/images/Unit28harmonic1.jpg' | relative_url }})
+![mm7]({{ '/images/Unit28harmonic1.jpg' | absolute_url }})
 
 ### Case Study 2
 
@@ -30,4 +30,4 @@ In this example, the student first considers two chords that are often mistaken 
 
 - Worried about your voice-leading skills? That's OK. Even if you're only able to improvise a hypothetical bassline, that's all you need for determining the inversion of the chord.
 
-![dm65]({{ '/images/Unit28harmonic2.jpg' | relative_url }})
+![dm65]({{ '/images/Unit28harmonic2.jpg' | absolute_url }})

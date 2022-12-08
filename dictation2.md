@@ -9,7 +9,7 @@ Review the following broad categories of scales, using solfege when appropriate,
 
 ### The Diatonic Scales - Major, Minors, Chromatic
 
-![Scales With Solfege]({{ '/images/Week5ScalesWarmUp.jpg' | relative_url }}){:target='_blank'}
+![Scales With Solfege]({{ '/images/Week5ScalesWarmUp.jpg' | absolute_url }}){:target='_blank'}
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/0EnkRmPvWoH8w2dhbcQEkI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -18,41 +18,41 @@ Review the following broad categories of scales, using solfege when appropriate,
 There are two ways to spell modal scales using solfege, both shown below.
 
 **The "major scale" method**
-![Modal Scales]({{ '/images/Week12modes.jpg' | relative_url }}){:target='_blank'}
+![Modal Scales]({{ '/images/Week12modes.jpg' | absolute_url }}){:target='_blank'}
 
 **The "start from *do* method**
-![Modal Scales on "Do"]({{ '/images/Unit16ModalScales2.jpg' | relative_url }}){:target='_blank'}
+![Modal Scales on "Do"]({{ '/images/Unit16ModalScales2.jpg' | absolute_url }}){:target='_blank'}
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/4uzxNesCDcqJxUiVzUgz9C" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### Non-Diatonic Scales
 
 **Major pentatonic**
-![Major Pentatonic]({{ '/images/Unit24scales1.jpg' | relative_url }})
+![Major Pentatonic]({{ '/images/Unit24scales1.jpg' | absolute_url }})
 
 **Minor pentatonic**
-![Minor Pentatonic]({{ '/images/Unit24scales2.jpg' | relative_url }})
+![Minor Pentatonic]({{ '/images/Unit24scales2.jpg' | absolute_url }})
 
 **Whole tone scale**
-![Whole Tone]({{ '/images/Unit24scales3.jpg' | relative_url }})
+![Whole Tone]({{ '/images/Unit24scales3.jpg' | absolute_url }})
 
 **Augmented (half step minor third) scale**
-![Augmented]({{ '/images/Unit24scales4.jpg' | relative_url }})
+![Augmented]({{ '/images/Unit24scales4.jpg' | absolute_url }})
 
 **Lydian dominant**
-![Lydian Dominant]({{ '/images/Unit24scales5.jpg' | relative_url }})
+![Lydian Dominant]({{ '/images/Unit24scales5.jpg' | absolute_url }})
 
 **Whole-half octatonic**
-![Whole Half]({{ '/images/Unit24scales6.jpg' | relative_url }})
+![Whole Half]({{ '/images/Unit24scales6.jpg' | absolute_url }})
 
 **Half-whole octatonic**
-![Half Whole]({{ '/images/Unit24scales7.jpg' | relative_url }})
+![Half Whole]({{ '/images/Unit24scales7.jpg' | absolute_url }})
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/4WZhZlZRmyez06gusdqGaC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### All Scales, Side by Side
 
-![All Scales]({{ '/images/Unit31allscales.jpg' | relative_url }}){:target='_blank'}
+![All Scales]({{ '/images/Unit31allscales.jpg' | absolute_url }}){:target='_blank'}
 
 ### Review - Categorizing Scales
 

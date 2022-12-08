@@ -26,4 +26,4 @@ Please study the chart below for recommended solfege for both major *and* minor 
 |major seventh       | M7             |*do, ti*                                 |
 |perfect octave      | P8             |*do, do*                                 |
 
-![Week 5 Intervals Flow Chart]({{ '/images/Week5FlowChartIntervals.jpg' | relative_url }})
+![Week 5 Intervals Flow Chart]({{ '/images/Week5FlowChartIntervals.jpg' | absolute_url }})

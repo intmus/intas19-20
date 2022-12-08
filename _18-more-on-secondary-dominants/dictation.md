@@ -11,7 +11,7 @@ In Unit 17, we began to study secondary dominants. As we have discussed, a secon
 
 In Aural Skills III, we practiced identifying the commonest chord progressions, such as I-IV-V7-I.
 
-![I-IV-V7-I]({{ '/images/Unit18progression1.jpg' | relative_url }})
+![I-IV-V7-I]({{ '/images/Unit18progression1.jpg' | absolute_url }})
 
 **Adding New Skills - Recognizing Chromatic Color**
 
@@ -19,13 +19,13 @@ We will continue to build upon the study of voice-leading and harmonic progressi
 
 In the progression below, we add chromatic color to chord IV by preceding it with its secondary dominant, V<sup>7</sup>/IV (pronounced "five seven of four"). Note that when it comes to tonicizing IV, we will always use V<sup>7</sup> -- this is because V/IV would be indistinguishable from the tonic triad.
 
-![I-V7/IV-IV-V7-I]({{ '/images/Unit18progression2.jpg' | relative_url }})
+![I-V7/IV-IV-V7-I]({{ '/images/Unit18progression2.jpg' | absolute_url }})
 
 **Same Bass Note, Different Pre-Dominant**
 
 In some progressions, we will use more than one secondary dominant. At the piano, practice the progression below until you can play it fluently. Then change some of the tones to make **I-I-IV-ii-V7-I**. Compare the two side by side.
 
-![I-V7/IV-IV-V7/V-V7-I]({{ '/images/Unit18progression3.jpg' | relative_url }})
+![I-V7/IV-IV-V7/V-V7-I]({{ '/images/Unit18progression3.jpg' | absolute_url }})
 
 **How Secondary Dominants Appear in Music**
 

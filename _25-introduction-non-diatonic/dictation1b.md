@@ -7,13 +7,13 @@ title: Piano Practice - Figuring Out Inverted Compound Seventh Chords
 
 When it comes to identifying compound seventh chords in inversions, we need a rational method for quickly sorting through information to find correct answers and identify wrong ones. One such method is a flow chart. In this example, the first question asked is whether tritones are present in the texture. Study the flow chart and use it for the piano practice examples below. **Experiment: make your own flow chart with a different initial question.**
 
-![Flow Chart]({{ '/images/Unit25flowchart.jpg' | relative_url }})
+![Flow Chart]({{ '/images/Unit25flowchart.jpg' | absolute_url }})
 
 ### Piano Practice
 
 Play the following chords on the piano, noticing the intervallic relations between every tone in the chord. Below the examples is the kind of rationale you might use to sort through the evidence to identify your chord quality and inversion.
 
-![Piano Practice]({{ '/images/Unit25chords5.jpg' | relative_url }})
+![Piano Practice]({{ '/images/Unit25chords5.jpg' | absolute_url }})
 
 ### Rationales
 

@@ -11,7 +11,7 @@ In all types of music, tonicizations and modulations occur. A piece of music tha
 
 In this example from a Lied by Franz Schubert, *Todesmusik* D. 258, we can see that the last part of the excerpt can be analyzed as belonging to the home key -- F major -- *or* the new key, C major.
 
-![Todesmusik]({{ '/images/Unit20modulation.jpg' | relative_url }})
+![Todesmusik]({{ '/images/Unit20modulation.jpg' | absolute_url }})
 
 **Tips for Success**
 

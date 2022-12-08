@@ -9,7 +9,7 @@ Classical phrase structure often contains repetitions of motivic material. It al
 
 The example below shows the type of triadic movement you can expect from the dictations we will study in class:
 
-![Melodic Dictation with Skips]({{ '/images/Week6MelodicSkips.jpg' | relative_url }})
+![Melodic Dictation with Skips]({{ '/images/Week6MelodicSkips.jpg' | absolute_url }})
 
 ### Tips for Success
 

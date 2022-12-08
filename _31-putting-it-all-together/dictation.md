@@ -36,25 +36,25 @@ Download the study guide from Unit 4 (link below) on the context and solfege of 
 Review the harmonic contexts of intervals by practicing the following chords and their inversions.
 
 **Perfect and Imperfect Consonances**
-![Consonances]({{ '/images/Week3HarmonicIntervals.PNG' | relative_url }})
+![Consonances]({{ '/images/Week3HarmonicIntervals.PNG' | absolute_url }})
 
 **"Dominant" Dissonances**
-![Dominant Dissonances]({{ '/images/Week3DominantDissonances.PNG' | relative_url }})
+![Dominant Dissonances]({{ '/images/Week3DominantDissonances.PNG' | absolute_url }})
 
 **"Extreme" Dissonances**
-![Extreme Dissonances]({{ '/images/Week3ExtremeDissonances.PNG' | relative_url }})
+![Extreme Dissonances]({{ '/images/Week3ExtremeDissonances.PNG' | absolute_url }})
 
 ### Singing Practice
 
 Review this singing warm-up of intervals and solfege in common contexts. Memorize the solfege and context for easy recall.
 
-![Intervals in Context]({{ '/images/Unit31intervalscontext.jpg' | relative_url }})
+![Intervals in Context]({{ '/images/Unit31intervalscontext.jpg' | absolute_url }})
 
 ### Study Skills - Flow Chart
 
 Flow charts are invaluable in helping us identify correct answers and eliminate errors when we are under pressure in an exam. Review the flow chart below for easy categorization of intervals.
 
-![Intervals Flow Chart]({{ '/images/Week5FlowChartIntervals.jpg' | relative_url }})
+![Intervals Flow Chart]({{ '/images/Week5FlowChartIntervals.jpg' | absolute_url }})
 
 ### Simple vs. Compound
 

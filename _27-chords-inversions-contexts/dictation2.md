@@ -7,7 +7,7 @@ This week, we will expand on our recognition and notation of non-diatonic scales
 
 Practice the following descending scales on the piano and sing them, too.
 
-![nondiatonic scales]({{ '/images/Unit27scales.jpg' | relative_url }})
+![nondiatonic scales]({{ '/images/Unit27scales.jpg' | absolute_url }})
 
 ### Questions to ask
 - Which scales begin with a *minor second*?

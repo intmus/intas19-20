@@ -15,7 +15,7 @@ After re-familiarizing yourself with the chords, please play them on the piano -
 
 The table below (again, this is review from Unit 4) explains the characteristics, harmonic function, and solfege of each of the seventh chords. Please re-commit the table to memory.
 
-![Seventh Chords In Root Position]({{ '/images/Week4SeventhChordsRootPosition.jpg' | relative_url }})
+![Seventh Chords In Root Position]({{ '/images/Week4SeventhChordsRootPosition.jpg' | absolute_url }})
 
 Chord Name   |   double diminished 7   |   half diminished 7   |   minor-minor 7   |   major-minor 7   |   major-major 7    
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |

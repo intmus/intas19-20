@@ -9,7 +9,7 @@ Just like triads, seventh chords may be inverted.
 
 When seventh chords appear in root position, we identify them with the figured bass “7” as an abbreviation of “1-3-5-7.” When they appear in first inversion, we identify them with the figured bass “6/5” as an abbreviation of “1-3-5-6.” Please study, sing, and play the following 7 and 6/5 chords as they appear, side by side, in the keys of D minor and D major (as applicable), and memorize the chart below, which explains how to identify the chords as they appear in first inversion.
 
-![Seventh Chords In Root Position and First Inversion]({{ '/images/Week4SeventhChordsRootPositionand1stInversion.jpg' | relative_url }})
+![Seventh Chords In Root Position and First Inversion]({{ '/images/Week4SeventhChordsRootPositionand1stInversion.jpg' | absolute_url }})
 
 **Memorize the following table of intervals, solfege, and salient features of the five types of 7th chords in first inversion**
 
@@ -38,5 +38,5 @@ In class, we will go over different methods for quickly identifying them in quiz
 
 One way to study these concepts effectively is to build a **flow chart** where you can go logically through steps that will help you find the right answer - and, crucially, eliminate wrong answers. The flow chart below is designed to help with identifying seventh chords in root position (7) and first inversion (6/5). This is just one way of building a flow chart. Try building your own, starting with a different initial question!
 
-![Seventh Chords In Root Position and First Inversion]({{ '/images/Week4SeventhChordsRootPositionAndFirstInversion.jpg' | relative_url }})
+![Seventh Chords In Root Position and First Inversion]({{ '/images/Week4SeventhChordsRootPositionAndFirstInversion.jpg' | absolute_url }})
 

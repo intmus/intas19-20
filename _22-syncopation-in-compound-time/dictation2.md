@@ -16,7 +16,7 @@ In Unit 13, we began to work on syncopated rhythmic dictations in *simple* time.
 
 These principles apply in compound time too. In this excerpt, we can find all three types of syncopation:
 
-![Syncopations in Compound Time]({{ '/images/Week13compoundsyncopations.jpg' | relative_url }}){:target='_blank'}
+![Syncopations in Compound Time]({{ '/images/Week13compoundsyncopations.jpg' | absolute_url }}){:target='_blank'}
 
 ### Tips for Success in Syncopated Rhythmic Dictation
 

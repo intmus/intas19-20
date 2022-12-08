@@ -7,7 +7,7 @@ title: Increasingly Small Subdivisions in Rhythmic Dictation
 
 Now that we have reached such fluency with dividing and subdividing the beat in simple and common time, we will add very small subdivisions plus tripletized subdivisions to our repertoire of rhythmic dictations. In this example, some of the divisions of the beat are further subdivided into triplets. Be aware of the difference between duple and triple.
 
-![subdivisions]({{ '/images/Unit28rhythm1.jpg' | relative_url }})
+![subdivisions]({{ '/images/Unit28rhythm1.jpg' | absolute_url }})
 
 ### Tips for success
 

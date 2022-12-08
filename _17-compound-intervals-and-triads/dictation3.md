@@ -21,7 +21,7 @@ In Aural Skills IV, we will add an extra level of skill to your perception of tr
 
 ### Examples
 
-![Triads in Inversions]({{ '/images/Unit17compoundtriads.jpg' | relative_url }})
+![Triads in Inversions]({{ '/images/Unit17compoundtriads.jpg' | absolute_url }})
 
 - The first example is a major triad in root position. Notice that the root is doubled. In any case, if you can hear the P5 between bass and tenor, that's a dead giveaway that the chord is in root position.
 

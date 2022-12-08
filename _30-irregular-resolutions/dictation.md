@@ -9,7 +9,7 @@ We say that an irregular resolution happens when a secondary dominant sets up th
 
 Therefore, the secondary dominant of chord IV might lead instead, unexpectedly, to chord ii.
 
-![irregular resolution]({{ '/images/Unit30harmonic1.jpg' | relative_url }})
+![irregular resolution]({{ '/images/Unit30harmonic1.jpg' | absolute_url }})
 
 ### Piano Practice
 

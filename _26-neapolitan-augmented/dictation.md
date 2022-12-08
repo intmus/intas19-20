@@ -12,12 +12,12 @@ title: Introduction to the Neapolitan Chord
 
 ### In Context -- Harmonic Dictation
 
-![Neapolitan 1]({{ '/images/Unit26neapolitan1.jpg' | relative_url }})
+![Neapolitan 1]({{ '/images/Unit26neapolitan1.jpg' | absolute_url }})
 
 - Notice *fa* in the bass, plus the telltale *ra* in the soprano voice. That's how we know this isn't chord iv or ii<sup>06</sup>.
 - For voice-leading reasons, it's quite common for i<sup>6/4</sup> to come between the Neapolitan chord and the dominant. (You'll recall that i<sup>6/4</sup> has dominant function.) In the following example, adding i<sup>6/4</sup> between the Neapolitan chord and V<sup>7</sup> means the soprano doesn't have to sing *ra-ti*, which many singers find awkward.
 
-![Neapolitan 2]({{ '/images/Unit26neapolitan2.jpg' | relative_url }})
+![Neapolitan 2]({{ '/images/Unit26neapolitan2.jpg' | absolute_url }})
 
 - For voice-leading reasons, it's quite common for i<sup>6/4</sup> to come between the Neapolitan chord and the dominant. (You'll remember that i<sup>6/4</sup> has dominant function too.)
 
@@ -26,4 +26,4 @@ title: Introduction to the Neapolitan Chord
 - Please practice singing the following exercise in a variety of key signatures until you feel comfortable building a Neapolitan chord from any given tonic. 
 - You will be asked in your final audit to build a Neapolitan chord, so take steps to become adept at this now.
 
-![Neapolitan 3]({{ '/images/Unit26neapolitan3.jpg' | relative_url }})
+![Neapolitan 3]({{ '/images/Unit26neapolitan3.jpg' | absolute_url }})

@@ -17,7 +17,7 @@ Secondary dominants are relatively easy to identify, because you will hear a cho
 
 ### A characteristic example
 
-![Secondary Dominant 1]({{ '/images/Unit17secdom1.jpg' | relative_url }})
+![Secondary Dominant 1]({{ '/images/Unit17secdom1.jpg' | absolute_url }})
 
 - Notice the C-sharp on measure 1, beat 2: this indicates *ti* of the tonicized key. 
 - The root movement also indicates which key is to be tonicized. Notice the ascending perfect fourth between A and D. This is the *sol* and *do* of the tonicized key.

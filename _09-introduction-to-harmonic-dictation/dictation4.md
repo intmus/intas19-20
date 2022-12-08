@@ -9,7 +9,7 @@ When analyzing a harmonic progression, start by listening to the root movement, 
 
 ### Piano Practice Excerpt 1
 
-![Piano Practice 1]({{ '/images/Week9rootmovement1.jpg' | relative_url }}){:target='_blank'}
+![Piano Practice 1]({{ '/images/Week9rootmovement1.jpg' | absolute_url }}){:target='_blank'}
 
 - Bass movement *do, re, mi*: first-time learners are often tempted to analyze this root movement as a predictor for **I-ii-iii.** But this progression is not possible: while chord **I** can definitely go to chord **ii**, **ii** cannot go to **iii**.
 
@@ -21,7 +21,7 @@ When analyzing a harmonic progression, start by listening to the root movement, 
 
 - Bass movement *do, mi, fa*: **Many will be tempted to identify a chord with *mi* in the bass as chord iii. Don't fall into that trap. *Mi* in the bass almost always signifies I<sup>6</sup>, not iii.**
 
-![Piano Practice 2]({{ '/images/Week9rootmovement2.jpg' | relative_url }}){:target='_blank'}
+![Piano Practice 2]({{ '/images/Week9rootmovement2.jpg' | absolute_url }}){:target='_blank'}
 
 - Bass movement *do, mi, sol*: **Again, *mi* in the bass signifies I<sup>6</sup>, *not* iii.**
 
@@ -31,7 +31,7 @@ When analyzing a harmonic progression, start by listening to the root movement, 
 
 - Bass movement *do, fa, sol*: this indications a pre-dominant function on the second chord. In the first example, the chord is **ii<sup>6</sup>**, and in the second example, it's **IV**. **ii<sup>6</sup>** is easily confused with chord **IV** because the bass note is the same. **Tip: identify these by their chord qualities. Chord ii, as you know, is minor, whereas chord IV is major.**
 
-![Piano Practice 3]({{ '/images/Week9rootmovement3.jpg' | relative_url }}){:target='_blank'}
+![Piano Practice 3]({{ '/images/Week9rootmovement3.jpg' | absolute_url }}){:target='_blank'}
 
 - Bass movement *do, sol, la* indicates **I-V-vi**, i.e. a deceptive cadence.
 

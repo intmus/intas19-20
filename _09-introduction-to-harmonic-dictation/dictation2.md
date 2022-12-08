@@ -8,7 +8,7 @@ You are likely already familiar with some of the most familiar types of chord pr
 
 A cadence is composed of the two final chords in the harmonic progression that ends a musical phrase.
 
-![Cadences]({{ '/images/Week9Cadences.jpg' | relative_url }}){:target='_blank'}
+![Cadences]({{ '/images/Week9Cadences.jpg' | absolute_url }}){:target='_blank'}
 
 Commit the following table to memory:
 
@@ -18,4 +18,4 @@ Commit the following table to memory:
 
 All of the above cadences appear in this four-part setting of Psalm 100 from the *Geneva Psalter* (1551):
 
-![Cadences in Context]({{ '/images/Week9Psalm100.jpg' | relative_url }}){:target='_blank'}
+![Cadences in Context]({{ '/images/Week9Psalm100.jpg' | absolute_url }}){:target='_blank'}

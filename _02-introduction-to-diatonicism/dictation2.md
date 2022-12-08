@@ -17,7 +17,7 @@ title: Ear Training - Triads in Review
 
 Sing and memorize the following excerpt, which teaches the four types of triad and their common solfege and function. If you habitually confuse diminished with augmented triads, internalizing these principles will help.
 
- ![Triad Solfege]({{ '/images/Unit2triadsolfege.jpg' | relative_url }})
+ ![Triad Solfege]({{ '/images/Unit2triadsolfege.jpg' | absolute_url }})
 
 ### Inverting the Triads
 
@@ -41,7 +41,7 @@ Second Inversion | 6/4 | 6/4
 
 ### First Inversion (6/3) Triads in Context
 
- ![Triads Root and 1st]({{ '/images/Unit2triadsroot1st.jpg' | relative_url }})
+ ![Triads Root and 1st]({{ '/images/Unit2triadsroot1st.jpg' | absolute_url }})
 
  - Major 6/3 is composed of a stacked *minor* third + perfect fourth
  - Minor 6/3 is composed of a stacked *major* third + perfect fourth
@@ -50,7 +50,7 @@ Second Inversion | 6/4 | 6/4
 
  Confusing root position with first inversion? Learn and memorize this easy song.
 
-  ![Triads Song Root and 1st]({{ '/images/Unit2triadsongroot1st.jpg' | relative_url }})
+  ![Triads Song Root and 1st]({{ '/images/Unit2triadsongroot1st.jpg' | absolute_url }})
 
   As always, well-known repertoire provides memorable contexts for inverted triads. The famous trumpet solo from Stravinsky's *Petrushka* outlines a major triad in first inversion. Listen to the track below several times.
 
@@ -62,11 +62,11 @@ In the early stages of chord and inversion identification, learners often confus
 
 Study and listen to these common contexts for second inversion triads. In the first example, the opening of the second movement of Beethoven's Symphony No. 5, the first three pitches of the melody form an ascending second inversion *major* triad.
 
- ![Symphony 5]({{ '/images/Unit2beethoven.JPG' | relative_url }})
+ ![Symphony 5]({{ '/images/Unit2beethoven.JPG' | absolute_url }})
 
  By contrast, study and listen to the opening of Brahms's Hungarian Dance No. 5. The first three pitches of the melody form an ascending second inversion *minor* triad.
 
- ![Hungarian Dance]({{ '/images/Unit2brahms.JPG' | relative_url }})
+ ![Hungarian Dance]({{ '/images/Unit2brahms.JPG' | absolute_url }})
 
 Listen to the Spotify playlist below several times until you know both compositions well. Also in the playlist is Chopin's "Raindrop" Prelude, a famous example of the the major 6/4 triad played in descending motion. Can you sing along in solfege?
 

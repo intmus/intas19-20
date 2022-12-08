@@ -31,11 +31,11 @@ You may know some nursery rhymes and folk songs well. Most well-known songs do a
 
 - The nursery rhyme “Hot Cross Buns” has sentence structure. The *mi-re-do* scalar pattern establishes the key and the basic idea.
 
-![Hot Cross Buns]({{ '/images/Week3HotCrossBuns.PNG' | relative_url }})
+![Hot Cross Buns]({{ '/images/Week3HotCrossBuns.PNG' | absolute_url }})
 
 - Another children's song, “Here We Go Round the Mulberry Bush,” has period structure. Its basic idea is built around *do, mi,* and *sol* = the tonic triad. In the contrasting idea, it implies dominant harmony by using the tones of the dominant triad: *sol, ti*, and *re*. The consequent has an exact repeat of the basic idea from measure one, but this time it varies the contrasting idea so that we can have a perfect cadence at the end instead of the half cadence we had before.
 
-![Here We Go Round the Mulberry Bush]({{ '/images/Week3MulberryBush.PNG' | relative_url }})
+![Here We Go Round the Mulberry Bush]({{ '/images/Week3MulberryBush.PNG' | absolute_url }})
 
 ### Developing Your Skills Further
 

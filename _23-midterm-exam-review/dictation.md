@@ -23,4 +23,4 @@ One of the easiest ways to hear that a modulation is taking place is to listen f
 
 In this example from the first movement of Joseph Haydn's Cello Concerto in C Major Hob. VIIb:1, the F-sharp in the third measure (*fi* in the home key of C major) signals a modulation to the dominant, G major, where it is of course the new leading tone.
 
-![Dominant Modulation in Haydn]({{ '/images/Unit23Haydn.jpg' | relative_url }}){:target='_blank'}
+![Dominant Modulation in Haydn]({{ '/images/Unit23Haydn.jpg' | absolute_url }}){:target='_blank'}

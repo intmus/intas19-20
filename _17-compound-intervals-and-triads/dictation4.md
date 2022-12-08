@@ -19,11 +19,11 @@ There are several types of syncopations.
 
 - In this example, the syncopation crosses the barline.
 
-![Over the Barline]({{ '/images/Unit17rhythm2.jpg' | relative_url }})
+![Over the Barline]({{ '/images/Unit17rhythm2.jpg' | absolute_url }})
 
 - In the next example, the syncopation happens within the divisions of the beat.
 
-![Within the Beat]({{ '/images/Unit17rhythm1.jpg' | relative_url }})
+![Within the Beat]({{ '/images/Unit17rhythm1.jpg' | absolute_url }})
 
 ### Tips for success in notating syncopated rhythms
 

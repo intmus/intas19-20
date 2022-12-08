@@ -13,7 +13,7 @@ Major, three types of minor, and chromatic scales are very familiar. By now, the
 
 Please review the solfege of diatonic scales by singing through the warm-up below, and listen to the Spotify playlist "UI Aural Skills III - Diatonic Style" by user "mirandawilson" to refresh your memories of this year's study.
 
-![Scales With Solfege]({{ '/images/Week5ScalesWarmUp.jpg' | relative_url }}){:target='_blank'}
+![Scales With Solfege]({{ '/images/Week5ScalesWarmUp.jpg' | absolute_url }}){:target='_blank'}
 
 {% include download.html title="Scales With Solfege Syllables" filename="Week5AuditWarmupScalesSolfege.pdf" %}
 
@@ -24,9 +24,9 @@ Please review the solfege of diatonic scales by singing through the warm-up belo
 There are two ways to think about modal scales, and you may feel free to pick the one that seems most manageable and relevant to your own meaningful musical contexts. Review the solfege below, and listen to the Spotify playlist "UI Aural Skills IV Modal Scales" by user "mirandawilson" to refresh your memory of the sounds and uses of the modes.
 
 - **First method: take *do* as the starting pitch**
-![Modal Scales on "Do"]({{ '/images/Unit16ModalScales2.jpg' | relative_url }}){:target='_blank'}
+![Modal Scales on "Do"]({{ '/images/Unit16ModalScales2.jpg' | absolute_url }}){:target='_blank'}
 - **Second method: treat them as major scales starting on different solfege**
-![Modal Scales]({{ '/images/Week12modes.jpg' | relative_url }}){:target='_blank'}
+![Modal Scales]({{ '/images/Week12modes.jpg' | absolute_url }}){:target='_blank'}
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/4uzxNesCDcqJxUiVzUgz9C" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -37,31 +37,31 @@ Review the characteristics, intervallic properties, and notation methods for the
 - Two Pentatonic Scales
 
 **Major Pentatonic**
-![Major Pentatonic]({{ '/images/Unit24scales1.jpg' | relative_url }})
+![Major Pentatonic]({{ '/images/Unit24scales1.jpg' | absolute_url }})
 
 **Minor Pentatonic**
-![Minor Pentatonic]({{ '/images/Unit24scales2.jpg' | relative_url }})
+![Minor Pentatonic]({{ '/images/Unit24scales2.jpg' | absolute_url }})
 
 - Two Hexatonic Scales
 
 **Whole Tone**
-![Whole Tone]({{ '/images/Unit24scales3.jpg' | relative_url }})
+![Whole Tone]({{ '/images/Unit24scales3.jpg' | absolute_url }})
 
 **Augmented (Half Step Minor Third)**
-![Augmented]({{ '/images/Unit24scales4.jpg' | relative_url }})
+![Augmented]({{ '/images/Unit24scales4.jpg' | absolute_url }})
 
 - A Heptatonic Scale
 
 **Lydian Dominant**
-![Lydian Dominant]({{ '/images/Unit24scales5.jpg' | relative_url }})
+![Lydian Dominant]({{ '/images/Unit24scales5.jpg' | absolute_url }})
 
 - Two Octatonic Scales
 
 **Whole-Half Octatonic**
-![Whole Half]({{ '/images/Unit24scales6.jpg' | relative_url }})
+![Whole Half]({{ '/images/Unit24scales6.jpg' | absolute_url }})
 
 **Half-Whole Octatonic**
-![Half Whole]({{ '/images/Unit24scales7.jpg' | relative_url }})
+![Half Whole]({{ '/images/Unit24scales7.jpg' | absolute_url }})
 
 <iframe src="https://open.spotify.com/embed/user/mirandawilson/playlist/4WZhZlZRmyez06gusdqGaC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -78,4 +78,4 @@ Using this quick and effective method for sorting scales into categories, you ca
 
 Lastly, here is an image of all the scales we are studying side by side. Study the scales, their intervals, and their notation. Sing through them and play them on the piano. Compare and contrast: in what respects are they similar to and different from each other?
 
-![All Scales]({{ '/images/Unit31allscales.JPG' | relative_url }})
+![All Scales]({{ '/images/Unit31allscales.JPG' | absolute_url }})

@@ -15,6 +15,6 @@ For time signatures with a 7 in the numerator, conductors will often beat in an 
 
 ### Case Study: 7/8
 
-![seven]({{ '/images/Unit28rhythm2.jpg' | relative_url }})
+![seven]({{ '/images/Unit28rhythm2.jpg' | absolute_url }})
 
 The instructor will conduct and say two measures of time before beginning the dictation. Take careful note of which beat is the long beat. In this example, the instructor will be conducting in three: "one-and-two-and-three-and-a." You can take note of this above the staff by writing a vertical line for a "two" and a triangle for "three." That way you will remember which beat is longest.

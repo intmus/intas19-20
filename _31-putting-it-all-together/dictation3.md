@@ -15,7 +15,7 @@ title: Comprehensive Review of Compound Triads
 
 ### Singing Review
 
-![Triad Singing Workout]({{ '/images/Week8TriadSinging.jpg' | relative_url }})
+![Triad Singing Workout]({{ '/images/Week8TriadSinging.jpg' | absolute_url }})
 
 ### Compound Notation
 

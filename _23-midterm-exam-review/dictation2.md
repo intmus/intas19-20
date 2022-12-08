@@ -12,7 +12,7 @@ Playlist: "UI Aural Skills IV Midterm Preparation" by "mirandawilson"
 - Review recommended contextual solfege from Unit 1, 3, 4, and 5
 
 **Annotated Intervals Practice Examples**
-![Intervals]({{ '/images/Unit23intervals.jpg' | relative_url }}){:target='_blank'}
+![Intervals]({{ '/images/Unit23intervals.jpg' | absolute_url }}){:target='_blank'}
 
 ### Scales
 - All major and minor (natural, melodic, harmonic) scales
@@ -21,7 +21,7 @@ Playlist: "UI Aural Skills IV Midterm Preparation" by "mirandawilson"
 - Practice notating all modes in all keys and all clefs
 
 **Annotated Scales Practice Examples**
-![Scales]({{ '/images/Unit23scales.jpg' | relative_url }}){:target='_blank'}
+![Scales]({{ '/images/Unit23scales.jpg' | absolute_url }}){:target='_blank'}
 
 ### Chords
 - All triads (major, minor, diminished, augmented); all inversions (root position, first inversion, second inversion)
@@ -29,7 +29,7 @@ Playlist: "UI Aural Skills IV Midterm Preparation" by "mirandawilson"
 - Study all the intervals that are inherent to the four different types of triads -- *and* their inversions.
 
 **Annotated Chords Practice Examples**
-![Triads]({{ '/images/Unit23chords.jpg' | relative_url }}){:target='_blank'}
+![Triads]({{ '/images/Unit23chords.jpg' | absolute_url }}){:target='_blank'}
 
 ### Rhythmic Dictation
 - All simple and compound time signatures
@@ -40,7 +40,7 @@ Playlist: "UI Aural Skills IV Midterm Preparation" by "mirandawilson"
 - Conduct with your non-writing hand, and take notes on the salient features of the dictation as shown below.
 
 **Annotated Rhythm Practice Example**
-![Rhythm]({{ '/images/Unit23rhythm.jpg' | relative_url }}){:target='_blank'}
+![Rhythm]({{ '/images/Unit23rhythm.jpg' | absolute_url }}){:target='_blank'}
 
 ### Melodic Dictation
 - May be in simple or compound time
@@ -49,7 +49,7 @@ Playlist: "UI Aural Skills IV Midterm Preparation" by "mirandawilson"
 - Study examples in Rogers and Ottman. Where are the "pivots"? How do we know a modulation has taken place?
 
 **Annotated Melodic Dictation Practice Example**
-![Melodic]({{ '/images/Unit23melodic.jpg' | relative_url }}){:target='_blank'}
+![Melodic]({{ '/images/Unit23melodic.jpg' | absolute_url }}){:target='_blank'}
 (Example comes from J. S. Bach's Sonata No. 1 for viola da gamba and harpsichord BWV 1027, 4th movement.)
 
 ### Harmonic Dictation
@@ -59,5 +59,5 @@ Playlist: "UI Aural Skills IV Midterm Preparation" by "mirandawilson"
 - Will conform to the rules of voice-leading in four-part writing that you study in Theory IV
 
 **Annotated Harmonic Dictation Practice Example**
-![Harmonic]({{ '/images/Unit23harmonic.jpg' | relative_url }}){:target='_blank'}
+![Harmonic]({{ '/images/Unit23harmonic.jpg' | absolute_url }}){:target='_blank'}
 (Example comes from J. S. Bach's Sonata No. 1 for viola da gamba and harpsichord BWV 1027, 4th movement.)

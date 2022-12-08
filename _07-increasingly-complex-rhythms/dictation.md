@@ -22,7 +22,7 @@ Next, write the beats above the measure to keep your place as you begin to write
 
 Your paper may look something like this.
 
-![Rhythm Basics]({{ '/images/Week7Rhythm1.PNG' | relative_url }})
+![Rhythm Basics]({{ '/images/Week7Rhythm1.PNG' | absolute_url }})
 
 **2. The "Dummy Rhythm" Method**
 
@@ -32,7 +32,7 @@ If you write the dummy rhythm above the staff, you can then do some error detect
 
 Your paper may look like this.
 
-![Rhythm Basics]({{ '/images/Week7Rhythm2.PNG' | relative_url }})
+![Rhythm Basics]({{ '/images/Week7Rhythm2.PNG' | absolute_url }})
 
 (Don't like our dummy rhythm? Choose your own!)
 
@@ -44,7 +44,7 @@ Using this method, get what you can at the beginning, while continuing to conduc
 
 Your paper may look like this.
 
-![Rhythm Basics]({{ '/images/Week7Rhythm3.PNG' | relative_url }})
+![Rhythm Basics]({{ '/images/Week7Rhythm3.PNG' | absolute_url }})
 
 
 **Further Practice**
@@ -59,4 +59,4 @@ Your paper may look like this.
    People **all** turned a-**side**,   
    And **star**-ted a-**way** in sur-**prise.**    
 
-![Limerick Rhythm]({{ '/images/Week7Limerick.jpg' | relative_url }})
+![Limerick Rhythm]({{ '/images/Week7Limerick.jpg' | absolute_url }})

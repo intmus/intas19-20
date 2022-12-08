@@ -11,7 +11,7 @@ As with all topics in ear training, the key to successful identification and not
 
 Write out the modal scales, sing them, and play them on the piano. This gives you auditory, visual, and tactile methods for recognizing, internalizing, and building fluency in these scales. Notice how the patterns of whole and half steps differ between each of the modes. For ascending modal scales, this flow chart may help you to sort through information on your journey towards the right answer.
 
-![Modal Scales Flow Chart]({{ '/images/Week13modesflowchart.jpg' | relative_url }}){:target='_blank'}
+![Modal Scales Flow Chart]({{ '/images/Week13modesflowchart.jpg' | absolute_url }}){:target='_blank'}
 
 ### The Next Step
 
@@ -25,14 +25,14 @@ Alternatively, you can remember which scale degrees to alter. So if you identify
 
 Many learners find it more difficult to identify scales when they're presented in descending motion. While you can certainly use the first flow chart to identify descending modal scales, the second chart will also help you to sort through information.
 
-![Descending Modal Scales]({{ '/images/Week13descendingmodes.jpg' | relative_url }}){:target='_blank'}
+![Descending Modal Scales]({{ '/images/Week13descendingmodes.jpg' | absolute_url }}){:target='_blank'}
 
 **Writing, Singing, and Piano Practice**
 
 As always, it is good to practice notating, playing, and singing all theoretical concepts. Experiment with making up songs based on the modal scales! The below example jumps from the Ionian to the Phrygian to the Mixolydian scale before a final cadence in the tonic key.
 
-![Modal Scales Singing Warmup]({{ '/images/Week13modalsinging.jpg' | relative_url }}){:target='_blank'}
+![Modal Scales Singing Warmup]({{ '/images/Week13modalsinging.jpg' | absolute_url }}){:target='_blank'}
 
 At the piano, sightread the melodic line from Mozart's Piano Sonata in C Major K. 545. Notice Mozart's use of the Aeolian, Mixolydian, Lydian, Phrygian, and Dorian modes. How do they move the melody and harmony along?
 
-![Mozart Piano Sonata]({{ '/images/Week13mozart.JPG' | relative_url }}){:target='_blank'}
+![Mozart Piano Sonata]({{ '/images/Week13mozart.JPG' | absolute_url }}){:target='_blank'}

@@ -28,7 +28,7 @@ Please play the following chords in root position and all their inversions on th
 - How does it feel to play each chord with your fingers on the piano's keyboard?
 - How does it feel to sing each chord using solfege?
 
-![Seventh Chords in All Inversions]({{ '/images/Week7seventhchordsallintervals.jpg' | relative_url }})
+![Seventh Chords in All Inversions]({{ '/images/Week7seventhchordsallintervals.jpg' | absolute_url }})
 
 Chord   |   dd 4/2   |   dm 4/2   |   mm 4/2   |   Mm 4/2   |   MM 4/2   
 ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
@@ -54,7 +54,7 @@ Chord   |   dd 4/2   |   dm 4/2   |   mm 4/2   |   Mm 4/2   |   MM 4/2
 
 In Unit 4, we shared a **flow chart** that helped identify seventh chords in root position and first inversion.
 
-![Seventh Chords In Root Position and First Inversion]({{ '/images/Week4SeventhChordsRootPositionAndFirstInversion.jpg' | relative_url }})
+![Seventh Chords In Root Position and First Inversion]({{ '/images/Week4SeventhChordsRootPositionAndFirstInversion.jpg' | absolute_url }})
 
  This week, why not make your own flow chart to help you identify seventh chords in all the inversions?
 
